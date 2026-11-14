@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-11-15T03:11:34.403494+09:00",
+ "updatedAt": "2026-11-15T07:30:03.736905+09:00",
  "stats": [
   {
    "source": "Google ニュース（北海道 釣果）",
    "status": "OK",
-   "links": 33,
-   "new": 26
+   "links": 32,
+   "new": 25
   },
   {
    "source": "Google ニュース（北海道 釣り）",
@@ -22,7 +22,7 @@
   {
    "source": "Google ニュース（道南 釣果）",
    "status": "OK",
-   "links": 20,
+   "links": 22,
    "new": 1
   },
   {
@@ -47,13 +47,13 @@
    "source": "エギCOM 北海道",
    "status": "OK",
    "links": 8,
-   "new": 8
+   "new": 0
   },
   {
    "source": "エギCOM 函館",
    "status": "OK",
    "links": 8,
-   "new": 3
+   "new": 0
   },
   {
    "source": "タックルベリー函館店",
@@ -76,7 +76,7 @@
   {
    "source": "TSURI HACK",
    "status": "OK",
-   "links": 55,
+   "links": 57,
    "new": 0
   },
   {
@@ -118,8 +118,8 @@
   {
    "source": "Google ニュース（噴火湾 釣り）",
    "status": "OK",
-   "links": 25,
-   "new": 13
+   "links": 26,
+   "new": 14
   },
   {
    "source": "Google ニュース（鹿部 釣り）",
@@ -137,12 +137,12 @@
    "source": "Google ニュース（森町 釣り）",
    "status": "OK",
    "links": 15,
-   "new": 5
+   "new": 4
   },
   {
    "source": "Google ニュース（北斗市 釣り）",
    "status": "OK",
-   "links": 26,
+   "links": 25,
    "new": 0
   },
   {
