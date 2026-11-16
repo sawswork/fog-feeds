@@ -4,7 +4,7 @@
     <title>北海道の釣果情報（fog-feeds）</title>
     <link>https://github.com/sawswork/fog-feeds</link>
     <description>北海道全域の釣果・釣行情報を複数のサイトから集めたもの。見出しと短い説明、元記事へのリンク。</description>
-    <lastBuildDate>Mon, 16 Nov 2026 15:39:27 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 17 Nov 2026 04:39:40 +0900</lastBuildDate>
     <item>
       <title>1月に今釣れるおすすめの魚！ワカサギ・チカ・ホッケなど</title>
       <link>https://fishinglife.hatenadiary.jp/entry/2026/11/06/073309</link>
@@ -22,6 +22,15 @@
       <description>1月の北海道は、一年で最も寒さが厳しい時期です。雪と氷に覆われた景色の中でも、釣りの楽しみはしっかりあります。氷上でのワカサギ釣りが本番を迎え、港ではチカやホッケの数釣りも楽しめる季節です。 この記事では、1月に北海道で今釣れるおすすめの魚を5つ紹介します。極寒の中での釣りになるので、防寒と安全にしっかり気をつけて、真冬の釣りを楽しみましょう。 1月に今釣れる魚！ ワカサギ （写真はイメージです） ワカサギは、1月の氷上釣りシーズン本番の主役です。氷に穴を開けて狙うワカサギ釣りは、北海道の冬ならではの楽しみで、群れに当たればたくさんの釣果が期待できます。ただし、氷上釣りができるのは解禁した場所だけで、氷の厚さや状態は日々変わります。必ず現地の解禁情報と氷の状態を確認してから出かけましょう。詳しくは、こちらのワカサギ釣りの始め方ガイドも参考にしてください。 ワカサギ釣りの始め方｜氷上釣りの道… ｜ 魚種: チカ・ホッケ（みんなの北海道釣り情報）</description>
       <category>みんなの北海道釣り情報</category>
       <fog:species>チカ・ホッケ</fog:species>
+    </item>
+    <item>
+      <title>穴釣りの始め方｜根魚の仕掛け・ポイント・釣り方をわかりやすく！</title>
+      <link>https://fishinglife.hatenadiary.jp/entry/2026/11/16/190000</link>
+      <guid isPermaLink="true">https://fishinglife.hatenadiary.jp/entry/2026/11/16/190000</guid>
+      <pubDate>Mon, 16 Nov 2026 19:00:00 +0900</pubDate>
+      <description>※2026年11月に公開しました。ポイントの立入可否やルールは変わることがあるため、出かける前に最新情報の確認をお願いします。 穴釣りは、テトラ帯や岩の隙間など「穴」の中に仕掛けを落として根魚を狙う、手軽で奥の深い釣りです。遠投は不要で、足下の穴からクロソイやアイナメ、カサゴ類が顔を出します。この記事では、穴釣りの仕掛け・ポイント・釣り方を、初めての方にもわかりやすくまとめます。 穴釣りとは？狙える魚 クロソイ：夜行性が強く、夕方から夜に実績が上がります。テトラの穴の奥に着いています アイナメ（アブラコ）：秋から冬は大型が岸寄りする時期。穴の周りや際がポイントです カサゴ類・カジカ類：穴の奥に潜む代表格。小さなアタリを逃さないのがコツです 対象魚の詳しい生態は クロソイが釣れるおすすめのポイント・釣り場 の記事と、本日公開のアイナメの記事（ https://fishinglife.hate… ｜ 魚種: クロソイ・アイナメ・カサゴ・アブラコ・カジカ（みんなの北海道釣り情報）</description>
+      <category>みんなの北海道釣り情報</category>
+      <fog:species>クロソイ・アイナメ・カサゴ・アブラコ・カジカ</fog:species>
     </item>
     <item>
       <title>アイナメ（アブラコ）が釣れるおすすめのポイント・時期｜釣り方をわかりやすく！</title>
@@ -51,6 +60,18 @@
       <description>※2026年11月に公開しました。ポイントの立入可否やルールは変わることがあるため、出かける前に最新情報の確認をお願いします。 北海道の冬の夜は、根魚の季節です。クロソイやアイナメ（アブラコ）は水温が下がる11月から活性が上がり、港の明かりの下やテトラ帯、岩礁の際で夜にこそよく釣れます。この記事では、冬の夜釣りで根魚を狙う釣り方と仕掛け、そして真冬の港で安全に釣るための防寒のポイントをまとめます。 冬の夜釣りで狙う根魚｜クロソイとアイナメ クロソイ：夜行性が強く、日が沈んでからが本番です。港の常夜灯の明暗の境目、テトラや捨て石の際、船溜まりの影など、暗がりと障害物の周りに着いています アイナメ（アブラコ）：秋から冬は産卵期に向けて大型が岸へ寄る時期です。日中も釣れますが、夕方から夜に実績が上がります。岩礁やテトラの穴の周りがポイントです クロソイの釣り場や基本は クロソイが釣れるおすすめの… ｜ 魚種: クロソイ・アイナメ・アブラコ（みんなの北海道釣り情報）</description>
       <category>みんなの北海道釣り情報</category>
       <fog:species>クロソイ・アイナメ・アブラコ</fog:species>
+    </item>
+    <item>
+      <title>冬の川、ヤマメとイワナ【 北海道 小樽 釣り 水中映像 】 - YouTube</title>
+      <link>https://news.google.com/rss/articles/CBMiXEFVX3lxTE5uaFJrWVp0QXpXclhoMVFuY3NBeVZCYzBveXlGWGhTRW5XM2JfYWtpNzhuYUpzM2hOV1JMVWxsQU81akhhQ2dnMGhzWi1zSTNpT1JuRU1ROENFRlRs?oc=5</link>
+      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMiXEFVX3lxTE5uaFJrWVp0QXpXclhoMVFuY3NBeVZCYzBveXlGWGhTRW5XM2JfYWtpNzhuYUpzM2hOV1JMVWxsQU81akhhQ2dnMGhzWi1zSTNpT1JuRU1ROENFRlRs?oc=5</guid>
+      <pubDate>Sun, 15 Nov 2026 08:00:21 +0000</pubDate>
+      <description>Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News. ｜ 場所: 小樽 / 魚種: ヤマメ（Google ニュース（北海道 釣り））</description>
+      <category>Google ニュース（北海道 釣り）</category>
+      <fog:place>小樽</fog:place>
+      <fog:lat>43.19100</fog:lat>
+      <fog:lon>141.00000</fog:lon>
+      <fog:species>ヤマメ</fog:species>
     </item>
     <item>
       <title>近くに釣り竿が・・・石狩湾新港に浮いていた男性の死亡を確認 釣り人が海中転落したか - Yahoo!ニュース</title>
@@ -84,6 +105,17 @@
       <fog:place>石狩</fog:place>
       <fog:lat>43.17100</fog:lat>
       <fog:lon>141.31500</fog:lon>
+    </item>
+    <item>
+      <title>「海に人が浮かんでいる」釣りをしていて転落か 僧侶の男性（61）が死亡 北海道石狩市 ｜ ニュース - ＳＴＶ札幌テレビ 放送</title>
+      <link>https://news.google.com/rss/articles/CBMiggFBVV95cUxPSk9KWVF5NVNKN3psQkpHWllWQUtXU0lOaXh5eGg0a3dMZ2k4LXRySzRuZTJRamV4Rm02NVNmS0hlb1ZGRmFKVGZwdG55Y2o3SXFiZ1hXTkwwTjl4cnJnRXlUQURkNW9yd0tnZE5hUnBjbmNVOVgzTzFaWGs5cUFCbF9B?oc=5</link>
+      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMiggFBVV95cUxPSk9KWVF5NVNKN3psQkpHWllWQUtXU0lOaXh5eGg0a3dMZ2k4LXRySzRuZTJRamV4Rm02NVNmS0hlb1ZGRmFKVGZwdG55Y2o3SXFiZ1hXTkwwTjl4cnJnRXlUQURkNW9yd0tnZE5hUnBjbmNVOVgzTzFaWGs5cUFCbF9B?oc=5</guid>
+      <pubDate>Sun, 15 Nov 2026 01:35:57 +0000</pubDate>
+      <description>「海に人が浮かんでいる」釣りをしていて転落か 僧侶の男性（61）が死亡 北海道石狩市 ｜ ニュース ＳＴＶ札幌テレビ 放送 ｜ 場所: 札幌・石狩（Google ニュース（森町 釣り））</description>
+      <category>Google ニュース（森町 釣り）</category>
+      <fog:place>札幌</fog:place>
+      <fog:lat>43.06200</fog:lat>
+      <fog:lon>141.35400</fog:lon>
     </item>
     <item>
       <title>「海に人が浮かんでいる」釣りをしていて転落か 僧侶の男性（61）が死亡 北海道石狩市 - Yahoo!ニュース</title>
@@ -279,6 +311,17 @@
       <description>※2026年11月に公開しました。ポイントの立入可否やルールは変わることがあるため、出かける前に最新情報の確認をお願いします。 コマイは漢字で「氷下魚」と書く、北海道の冬を代表する魚です。タラの仲間で、晩秋から冬にかけて産卵のために岸へ寄ってきます。盛期はまさに今、10月〜12月。この記事では、堤防や港からの投げ釣りと夜釣りを中心に、コマイの釣り方とポイントをわかりやすくまとめます。 （写真はイメージです） コマイ（氷下魚）とは？旬とサイズ コマイは北の冷たい海に棲むタラ科の魚で、北海道では冬の味覚としておなじみです。釣れるサイズは20〜30cm前後が中心で、大きなものは40cm近くになることもあります。 身は白身でクセがなく、塩焼きや煮付け、干した「干しコマイ」も人気です。産卵期に岸寄りするため、船に乗らなくても堤防や砂浜から狙えるのが大きな魅力です。 コマイの時期と釣れる時間帯 シーズ… ｜ 魚種: コマイ（みんなの北海道釣り情報）</description>
       <category>みんなの北海道釣り情報</category>
       <fog:species>コマイ</fog:species>
+    </item>
+    <item>
+      <title>【漁港に打ち上げられたのは白骨化した遺体】着衣が一部残り両足には靴が…付近で釣りをしていた人が発見＿警察が事件と事故の両面で調べる〈北海道根室市〉 - UHB 北海道文化放送</title>
+      <link>https://news.google.com/rss/articles/CBMiV0FVX3lxTFB2dXA1Q1JIMW5QTk5vbm91VjgtUkZSTFYzb3FRcDJiTkZ2cVhma3FSdW0xMTI3VVhZaUR5OTNOUW5pcFFfSG53Y2doRG5IbC0xX3JweHBFRQ?oc=5</link>
+      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMiV0FVX3lxTFB2dXA1Q1JIMW5QTk5vbm91VjgtUkZSTFYzb3FRcDJiTkZ2cVhma3FSdW0xMTI3VVhZaUR5OTNOUW5pcFFfSG53Y2doRG5IbC0xX3JweHBFRQ?oc=5</guid>
+      <pubDate>Sat, 14 Nov 2026 09:39:56 +0000</pubDate>
+      <description>【漁港に打ち上げられたのは白骨化した遺体】着衣が一部残り両足には靴が…付近で釣りをしていた人が発見＿警察が事件と事故の両面で調べる〈北海道根室市〉 UHB 北海道文化放送 ｜ 場所: 根室（Google ニュース（北海道 釣り））</description>
+      <category>Google ニュース（北海道 釣り）</category>
+      <fog:place>根室</fog:place>
+      <fog:lat>43.33000</fog:lat>
+      <fog:lon>145.58300</fog:lon>
     </item>
     <item>
       <title>【漁港に打ち上げられたのは白骨化した遺体】着衣が一部残り両足には靴が…付近で釣りをしていた人が発見＿警察が事件と事故の両面で調べる〈北海道根室市〉 - Yahoo!ニュース</title>
@@ -4326,17 +4369,6 @@
       <fog:place>鹿部</fog:place>
       <fog:lat>42.02800</fog:lat>
       <fog:lon>140.81400</fog:lon>
-    </item>
-    <item>
-      <title>網走湖の氷上ワカサギ釣り解禁 資源不足懸念で期間1カ月短縮 - 北海道新聞デジタル</title>
-      <link>https://news.google.com/rss/articles/CBMiWkFVX3lxTFBsWjN2dUdQMFg3a21uN1BnUmJfZGVsVExwNDhkaU1wQVRlWF9aZFNPeEVIVzQ0SFIyTWQ4QWdnYS1JbWxUYmZiREVnS1hpMUV5NDFHTmJVdUtyQQ?oc=5</link>
-      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMiWkFVX3lxTFBsWjN2dUdQMFg3a21uN1BnUmJfZGVsVExwNDhkaU1wQVRlWF9aZFNPeEVIVzQ0SFIyTWQ4QWdnYS1JbWxUYmZiREVnS1hpMUV5NDFHTmJVdUtyQQ?oc=5</guid>
-      <pubDate>Mon, 05 Jan 2026 08:00:00 +0000</pubDate>
-      <description>網走湖の氷上ワカサギ釣り解禁 資源不足懸念で期間1カ月短縮 北海道新聞デジタル ｜ 場所: 網走（Google ニュース（森町 釣り））</description>
-      <category>Google ニュース（森町 釣り）</category>
-      <fog:place>網走</fog:place>
-      <fog:lat>44.02100</fog:lat>
-      <fog:lon>144.27300</fog:lon>
     </item>
     <item>
       <title>サンマ釣りにぎわう 根室港、岸壁に太公望続々【根室市】 - 北海道ニュースリンク</title>
