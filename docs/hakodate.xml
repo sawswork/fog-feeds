@@ -4,7 +4,18 @@
     <title>函館周辺の釣果情報（fog-feeds）</title>
     <link>https://github.com/sawswork/fog-feeds</link>
     <description>道南・函館周辺の釣果・釣行情報を複数のサイトから集めたもの。見出しと短い説明、元記事へのリンク。</description>
-    <lastBuildDate>Mon, 16 Nov 2026 07:53:55 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 16 Nov 2026 15:39:27 +0900</lastBuildDate>
+    <item>
+      <title>2026/11/16 △▲△ｲｰｼﾞｰｼｪｲｶｰ2.5″入荷しました！！△▲△</title>
+      <link>https://www.tackleberry.co.jp/shop/30011066/2026/11/16/%e2%96%b3%e2%96%b2%e2%96%b3%ef%bd%b2%ef%bd%b0%ef%bd%bc%ef%be%9e%ef%bd%b0%ef%bd%bc%ef%bd%aa%ef%bd%b2%ef%bd%b6%ef%bd%b02-5%e5%85%a5%e8%8d%b7%e3%81%97%e3%81%be%e3%81%97%e3%81%9f%ef%bc%81%ef%bc%81/</link>
+      <guid isPermaLink="true">https://www.tackleberry.co.jp/shop/30011066/2026/11/16/%e2%96%b3%e2%96%b2%e2%96%b3%ef%bd%b2%ef%bd%b0%ef%bd%bc%ef%be%9e%ef%bd%b0%ef%bd%bc%ef%bd%aa%ef%bd%b2%ef%bd%b6%ef%bd%b02-5%e5%85%a5%e8%8d%b7%e3%81%97%e3%81%be%e3%81%97%e3%81%9f%ef%bc%81%ef%bc%81/</guid>
+      <pubDate>Mon, 16 Nov 2026 00:00:00 +0900</pubDate>
+      <description>Just another 釣具の販売｜中古釣具オークション、高価買取、通販【タックルベリー】サイト site ｜ 場所: 函館（タックルベリー函館店）</description>
+      <category>タックルベリー函館店</category>
+      <fog:place>函館</fog:place>
+      <fog:lat>41.76870</fog:lat>
+      <fog:lon>140.72900</fog:lon>
+    </item>
     <item>
       <title>釣り中に海中転落か「黒のダウンを着た男性が浮いている」目撃者が119番通報、50代～60代くらいの男性死亡　北海道石狩市 - Infoseek</title>
       <link>https://news.google.com/rss/articles/CBMibEFVX3lxTE8yT0tSdTNodlBzYjR6VGdJUlA4RWlzR0Q3bHpCYWN0WXlITElwU2hQbWVJVVlZQjIwQmEwLTdnNmlCYmdaOGMxQ0FVTnFvRndOSU51VFhjRF9KSHRyZUNhN3NoQ2dVRmxBZmQwV9IBckFVX3lxTE5WdWgyY3h1RWhtanBSeFQzb2txWlhxSDk2am9kTEhtWlJOWXJIVEpGODFQVzIwSXlOY2xLbFlIVnpYUV9sZUVXUjI3V1NZaVBBYWQtX1lVbnRHU1hmQ0E2NEdQOTlrVjVEQi1aSDdaRURLdw?oc=5</link>
@@ -116,6 +127,18 @@
       <title>21 HIT TOMO さん 2026-11-14 19:34 ツツイカ：100g〜300g 釣果場所： 北海道 函館 釣り場所：防波堤 中層できました。昨日ご一緒させていただいたCOMメンバーの方々のおかげで釣れました。 詳細ページ →</title>
       <link>https://www.yamaria.com/catches/1323263</link>
       <guid isPermaLink="true">https://www.yamaria.com/catches/1323263</guid>
+      <pubDate>Sat, 14 Nov 2026 00:00:00 +0900</pubDate>
+      <description>場所: 函館 / 魚種: イカ（エギCOM 函館）</description>
+      <category>エギCOM 函館</category>
+      <fog:place>函館</fog:place>
+      <fog:lat>41.76870</fog:lat>
+      <fog:lon>140.72900</fog:lon>
+      <fog:species>イカ</fog:species>
+    </item>
+    <item>
+      <title>12 HIT Bマサ さん 2026-11-14 23:34 ツツイカ：100g〜300g 釣果場所： 北海道 函館 釣り場所：防波堤 全然群廻って来なくボトムでネチネチでようやく釣れてくれました 詳細ページ →</title>
+      <link>https://www.yamaria.com/catches/1323887</link>
+      <guid isPermaLink="true">https://www.yamaria.com/catches/1323887</guid>
       <pubDate>Sat, 14 Nov 2026 00:00:00 +0900</pubDate>
       <description>場所: 函館 / 魚種: イカ（エギCOM 函館）</description>
       <category>エギCOM 函館</category>

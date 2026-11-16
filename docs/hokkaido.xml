@@ -4,7 +4,7 @@
     <title>北海道の釣果情報（fog-feeds）</title>
     <link>https://github.com/sawswork/fog-feeds</link>
     <description>北海道全域の釣果・釣行情報を複数のサイトから集めたもの。見出しと短い説明、元記事へのリンク。</description>
-    <lastBuildDate>Mon, 16 Nov 2026 07:53:55 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 16 Nov 2026 15:39:27 +0900</lastBuildDate>
     <item>
       <title>1月に今釣れるおすすめの魚！ワカサギ・チカ・ホッケなど</title>
       <link>https://fishinglife.hatenadiary.jp/entry/2026/11/06/073309</link>
@@ -22,6 +22,26 @@
       <description>1月の北海道は、一年で最も寒さが厳しい時期です。雪と氷に覆われた景色の中でも、釣りの楽しみはしっかりあります。氷上でのワカサギ釣りが本番を迎え、港ではチカやホッケの数釣りも楽しめる季節です。 この記事では、1月に北海道で今釣れるおすすめの魚を5つ紹介します。極寒の中での釣りになるので、防寒と安全にしっかり気をつけて、真冬の釣りを楽しみましょう。 1月に今釣れる魚！ ワカサギ （写真はイメージです） ワカサギは、1月の氷上釣りシーズン本番の主役です。氷に穴を開けて狙うワカサギ釣りは、北海道の冬ならではの楽しみで、群れに当たればたくさんの釣果が期待できます。ただし、氷上釣りができるのは解禁した場所だけで、氷の厚さや状態は日々変わります。必ず現地の解禁情報と氷の状態を確認してから出かけましょう。詳しくは、こちらのワカサギ釣りの始め方ガイドも参考にしてください。 ワカサギ釣りの始め方｜氷上釣りの道… ｜ 魚種: チカ・ホッケ（みんなの北海道釣り情報）</description>
       <category>みんなの北海道釣り情報</category>
       <fog:species>チカ・ホッケ</fog:species>
+    </item>
+    <item>
+      <title>アイナメ（アブラコ）が釣れるおすすめのポイント・時期｜釣り方をわかりやすく！</title>
+      <link>https://fishinglife.hatenadiary.jp/entry/2026/11/16/094010</link>
+      <guid isPermaLink="true">https://fishinglife.hatenadiary.jp/entry/2026/11/16/094010</guid>
+      <pubDate>Mon, 16 Nov 2026 09:40:10 +0900</pubDate>
+      <description>※2026年11月に公開しました。ポイントの立入可否やルールは変わることがあるため、出かける前に最新情報の確認をお願いします。 アイナメは北海道では「アブラコ」の名前で親しまれる、秋から冬に旬を迎える根魚です。産卵期に向けて大型が岸へ寄る11月は、まさにシーズン最盛期。この記事では、アイナメが釣れるポイントと時期、仕掛けと釣り方をわかりやすくまとめます。 アイナメ（アブラコ）とは？旬とサイズ アイナメは岩礁やテトラ帯、捨て石の周りなど、根（障害物）のある場所に着く魚です。釣れるサイズは25〜35cm前後が中心で、秋から冬には40cmを超える大型も狙えます。 身は白身でクセがなく、刺身・煮付け・唐揚げなど食べ方も幅広い魚です。強い引きで知られ、掛けた直後に根へ潜ろうとするため、やり取りにもコツが要ります。 アイナメの時期と釣れる時間帯 シーズン：通年狙えますが、ハイシーズンは秋〜冬（10〜1… ｜ 魚種: アイナメ・アブラコ（みんなの北海道釣り情報）</description>
+      <category>みんなの北海道釣り情報</category>
+      <fog:species>アイナメ・アブラコ</fog:species>
+    </item>
+    <item>
+      <title>2026/11/16 △▲△ｲｰｼﾞｰｼｪｲｶｰ2.5″入荷しました！！△▲△</title>
+      <link>https://www.tackleberry.co.jp/shop/30011066/2026/11/16/%e2%96%b3%e2%96%b2%e2%96%b3%ef%bd%b2%ef%bd%b0%ef%bd%bc%ef%be%9e%ef%bd%b0%ef%bd%bc%ef%bd%aa%ef%bd%b2%ef%bd%b6%ef%bd%b02-5%e5%85%a5%e8%8d%b7%e3%81%97%e3%81%be%e3%81%97%e3%81%9f%ef%bc%81%ef%bc%81/</link>
+      <guid isPermaLink="true">https://www.tackleberry.co.jp/shop/30011066/2026/11/16/%e2%96%b3%e2%96%b2%e2%96%b3%ef%bd%b2%ef%bd%b0%ef%bd%bc%ef%be%9e%ef%bd%b0%ef%bd%bc%ef%bd%aa%ef%bd%b2%ef%bd%b6%ef%bd%b02-5%e5%85%a5%e8%8d%b7%e3%81%97%e3%81%be%e3%81%97%e3%81%9f%ef%bc%81%ef%bc%81/</guid>
+      <pubDate>Mon, 16 Nov 2026 00:00:00 +0900</pubDate>
+      <description>Just another 釣具の販売｜中古釣具オークション、高価買取、通販【タックルベリー】サイト site ｜ 場所: 函館（タックルベリー函館店）</description>
+      <category>タックルベリー函館店</category>
+      <fog:place>函館</fog:place>
+      <fog:lat>41.76870</fog:lat>
+      <fog:lon>140.72900</fog:lon>
     </item>
     <item>
       <title>冬の夜釣りで根魚を狙う｜クロソイ・アイナメの釣り方と防寒のポイント</title>
@@ -270,6 +290,17 @@
       <fog:place>根室</fog:place>
       <fog:lat>43.33000</fog:lat>
       <fog:lon>145.58300</fog:lon>
+    </item>
+    <item>
+      <title>根室で白骨遺体 納沙布岬の西方で釣り人発見 - 北海道新聞デジタル</title>
+      <link>https://news.google.com/rss/articles/CBMiWkFVX3lxTE14aUkwY3hoaUNQbE1QZ0ZjOWJyX3htaXRwQjRNRFVSbGhEZDd6Ti00MFZreGpXVEJDWWt3ODdIcm1QZ0lSQmlrMmdINzBHVXpCWGRtUzdZck1ndw?oc=5</link>
+      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMiWkFVX3lxTE14aUkwY3hoaUNQbE1QZ0ZjOWJyX3htaXRwQjRNRFVSbGhEZDd6Ti00MFZreGpXVEJDWWt3ODdIcm1QZ0lSQmlrMmdINzBHVXpCWGRtUzdZck1ndw?oc=5</guid>
+      <pubDate>Sat, 14 Nov 2026 09:07:17 +0000</pubDate>
+      <description>Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News. ｜ 場所: 納沙布・根室（Google ニュース（北海道 釣り））</description>
+      <category>Google ニュース（北海道 釣り）</category>
+      <fog:place>納沙布</fog:place>
+      <fog:lat>43.38600</fog:lat>
+      <fog:lon>145.81800</fog:lon>
     </item>
     <item>
       <title>不漁のはずのサンマが北海道の港で簡単に釣れた！ 大量に群れが接岸した意外な理由とは？ - TSURINEWS</title>
@@ -543,6 +574,45 @@
       <fog:species>イカ</fog:species>
     </item>
     <item>
+      <title>29 HIT kuro さん 2026-11-14 22:08 ツツイカ：100g以下 釣果場所： 全国 北海道 釣り場所：防波堤 ボトム付近で！ 詳細ページ →</title>
+      <link>https://www.yamaria.com/catches/1323970</link>
+      <guid isPermaLink="true">https://www.yamaria.com/catches/1323970</guid>
+      <pubDate>Sat, 14 Nov 2026 00:00:00 +0900</pubDate>
+      <description>魚種: イカ（エギCOM 北海道）</description>
+      <category>エギCOM 北海道</category>
+      <fog:species>イカ</fog:species>
+    </item>
+    <item>
+      <title>23 HIT kuro さん 2026-11-14 00:53 ツツイカ：100g以下 釣果場所： 全国 北海道 釣り場所：防波堤 中層で！ 詳細ページ →</title>
+      <link>https://www.yamaria.com/catches/1323969</link>
+      <guid isPermaLink="true">https://www.yamaria.com/catches/1323969</guid>
+      <pubDate>Sat, 14 Nov 2026 00:00:00 +0900</pubDate>
+      <description>魚種: イカ（エギCOM 北海道）</description>
+      <category>エギCOM 北海道</category>
+      <fog:species>イカ</fog:species>
+    </item>
+    <item>
+      <title>24 HIT kuro さん 2026-11-14 00:21 ツツイカ：100g以下 釣果場所： 全国 北海道 釣り場所：防波堤 中層でした！ 詳細ページ →</title>
+      <link>https://www.yamaria.com/catches/1323968</link>
+      <guid isPermaLink="true">https://www.yamaria.com/catches/1323968</guid>
+      <pubDate>Sat, 14 Nov 2026 00:00:00 +0900</pubDate>
+      <description>魚種: イカ（エギCOM 北海道）</description>
+      <category>エギCOM 北海道</category>
+      <fog:species>イカ</fog:species>
+    </item>
+    <item>
+      <title>12 HIT Bマサ さん 2026-11-14 23:34 ツツイカ：100g〜300g 釣果場所： 北海道 函館 釣り場所：防波堤 全然群廻って来なくボトムでネチネチでようやく釣れてくれました 詳細ページ →</title>
+      <link>https://www.yamaria.com/catches/1323887</link>
+      <guid isPermaLink="true">https://www.yamaria.com/catches/1323887</guid>
+      <pubDate>Sat, 14 Nov 2026 00:00:00 +0900</pubDate>
+      <description>場所: 函館 / 魚種: イカ（エギCOM 函館）</description>
+      <category>エギCOM 函館</category>
+      <fog:place>函館</fog:place>
+      <fog:lat>41.76870</fog:lat>
+      <fog:lon>140.72900</fog:lon>
+      <fog:species>イカ</fog:species>
+    </item>
+    <item>
       <title>北海道の氷上ワカサギ釣りはいつから？湖ごとの解禁時期と準備まとめ</title>
       <link>https://fishinglife.hatenadiary.jp/entry/2026/11/13/190000</link>
       <guid isPermaLink="true">https://fishinglife.hatenadiary.jp/entry/2026/11/13/190000</guid>
@@ -721,6 +791,33 @@
       <title>20 HIT キャプテン ポリッシュ さん 2026-11-13 00:25 ツツイカ：300g〜500g 釣果場所： 全国 北海道 釣り場所：防波堤 大群の鼻先 詳細ページ →</title>
       <link>https://www.yamaria.com/catches/1323659</link>
       <guid isPermaLink="true">https://www.yamaria.com/catches/1323659</guid>
+      <pubDate>Fri, 13 Nov 2026 00:00:00 +0900</pubDate>
+      <description>魚種: イカ（エギCOM 北海道）</description>
+      <category>エギCOM 北海道</category>
+      <fog:species>イカ</fog:species>
+    </item>
+    <item>
+      <title>19 HIT キャプテン ポリッシュ さん 2026-11-13 01:34 ツツイカ：300g〜500g 釣果場所： 全国 北海道 釣り場所：防波堤 中層 このイカ、アクション後、ガッツリ目できた 詳細ページ →</title>
+      <link>https://www.yamaria.com/catches/1323974</link>
+      <guid isPermaLink="true">https://www.yamaria.com/catches/1323974</guid>
+      <pubDate>Fri, 13 Nov 2026 00:00:00 +0900</pubDate>
+      <description>魚種: イカ（エギCOM 北海道）</description>
+      <category>エギCOM 北海道</category>
+      <fog:species>イカ</fog:species>
+    </item>
+    <item>
+      <title>19 HIT キャプテン ポリッシュ さん 2026-11-13 01:13 ツツイカ：300g〜500g 釣果場所： 全国 北海道 釣り場所：防波堤 ベタ凪 サイト 詳細ページ →</title>
+      <link>https://www.yamaria.com/catches/1323972</link>
+      <guid isPermaLink="true">https://www.yamaria.com/catches/1323972</guid>
+      <pubDate>Fri, 13 Nov 2026 00:00:00 +0900</pubDate>
+      <description>魚種: イカ（エギCOM 北海道）</description>
+      <category>エギCOM 北海道</category>
+      <fog:species>イカ</fog:species>
+    </item>
+    <item>
+      <title>19 HIT キャプテン ポリッシュ さん 2026-11-13 01:03 ツツイカ：100g〜300g 釣果場所： 全国 北海道 釣り場所：防波堤 群れの動き緩い。複数キャッチも。 詳細ページ →</title>
+      <link>https://www.yamaria.com/catches/1323971</link>
+      <guid isPermaLink="true">https://www.yamaria.com/catches/1323971</guid>
       <pubDate>Fri, 13 Nov 2026 00:00:00 +0900</pubDate>
       <description>魚種: イカ（エギCOM 北海道）</description>
       <category>エギCOM 北海道</category>
@@ -993,6 +1090,24 @@
       <title>5 HIT ごンた さん 2026-11-12 16:17 ツツイカ：100g以下 釣果場所： 全国 北海道 釣り場所：防波堤 早めに行ってベスポジ確保。 途中色々とトラブル発生も何とかリカバリー、夕マズメのプライムタイムに短時間連発しまし</title>
       <link>https://www.yamaria.com/catches/1323732</link>
       <guid isPermaLink="true">https://www.yamaria.com/catches/1323732</guid>
+      <pubDate>Thu, 12 Nov 2026 00:00:00 +0900</pubDate>
+      <description>魚種: イカ（エギCOM 北海道）</description>
+      <category>エギCOM 北海道</category>
+      <fog:species>イカ</fog:species>
+    </item>
+    <item>
+      <title>30 HIT タクポン さん 2026-11-12 21:02 ツツイカ：100g以下 釣果場所： 全国 北海道 釣り場所：防波堤 カウント15くらいでキャッチ！ 詳細ページ →</title>
+      <link>https://www.yamaria.com/catches/1323945</link>
+      <guid isPermaLink="true">https://www.yamaria.com/catches/1323945</guid>
+      <pubDate>Thu, 12 Nov 2026 00:00:00 +0900</pubDate>
+      <description>魚種: イカ（エギCOM 北海道）</description>
+      <category>エギCOM 北海道</category>
+      <fog:species>イカ</fog:species>
+    </item>
+    <item>
+      <title>31 HIT タクポン さん 2026-11-12 20:55 ツツイカ：100g以下 釣果場所： 全国 北海道 釣り場所：防波堤 重いと思ったら久しぶりのダブルでした！ 詳細ページ →</title>
+      <link>https://www.yamaria.com/catches/1323939</link>
+      <guid isPermaLink="true">https://www.yamaria.com/catches/1323939</guid>
       <pubDate>Thu, 12 Nov 2026 00:00:00 +0900</pubDate>
       <description>魚種: イカ（エギCOM 北海道）</description>
       <category>エギCOM 北海道</category>
@@ -3320,6 +3435,18 @@
       <pubDate>Thu, 22 Oct 2026 07:00:00 +0000</pubDate>
       <description>【サケ釣り】秋の風物詩 28年の歴史に幕 最終日に密着 メモリアルな１尾も！ 北海道浜益川 TBS NEWS DIG ｜ 場所: 浜益 / 魚種: サケ（Google ニュース（北海道 釣果））</description>
       <category>Google ニュース（北海道 釣果）</category>
+      <fog:place>浜益</fog:place>
+      <fog:lat>43.59000</fog:lat>
+      <fog:lon>141.39000</fog:lon>
+      <fog:species>サケ</fog:species>
+    </item>
+    <item>
+      <title>【サケ釣り】秋の風物詩 28年の歴史に幕 最終日に密着 メモリアルな１尾も！ 北海道浜益川 - TBS NEWS DIG</title>
+      <link>https://news.google.com/rss/articles/CBMiV0FVX3lxTE1Pc1U3c05tM1dsaGxyZXNUc2NiQWhaNVYzSTBVVUw5T3JqVEFmbGtva2pNdmZ6dlF2Q1RfY3V2anZZY1pFbHZLZGpQc1ZldTA2a3hkQm5oWQ?oc=5</link>
+      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMiV0FVX3lxTE1Pc1U3c05tM1dsaGxyZXNUc2NiQWhaNVYzSTBVVUw5T3JqVEFmbGtva2pNdmZ6dlF2Q1RfY3V2anZZY1pFbHZLZGpQc1ZldTA2a3hkQm5oWQ?oc=5</guid>
+      <pubDate>Thu, 22 Oct 2026 07:00:00 +0000</pubDate>
+      <description>【サケ釣り】秋の風物詩 28年の歴史に幕 最終日に密着 メモリアルな１尾も！ 北海道浜益川 TBS NEWS DIG ｜ 場所: 浜益 / 魚種: サケ（Google ニュース（北海道 釣り））</description>
+      <category>Google ニュース（北海道 釣り）</category>
       <fog:place>浜益</fog:place>
       <fog:lat>43.59000</fog:lat>
       <fog:lon>141.39000</fog:lon>
