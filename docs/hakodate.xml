@@ -4,7 +4,31 @@
     <title>函館周辺の釣果情報（fog-feeds）</title>
     <link>https://github.com/sawswork/fog-feeds</link>
     <description>道南・函館周辺の釣果・釣行情報を複数のサイトから集めたもの。見出しと短い説明、元記事へのリンク。</description>
-    <lastBuildDate>Tue, 17 Nov 2026 12:56:41 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 01:07:30 +0900</lastBuildDate>
+    <item>
+      <title>留萌のおすすめ釣りポイント｜釣れる魚・時期・注意点をわかりやすく！</title>
+      <link>https://fishinglife.hatenadiary.jp/entry/2026/11/17/190000</link>
+      <guid isPermaLink="true">https://fishinglife.hatenadiary.jp/entry/2026/11/17/190000</guid>
+      <pubDate>Tue, 17 Nov 2026 19:00:00 +0900</pubDate>
+      <description>※2026年11月に公開しました。ポイントの立入可否やルールは変わることがあるため、出かける前に最新情報の確認をお願いします。 留萌は日本海に面した道北の港町で、留萌港を中心に岸壁・埠頭・周辺の漁港やサーフまで釣り場が広がるエリアです。冬のニシン、秋のホッケ、投げ釣りのカレイ・ハゼなど季節ごとに主役が変わります。この記事では、留萌の釣りポイントの見方と、釣れる魚・時期・注意点をわかりやすくまとめます。 留萌で釣りができる主なエリア 留萌港 南岸壁まわり：車を横付けしやすく足場もよいとされる開放エリアが中心です。サビキやちょい投げの起点になります。ただしソーラスエリアや荷役場所など立入禁止区域が多いので、現地の表示を必ず確認してください 古丹浜埠頭まわり：港に近い開放護岸まわりです。根魚や投げ釣りで実績があります 周辺の漁港（増毛・雄冬方面など）：少し足を伸ばすと小さな漁港が点在します。ホッ… ｜ 場所: 留萌港・港町・留萌・増毛・雄冬・道北 / 魚種: ニシン・ホッケ・カレイ（みんなの北海道釣り情報）</description>
+      <category>みんなの北海道釣り情報</category>
+      <fog:place>留萌港</fog:place>
+      <fog:lat>43.96444</fog:lat>
+      <fog:lon>141.62889</fog:lon>
+      <fog:species>ニシン・ホッケ・カレイ</fog:species>
+    </item>
+    <item>
+      <title>ラストヒラメ！マガレイ、ソイ良型ヒット</title>
+      <link>https://www.magicalhour.net/2026/11/17/%E6%9C%80%E5%BE%8C%E3%81%AE%E3%83%92%E3%83%A9%E3%83%A1-%E3%83%9E%E3%82%AC%E3%83%AC%E3%82%A4-%E3%82%BD%E3%82%A4%E8%89%AF%E5%9E%8B%E3%83%92%E3%83%83%E3%83%88/</link>
+      <guid isPermaLink="true">https://www.magicalhour.net/2026/11/17/%E6%9C%80%E5%BE%8C%E3%81%AE%E3%83%92%E3%83%A9%E3%83%A1-%E3%83%9E%E3%82%AC%E3%83%AC%E3%82%A4-%E3%82%BD%E3%82%A4%E8%89%AF%E5%9E%8B%E3%83%92%E3%83%83%E3%83%88/</guid>
+      <pubDate>Tue, 17 Nov 2026 15:15:31 +0900</pubDate>
+      <description>１１月１４，１７日ヒラメ、カレイ、ソイ。季節の動きを感じました うーんなかなか沖に出られません。秋も深まると天候との勝負！ まずはヒラメ ｲﾀ━━━━(ﾟ∀ﾟ)━━━━!! もう一枚！ 天候の都合でなかなか出られなかったTさん。ズレにズレてこの時期のチャレンジ 季節的にかなり厳しい中で複数ゲット！おめでとうございます(^^)/ 数は少なかったですが良型マガレイもゲット！ 今年はギスカジカが異常発生。じっくりカレイを狙いたいのに必要以上に邪魔してきます まだフグもいるのも困りもの。カレイを探す前にカジカ＆フグの妨害で見つけ切れず 釣れれば良型！グッドサイズのマガレイが上がってきました 本日はヒラメ＆沖根 ますはヒラメ！ 生存確認！ 朝から頑張りましたが反応薄め たまにヒラメかな？ってアタリはありましたが喰いが浅く確認が取れない状況 そんな中でTさんが見事ヒット！餌を咥えたヒラメを驚かさないよ… ｜ 場所: 豊浦 / 魚種: ヒラメ・マガレイ・ソイ・カレイ・ギスカジカ・カジカ（マジカルアワー（噴火湾の遊漁船））</description>
+      <category>マジカルアワー（噴火湾の遊漁船）</category>
+      <fog:place>豊浦</fog:place>
+      <fog:lat>42.57300</fog:lat>
+      <fog:lon>140.69200</fog:lon>
+      <fog:species>ヒラメ・マガレイ・ソイ・カレイ・ギスカジカ・カジカ</fog:species>
+    </item>
     <item>
       <title>室蘭のおすすめ釣りポイント｜釣れる魚・時期・注意点をわかりやすく！</title>
       <link>https://fishinglife.hatenadiary.jp/entry/2026/11/17/093623</link>
@@ -16,6 +40,78 @@
       <fog:lat>42.34796</fog:lat>
       <fog:lon>140.95977</fog:lon>
       <fog:species>ホッケ・チカ・カレイ</fog:species>
+    </item>
+    <item>
+      <title>5 HIT satokun さん 2026-11-17 17:53 ツツイカ：100g以下 釣果場所： 北海道 函館 釣り場所：防波堤 中層でした 詳細ページ →</title>
+      <link>https://www.yamaria.com/catches/1324674</link>
+      <guid isPermaLink="true">https://www.yamaria.com/catches/1324674</guid>
+      <pubDate>Tue, 17 Nov 2026 00:00:00 +0900</pubDate>
+      <description>場所: 函館 / 魚種: イカ（エギCOM 函館）</description>
+      <category>エギCOM 函館</category>
+      <fog:place>函館</fog:place>
+      <fog:lat>41.76870</fog:lat>
+      <fog:lon>140.72900</fog:lon>
+      <fog:species>イカ</fog:species>
+    </item>
+    <item>
+      <title>7 HIT Hote さん 2026-11-17 20:27 ツツイカ：100g〜300g 釣果場所： 北海道 函館 釣り場所：防波堤 サイズUPしたけどパターン掴めず 3杯で終了😅 詳細ページ →</title>
+      <link>https://www.yamaria.com/catches/1324651</link>
+      <guid isPermaLink="true">https://www.yamaria.com/catches/1324651</guid>
+      <pubDate>Tue, 17 Nov 2026 00:00:00 +0900</pubDate>
+      <description>場所: 函館 / 魚種: イカ（エギCOM 函館）</description>
+      <category>エギCOM 函館</category>
+      <fog:place>函館</fog:place>
+      <fog:lat>41.76870</fog:lat>
+      <fog:lon>140.72900</fog:lon>
+      <fog:species>イカ</fog:species>
+    </item>
+    <item>
+      <title>5 HIT めんめ さん 2026-11-17 21:38 ツツイカ：100g〜300g 釣果場所： 北海道 函館 釣り場所：防波堤 スルメイカ狙いでバシバシと激しくシャクリを入れて釣ったヤリイカ 詳細ページ →</title>
+      <link>https://www.yamaria.com/catches/1324650</link>
+      <guid isPermaLink="true">https://www.yamaria.com/catches/1324650</guid>
+      <pubDate>Tue, 17 Nov 2026 00:00:00 +0900</pubDate>
+      <description>場所: 函館 / 魚種: イカ・スルメイカ・ヤリイカ（エギCOM 函館）</description>
+      <category>エギCOM 函館</category>
+      <fog:place>函館</fog:place>
+      <fog:lat>41.76870</fog:lat>
+      <fog:lon>140.72900</fog:lon>
+      <fog:species>イカ・スルメイカ・ヤリイカ</fog:species>
+    </item>
+    <item>
+      <title>7 HIT Hote さん 2026-11-17 20:14 ツツイカ：100g以下 釣果場所： 北海道 函館 釣り場所：防波堤 群れがまわってきてサイトで釣りました 詳細ページ →</title>
+      <link>https://www.yamaria.com/catches/1324648</link>
+      <guid isPermaLink="true">https://www.yamaria.com/catches/1324648</guid>
+      <pubDate>Tue, 17 Nov 2026 00:00:00 +0900</pubDate>
+      <description>場所: 函館 / 魚種: イカ（エギCOM 函館）</description>
+      <category>エギCOM 函館</category>
+      <fog:place>函館</fog:place>
+      <fog:lat>41.76870</fog:lat>
+      <fog:lon>140.72900</fog:lon>
+      <fog:species>イカ</fog:species>
+    </item>
+    <item>
+      <title>6 HIT めんめ さん 2026-11-17 21:36 ツツイカ：100g〜300g 釣果場所： 北海道 函館 釣り場所：防波堤 3.5号エギでヤリイカ 詳細ページ →</title>
+      <link>https://www.yamaria.com/catches/1324646</link>
+      <guid isPermaLink="true">https://www.yamaria.com/catches/1324646</guid>
+      <pubDate>Tue, 17 Nov 2026 00:00:00 +0900</pubDate>
+      <description>場所: 函館 / 魚種: イカ・ヤリイカ（エギCOM 函館）</description>
+      <category>エギCOM 函館</category>
+      <fog:place>函館</fog:place>
+      <fog:lat>41.76870</fog:lat>
+      <fog:lon>140.72900</fog:lon>
+      <fog:species>イカ・ヤリイカ</fog:species>
+    </item>
+    <item>
+      <title>7 HIT Hote さん 2026-11-17 18:56 ツツイカ：100g以下 釣果場所： 北海道 函館 釣り場所：防波堤 足元のボトム付近でした 詳細ページ →</title>
+      <link>https://www.yamaria.com/catches/1324645</link>
+      <guid isPermaLink="true">https://www.yamaria.com/catches/1324645</guid>
+      <pubDate>Tue, 17 Nov 2026 00:00:00 +0900</pubDate>
+      <description>場所: 函館 / 魚種: イカ（エギCOM 函館）</description>
+      <category>エギCOM 函館</category>
+      <fog:place>函館</fog:place>
+      <fog:lat>41.76870</fog:lat>
+      <fog:lon>140.72900</fog:lon>
+      <fog:species>イカ</fog:species>
     </item>
     <item>
       <title>2026/11/16 △▲△ｲｰｼﾞｰｼｪｲｶｰ2.5″入荷しました！！△▲△</title>
