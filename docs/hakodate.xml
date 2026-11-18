@@ -4,7 +4,7 @@
     <title>函館周辺の釣果情報（fog-feeds）</title>
     <link>https://github.com/sawswork/fog-feeds</link>
     <description>道南・函館周辺の釣果・釣行情報を複数のサイトから集めたもの。見出しと短い説明、元記事へのリンク。</description>
-    <lastBuildDate>Wed, 18 Nov 2026 01:07:30 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 09:59:20 +0900</lastBuildDate>
     <item>
       <title>留萌のおすすめ釣りポイント｜釣れる魚・時期・注意点をわかりやすく！</title>
       <link>https://fishinglife.hatenadiary.jp/entry/2026/11/17/190000</link>
@@ -978,6 +978,18 @@
       <fog:species>ヒラメ</fog:species>
     </item>
     <item>
+      <title>スルメイカ８月５９トン 桧山好調、函館にも波及か【函館】 - 北海道ニュースリンク</title>
+      <link>https://news.google.com/rss/articles/CBMiTEFVX3lxTE1GYzFRa2NCWnVKS3NaQnJxTGxTOEg0TS1Ia25XWDFMY2k2MTVrUDlibXU0SWFPd2lUVFZmSGpFblh1UGJNSGE4bEVYeE4?oc=5</link>
+      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMiTEFVX3lxTE1GYzFRa2NCWnVKS3NaQnJxTGxTOEg0TS1Ia25XWDFMY2k2MTVrUDlibXU0SWFPd2lUVFZmSGpFblh1UGJNSGE4bEVYeE4?oc=5</guid>
+      <pubDate>Thu, 10 Sep 2026 07:00:00 +0000</pubDate>
+      <description>Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News. ｜ 場所: 函館 / 魚種: スルメイカ（Google ニュース（函館 釣り））</description>
+      <category>Google ニュース（函館 釣り）</category>
+      <fog:place>函館</fog:place>
+      <fog:lat>41.76870</fog:lat>
+      <fog:lon>140.72900</fog:lon>
+      <fog:species>スルメイカ</fog:species>
+    </item>
+    <item>
       <title>今週まとめ。バケは順調、ルアーは・・</title>
       <link>https://www.magicalhour.net/2026/09/06/%E4%BB%8A%E9%80%B1%E3%81%BE%E3%81%A8%E3%82%81-%E3%83%90%E3%82%B1%E3%81%AF%E9%A0%86%E8%AA%BF-%E3%83%AB%E3%82%A2%E3%83%BC%E3%81%AF/</link>
       <guid isPermaLink="true">https://www.magicalhour.net/2026/09/06/%E4%BB%8A%E9%80%B1%E3%81%BE%E3%81%A8%E3%82%81-%E3%83%90%E3%82%B1%E3%81%AF%E9%A0%86%E8%AA%BF-%E3%83%AB%E3%82%A2%E3%83%BC%E3%81%AF/</guid>
@@ -1416,17 +1428,6 @@
       <fog:place>天塩</fog:place>
       <fog:lat>44.89000</fog:lat>
       <fog:lon>141.74300</fog:lon>
-    </item>
-    <item>
-      <title>はるばるきたぜ函館へ！いか釣り体験でまさかの事態!?王林が「エルボーショルダー」に大変身?? - ABA青森朝日放送</title>
-      <link>https://news.google.com/rss/articles/CBMiZ0FVX3lxTE00a1NnbklWRmlwN0JzX2JHVWtPdHVheFV1ZnJFQ04wNFFMSlBfZFF0V2tBa205dV9KZGxYSFVhYzdnOV9DcVV1eHJnQk9YOGhrN0daUHlucjItSmtCc0hLTDdsU0pMODA?oc=5</link>
-      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMiZ0FVX3lxTE00a1NnbklWRmlwN0JzX2JHVWtPdHVheFV1ZnJFQ04wNFFMSlBfZFF0V2tBa205dV9KZGxYSFVhYzdnOV9DcVV1eHJnQk9YOGhrN0daUHlucjItSmtCc0hLTDdsU0pMODA?oc=5</guid>
-      <pubDate>Sat, 02 May 2026 07:00:00 +0000</pubDate>
-      <description>はるばるきたぜ函館へ！いか釣り体験でまさかの事態!?王林が「エルボーショルダー」に大変身?? ABA青森朝日放送 ｜ 場所: 函館（Google ニュース（函館 釣り））</description>
-      <category>Google ニュース（函館 釣り）</category>
-      <fog:place>函館</fog:place>
-      <fog:lat>41.76870</fog:lat>
-      <fog:lon>140.72900</fog:lon>
     </item>
     <item>
       <title>釣りガイド児島秀明さん 森町の協力隊員に 「豊富な観光資源 形に」 - 北海道新聞デジタル</title>
