@@ -1,22 +1,22 @@
 {
- "updatedAt": "2026-11-19T20:47:44.138371+09:00",
+ "updatedAt": "2026-11-20T05:43:05.060605+09:00",
  "stats": [
   {
    "source": "Google ニュース（北海道 釣果）",
    "status": "OK",
-   "links": 33,
-   "new": 24
+   "links": 35,
+   "new": 27
   },
   {
    "source": "Google ニュース（北海道 釣り）",
    "status": "OK",
-   "links": 62,
+   "links": 61,
    "new": 30
   },
   {
    "source": "Google ニュース（函館 釣り）",
    "status": "OK",
-   "links": 42,
+   "links": 44,
    "new": 30
   },
   {
@@ -35,7 +35,7 @@
    "source": "みんなの北海道釣り情報",
    "status": "OK",
    "links": 30,
-   "new": 1
+   "new": 0
   },
   {
    "source": "フィッシングショップ・インパクト（ブログ）",
@@ -45,14 +45,14 @@
   },
   {
    "source": "エギCOM 北海道",
-   "status": "OK",
-   "links": 8,
-   "new": 6
+   "status": "失敗",
+   "links": 0,
+   "new": 0
   },
   {
    "source": "エギCOM 函館",
-   "status": "OK",
-   "links": 8,
+   "status": "失敗",
+   "links": 0,
    "new": 0
   },
   {
@@ -76,7 +76,7 @@
   {
    "source": "TSURI HACK",
    "status": "OK",
-   "links": 55,
+   "links": 53,
    "new": 0
   },
   {
@@ -118,8 +118,8 @@
   {
    "source": "Google ニュース（噴火湾 釣り）",
    "status": "OK",
-   "links": 27,
-   "new": 14
+   "links": 51,
+   "new": 15
   },
   {
    "source": "Google ニュース（鹿部 釣り）",
@@ -130,14 +130,14 @@
   {
    "source": "Google ニュース（八雲 釣り）",
    "status": "OK",
-   "links": 8,
-   "new": 1
+   "links": 9,
+   "new": 0
   },
   {
    "source": "Google ニュース（森町 釣り）",
    "status": "OK",
-   "links": 20,
-   "new": 6
+   "links": 21,
+   "new": 7
   },
   {
    "source": "Google ニュース（北斗市 釣り）",
@@ -148,7 +148,7 @@
   {
    "source": "Google ニュース（松前 江差 釣り）",
    "status": "OK",
-   "links": 25,
+   "links": 27,
    "new": 0
   }
  ],
@@ -230,6 +230,20 @@
    "species": [],
    "hakodate": false,
    "firstSeen": "2026-11-19T05:37:52.305594+09:00"
+  },
+  {
+   "title": "不漁続くサンマの群れが港に入り込み岸壁が釣り客でにぎわう 水産試験場「産卵のため南下する群れが根室港に入ったのでは」北海道根室市 - Yahoo!ニュース",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNMDRBOWVSWEhFUW9xUzd1NnkyODB2S3BPVDJOU3BmNHYyVkVrTE1scklDcFQzSFAycGw1MzJ0a2d2QUw1UE5iRFJWWm8yWkdhVkFkd1FIdkh5bmpXa2NGcDFWMHRLNkZHTzlpeDQtUXZBMGJCZmZpNEtRNHhpWElYRHpibTBOX3c1LUJTMVR3?oc=5",
+   "summary": "不漁続くサンマの群れが港に入り込み岸壁が釣り客でにぎわう 水産試験場「産卵のため南下する群れが根室港に入ったのでは」北海道根室市 Yahoo!ニュース",
+   "date": "2026-11-18T12:05:24+00:00",
+   "source": "Google ニュース（北海道 釣り）",
+   "places": [
+    "根室港",
+    "根室"
+   ],
+   "species": [],
+   "hakodate": false,
+   "firstSeen": "2026-11-20T05:43:05.060605+09:00"
   },
   {
    "title": "不漁続くサンマの群れが港に入り込み岸壁が釣り客でにぎわう 水産試験場「産卵のため南下する群れが根室港に入ったのでは」北海道根室市 | 北海道のニュース｜HBC北海道放送 (1ページ) - TBS NEWS DIG",
@@ -5775,6 +5789,21 @@
    "firstSeen": "2026-11-05T12:50:42.983227+09:00"
   },
   {
+   "title": "魚種格闘技戦！ - シーズン1 - BATTLE-254 石狩湾のでっかいヒラメチャンスの時間 () | 無料動画・見逃し配信を見るなら - ABEMA",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1DZkU2aEhkcEhfRVA3aDlhMW1TaV9fMEw3ZjZ6alRrbnNnZEpfRVExMl85R19PTDBzcExjaU5FYlJPSVFhMHBleVhHQWxMTVhIa0tKaS1ZVkg5Mjg?oc=5",
+   "summary": "魚種格闘技戦！ - シーズン1 - BATTLE-254 石狩湾のでっかいヒラメチャンスの時間 () | 無料動画・見逃し配信を見るなら ABEMA",
+   "date": "2026-10-26T13:05:00+00:00",
+   "source": "Google ニュース（噴火湾 釣り）",
+   "places": [
+    "石狩湾"
+   ],
+   "species": [
+    "ヒラメ"
+   ],
+   "hakodate": true,
+   "firstSeen": "2026-11-20T05:43:05.060605+09:00"
+  },
+  {
    "title": "2026青物釣行記⑫",
    "link": "https://sshiimaaa.hatenablog.com/entry/2026/10/26/191600",
    "summary": "10月25日 いつもの漁港 5:30〜7:30 久しぶりに釣りに行くことができました。 今年はブリシーズン初期に頻繁に釣りに行っていただけに、ずいぶん久しぶりに感じます。 釣りに行けなかった理由は… 全く釣りに関係のない話を少ししちゃいます。 実は前回の釣行の少し後、人生初となる病院での手術をしてきました。 手術と言うととんでもないことのように感じますが、恥ずかしげもなく書いてしまうと、痔の手術でした。 手術は無事に済みましたが、それからの療養の日々がとにかく長い！ 今回の治療法がセトン法と呼ばれるもので、数ヶ月はかかる治療のようで。 座り仕事の長い方、お気をつけください…。 さすがに詳しくは書きませんが、痛みや違和感も落ち着いてきたので、治療中の身でありますが、リハビリ釣行に来ました！ 季節の変わった海 気を取り直して、釣りの話に戻ります。 しばらく来なかったら、海はしっかり秋めいていま…",
@@ -7076,6 +7105,21 @@
    "firstSeen": "2026-11-14T04:47:46.563967+09:00"
   },
   {
+   "title": "スルメイカ９月２３０トン ７年ぶり２００トン超 胆振方面から陸送増【函館】 - 北海道ニュースリンク",
+   "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5HSkYxbGkxdC04YlZCT2laTkxZN3hJQlNsYkVFUnI3TmNBN2VrLUFNdVhoTkpBbUZGV1NKMkwyMjJUYkFLb0ZlZ1RRNWQ?oc=5",
+   "summary": "スルメイカ９月２３０トン ７年ぶり２００トン超 胆振方面から陸送増【函館】 北海道ニュースリンク",
+   "date": "2025-10-04T07:00:00+00:00",
+   "source": "Google ニュース（噴火湾 釣り）",
+   "places": [
+    "函館"
+   ],
+   "species": [
+    "スルメイカ"
+   ],
+   "hakodate": true,
+   "firstSeen": "2026-11-20T05:43:05.060605+09:00"
+  },
+  {
    "title": "幕末のロマンが蘇る「開陽丸記念館」と江差で楽しめる船釣り「OCEAN TERRA」 - visit-hokkaido.jp",
    "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1KdzNUa2dLUWxJb1NkdDd5VHg4cDFMQkkyZGxDNFR6M0c5Qm9OeHZlX0xqWHRNTlN6bGV3WDl4SnV6TXdwX3ZEbXB0bXlLZlFPeS1jWQ?oc=5",
    "summary": "幕末のロマンが蘇る「開陽丸記念館」と江差で楽しめる船釣り「OCEAN TERRA」 visit-hokkaido.jp",
@@ -7160,6 +7204,19 @@
    "firstSeen": "2026-11-05T13:15:28.807938+09:00"
   },
   {
+   "title": "「北海道ロックフィッシュゲームがハイシーズン間近！」堤防で40cm級アイナメを好捕 - TSURINEWS",
+   "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9QM3ZObk1XOTVSbk1oc0x0NEFUQkQyQmc4c1hhbkx3RGFXenZPRDF6M0FjbEk1b2d1aVVVTjc2RkQ3UQ?oc=5",
+   "summary": "「北海道ロックフィッシュゲームがハイシーズン間近！」堤防で40cm級アイナメを好捕 TSURINEWS",
+   "date": "2025-06-30T07:00:00+00:00",
+   "source": "Google ニュース（噴火湾 釣り）",
+   "places": [],
+   "species": [
+    "アイナメ"
+   ],
+   "hakodate": true,
+   "firstSeen": "2026-11-20T05:43:05.060605+09:00"
+  },
+  {
    "title": "「13時間かけて本命と対面」噴火湾でのロックゲーム釣行で40cmアイナメをキャッチ【北海道】 - TSURINEWS",
    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE0tQ05IVHFQYVVDV090T1hNQ3ZycFJFWmltM2RoZFEtSWRDWEdtWFczOGdTYkdiUGhla05BMG1yUjFaUQ?oc=5",
    "summary": "「13時間かけて本命と対面」噴火湾でのロックゲーム釣行で40cmアイナメをキャッチ【北海道】 TSURINEWS",
@@ -7203,49 +7260,6 @@
    "species": [],
    "hakodate": true,
    "firstSeen": "2026-11-10T04:52:42.743075+09:00"
-  },
-  {
-   "title": "北海道の漁港ロックフィッシュゲームで43cm頭にアイナメ複数安打を達成！ - TSURINEWS",
-   "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9OWGtrb20zRW5tU1RVc00wN0Y4N05CcndNd1JiRXotcmg2S3lCaG0zenJqWllzMi0xZWlXaklLTEV3QQ?oc=5",
-   "summary": "北海道の漁港ロックフィッシュゲームで43cm頭にアイナメ複数安打を達成！ TSURINEWS",
-   "date": "2025-06-05T07:00:00+00:00",
-   "source": "Google ニュース（噴火湾 釣り）",
-   "places": [],
-   "species": [
-    "アイナメ"
-   ],
-   "hakodate": true,
-   "firstSeen": "2026-11-05T13:15:28.807938+09:00"
-  },
-  {
-   "title": "北海道のルアー根魚釣りで丸々としたアイナメ2尾【噴火湾】足元のブロック帯でヒット - TSURINEWS",
-   "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5WMm5TNTlCX1c1LWhxZzY4Vi14Qk5BNG1tQXB4SlhRXzAtT1FyOUpxWmczUkhqS1h3MjhIOVRIZW9QUQ?oc=5",
-   "summary": "北海道のルアー根魚釣りで丸々としたアイナメ2尾【噴火湾】足元のブロック帯でヒット TSURINEWS",
-   "date": "2025-05-29T07:00:00+00:00",
-   "source": "Google ニュース（噴火湾 釣り）",
-   "places": [
-    "噴火湾"
-   ],
-   "species": [
-    "アイナメ"
-   ],
-   "hakodate": true,
-   "firstSeen": "2026-11-05T13:15:28.807938+09:00"
-  },
-  {
-   "title": "北海道噴火湾に春のロックゲームシーズン到来！40cm級含みアイナメ複数安打に成功 - TSURINEWS",
-   "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9vSThuRmswTXlncEFFLUx6cXlVVWs2MUZvZ2lTd0kzMVd3MmlvMnZBZFFwN3ZGUGNfQ0NxYXIwd1hGQQ?oc=5",
-   "summary": "北海道噴火湾に春のロックゲームシーズン到来！40cm級含みアイナメ複数安打に成功 TSURINEWS",
-   "date": "2025-05-20T07:00:00+00:00",
-   "source": "Google ニュース（噴火湾 釣り）",
-   "places": [
-    "噴火湾"
-   ],
-   "species": [
-    "アイナメ"
-   ],
-   "hakodate": true,
-   "firstSeen": "2026-11-05T13:15:28.807938+09:00"
   },
   {
    "title": "ボート釣り、洋上事故に注意を 八雲町沖で転覆事故 室蘭海保「天候、部品確認を」 - 北海道新聞デジタル",
