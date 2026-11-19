@@ -4,7 +4,7 @@
     <title>北海道の釣果情報（fog-feeds）</title>
     <link>https://github.com/sawswork/fog-feeds</link>
     <description>北海道全域の釣果・釣行情報を複数のサイトから集めたもの。見出しと短い説明、元記事へのリンク。</description>
-    <lastBuildDate>Thu, 19 Nov 2026 11:37:10 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 19 Nov 2026 20:47:44 +0900</lastBuildDate>
     <item>
       <title>1月に今釣れるおすすめの魚！ワカサギ・チカ・ホッケなど</title>
       <link>https://fishinglife.hatenadiary.jp/entry/2026/11/06/073309</link>
@@ -22,6 +22,18 @@
       <description>1月の北海道は、一年で最も寒さが厳しい時期です。雪と氷に覆われた景色の中でも、釣りの楽しみはしっかりあります。氷上でのワカサギ釣りが本番を迎え、港ではチカやホッケの数釣りも楽しめる季節です。 この記事では、1月に北海道で今釣れるおすすめの魚を5つ紹介します。極寒の中での釣りになるので、防寒と安全にしっかり気をつけて、真冬の釣りを楽しみましょう。 1月に今釣れる魚！ ワカサギ （写真はイメージです） ワカサギは、1月の氷上釣りシーズン本番の主役です。氷に穴を開けて狙うワカサギ釣りは、北海道の冬ならではの楽しみで、群れに当たればたくさんの釣果が期待できます。ただし、氷上釣りができるのは解禁した場所だけで、氷の厚さや状態は日々変わります。必ず現地の解禁情報と氷の状態を確認してから出かけましょう。詳しくは、こちらのワカサギ釣りの始め方ガイドも参考にしてください。 ワカサギ釣りの始め方｜氷上釣りの道… ｜ 魚種: チカ・ホッケ（みんなの北海道釣り情報）</description>
       <category>みんなの北海道釣り情報</category>
       <fog:species>チカ・ホッケ</fog:species>
+    </item>
+    <item>
+      <title>網走のおすすめ釣りポイント｜釣れる魚・時期・注意点をわかりやすく！</title>
+      <link>https://fishinglife.hatenadiary.jp/entry/2026/11/19/190000</link>
+      <guid isPermaLink="true">https://fishinglife.hatenadiary.jp/entry/2026/11/19/190000</guid>
+      <pubDate>Thu, 19 Nov 2026 19:00:00 +0900</pubDate>
+      <description>※2026年11月に公開しました。ポイントの立入可否やルールは変わることがあるため、出かける前に最新情報の確認をお願いします。特にサケ・マス釣りには地域のルールと期間の制限があるため、必ず最新の公式情報を確認してください。 網走はオホーツク海に面した道東の港町で、網走港を中心に漁港・河口・湖（網走湖）まで釣り場が広がるエリアです。秋から冬はコマイやチカ、カレイ、根魚が狙え、冬には流氷と氷上ワカサギの季節も控えています。この記事では、網走の釣りポイントの見方と、釣れる魚・時期・注意点をわかりやすくまとめます。 網走で釣りができる主なエリア 網走港まわり：岸壁や埠頭まわりが中心です。開放エリアではサビキや投げ釣りが楽しめますが、防波堤など立入禁止の区域が通年で指定されている場所があります。現地の表示と市のルールを必ず確認してください 鱒浦漁港など周辺の漁港：コマイやカレイ、根魚の実績があるエリ… ｜ 場所: オホーツク・鱒浦漁港・網走港・港町・網走・道東 / 魚種: サケ・コマイ・チカ・カレイ（みんなの北海道釣り情報）</description>
+      <category>みんなの北海道釣り情報</category>
+      <fog:place>オホーツク</fog:place>
+      <fog:lat>44.50000</fog:lat>
+      <fog:lon>143.50000</fog:lon>
+      <fog:species>サケ・コマイ・チカ・カレイ</fog:species>
     </item>
     <item>
       <title>カジカの釣り方｜秋から冬が盛期！投げ釣りと穴釣りのポイントをわかりやすく！</title>
@@ -139,6 +151,24 @@
       <fog:lat>43.06200</fog:lat>
       <fog:lon>141.35400</fog:lon>
       <fog:species>イカ・イワシ</fog:species>
+    </item>
+    <item>
+      <title>18 HIT たがし さん 2026-11-18 20:57 ツツイカ：100g〜300g 釣果場所： 全国 北海道 釣り場所：防波堤 足下の中層付近で、ラインが引っ張られました！ 詳細ページ →</title>
+      <link>https://www.yamaria.com/catches/1325193</link>
+      <guid isPermaLink="true">https://www.yamaria.com/catches/1325193</guid>
+      <pubDate>Wed, 18 Nov 2026 00:00:00 +0900</pubDate>
+      <description>魚種: イカ（エギCOM 北海道）</description>
+      <category>エギCOM 北海道</category>
+      <fog:species>イカ</fog:species>
+    </item>
+    <item>
+      <title>18 HIT たがし さん 2026-11-18 20:48 ツツイカ：100g〜300g 釣果場所： 全国 北海道 釣り場所：防波堤 ちょうど群れが回って来て、サイトでキャッチしました！ 詳細ページ →</title>
+      <link>https://www.yamaria.com/catches/1325192</link>
+      <guid isPermaLink="true">https://www.yamaria.com/catches/1325192</guid>
+      <pubDate>Wed, 18 Nov 2026 00:00:00 +0900</pubDate>
+      <description>魚種: イカ（エギCOM 北海道）</description>
+      <category>エギCOM 北海道</category>
+      <fog:species>イカ</fog:species>
     </item>
     <item>
       <title>留萌のおすすめ釣りポイント｜釣れる魚・時期・注意点をわかりやすく！</title>
@@ -363,6 +393,33 @@
       <fog:species>イカ</fog:species>
     </item>
     <item>
+      <title>10 HIT ごンた さん 2026-11-17 23:07 ツツイカ：100g以下 釣果場所： 全国 北海道 釣り場所：防波堤 この日は激シブ、パターンがつかめなくて迷子のまま時間が過ぎていく・・。 あきらめるのもくやしくて延長、23時頃</title>
+      <link>https://www.yamaria.com/catches/1325227</link>
+      <guid isPermaLink="true">https://www.yamaria.com/catches/1325227</guid>
+      <pubDate>Tue, 17 Nov 2026 00:00:00 +0900</pubDate>
+      <description>魚種: イカ（エギCOM 北海道）</description>
+      <category>エギCOM 北海道</category>
+      <fog:species>イカ</fog:species>
+    </item>
+    <item>
+      <title>38 HIT satokun さん 2026-11-17 18:15 ツツイカ：100g以下 釣果場所： 全国 北海道 釣り場所：防波堤 中層辺りでした 詳細ページ →</title>
+      <link>https://www.yamaria.com/catches/1325145</link>
+      <guid isPermaLink="true">https://www.yamaria.com/catches/1325145</guid>
+      <pubDate>Tue, 17 Nov 2026 00:00:00 +0900</pubDate>
+      <description>魚種: イカ（エギCOM 北海道）</description>
+      <category>エギCOM 北海道</category>
+      <fog:species>イカ</fog:species>
+    </item>
+    <item>
+      <title>37 HIT satokun さん 2026-11-17 17:40 ツツイカ：100g以下 釣果場所： 全国 北海道 釣り場所：防波堤 小さいヤリでした 詳細ページ →</title>
+      <link>https://www.yamaria.com/catches/1325142</link>
+      <guid isPermaLink="true">https://www.yamaria.com/catches/1325142</guid>
+      <pubDate>Tue, 17 Nov 2026 00:00:00 +0900</pubDate>
+      <description>魚種: イカ（エギCOM 北海道）</description>
+      <category>エギCOM 北海道</category>
+      <fog:species>イカ</fog:species>
+    </item>
+    <item>
       <title>穴釣りの始め方｜根魚の仕掛け・ポイント・釣り方をわかりやすく！</title>
       <link>https://fishinglife.hatenadiary.jp/entry/2026/11/16/190000</link>
       <guid isPermaLink="true">https://fishinglife.hatenadiary.jp/entry/2026/11/16/190000</guid>
@@ -413,6 +470,15 @@
       <title>22 HIT キャプテン ポリッシュ さん 2026-11-16 21:55 ツツイカ：100g〜300g 釣果場所： 全国 北海道 釣り場所：防波堤 小さい。1.5エギより少し大きい程度 詳細ページ →</title>
       <link>https://www.yamaria.com/catches/1324778</link>
       <guid isPermaLink="true">https://www.yamaria.com/catches/1324778</guid>
+      <pubDate>Mon, 16 Nov 2026 00:00:00 +0900</pubDate>
+      <description>魚種: イカ（エギCOM 北海道）</description>
+      <category>エギCOM 北海道</category>
+      <fog:species>イカ</fog:species>
+    </item>
+    <item>
+      <title>15 HIT たがし さん 2026-11-16 22:12 ツツイカ：100g〜300g 釣果場所： 全国 北海道 釣り場所：防波堤 ボトム付近で、やっと釣れました！ 詳細ページ →</title>
+      <link>https://www.yamaria.com/catches/1325191</link>
+      <guid isPermaLink="true">https://www.yamaria.com/catches/1325191</guid>
       <pubDate>Mon, 16 Nov 2026 00:00:00 +0900</pubDate>
       <description>魚種: イカ（エギCOM 北海道）</description>
       <category>エギCOM 北海道</category>
@@ -5099,6 +5165,17 @@
       <fog:lat>42.25000</fog:lat>
       <fog:lon>140.60000</fog:lon>
       <fog:species>アイナメ</fog:species>
+    </item>
+    <item>
+      <title>ボート釣り、洋上事故に注意を 八雲町沖で転覆事故 室蘭海保「天候、部品確認を」 - 北海道新聞デジタル</title>
+      <link>https://news.google.com/rss/articles/CBMiiAFBVV95cUxNcDJFS1RvSUpvbm5pSmJkWUx5b0dyREJvSlhSNjZvR3FKdGJPejR5WU11M1RzOFdCdnhranRzRmZmbG5fSm1hQmwyWmFhRjZYVFF0cFl1ZzNNVTRXTlNXNnBSdmcwNlRKUnY3X1o1bVFmWlBlaUhhbXhfLTRkREFnbE81cHVTMzVV?oc=5</link>
+      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMiiAFBVV95cUxNcDJFS1RvSUpvbm5pSmJkWUx5b0dyREJvSlhSNjZvR3FKdGJPejR5WU11M1RzOFdCdnhranRzRmZmbG5fSm1hQmwyWmFhRjZYVFF0cFl1ZzNNVTRXTlNXNnBSdmcwNlRKUnY3X1o1bVFmWlBlaUhhbXhfLTRkREFnbE81cHVTMzVV?oc=5</guid>
+      <pubDate>Mon, 12 May 2025 14:52:24 +0000</pubDate>
+      <description>ボート釣り、洋上事故に注意を 八雲町沖で転覆事故 室蘭海保「天候、部品確認を」 北海道新聞デジタル ｜ 場所: 八雲・室蘭（Google ニュース（八雲 釣り））</description>
+      <category>Google ニュース（八雲 釣り）</category>
+      <fog:place>八雲</fog:place>
+      <fog:lat>42.25400</fog:lat>
+      <fog:lon>140.26500</fog:lon>
     </item>
     <item>
       <title>ボート釣り、洋上事故に注意を 八雲町沖で転覆事故 室蘭海保「天候、部品確認を」 - 北海道新聞デジタル</title>

@@ -4,7 +4,19 @@
     <title>函館周辺の釣果情報（fog-feeds）</title>
     <link>https://github.com/sawswork/fog-feeds</link>
     <description>道南・函館周辺の釣果・釣行情報を複数のサイトから集めたもの。見出しと短い説明、元記事へのリンク。</description>
-    <lastBuildDate>Thu, 19 Nov 2026 11:37:10 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 19 Nov 2026 20:47:44 +0900</lastBuildDate>
+    <item>
+      <title>網走のおすすめ釣りポイント｜釣れる魚・時期・注意点をわかりやすく！</title>
+      <link>https://fishinglife.hatenadiary.jp/entry/2026/11/19/190000</link>
+      <guid isPermaLink="true">https://fishinglife.hatenadiary.jp/entry/2026/11/19/190000</guid>
+      <pubDate>Thu, 19 Nov 2026 19:00:00 +0900</pubDate>
+      <description>※2026年11月に公開しました。ポイントの立入可否やルールは変わることがあるため、出かける前に最新情報の確認をお願いします。特にサケ・マス釣りには地域のルールと期間の制限があるため、必ず最新の公式情報を確認してください。 網走はオホーツク海に面した道東の港町で、網走港を中心に漁港・河口・湖（網走湖）まで釣り場が広がるエリアです。秋から冬はコマイやチカ、カレイ、根魚が狙え、冬には流氷と氷上ワカサギの季節も控えています。この記事では、網走の釣りポイントの見方と、釣れる魚・時期・注意点をわかりやすくまとめます。 網走で釣りができる主なエリア 網走港まわり：岸壁や埠頭まわりが中心です。開放エリアではサビキや投げ釣りが楽しめますが、防波堤など立入禁止の区域が通年で指定されている場所があります。現地の表示と市のルールを必ず確認してください 鱒浦漁港など周辺の漁港：コマイやカレイ、根魚の実績があるエリ… ｜ 場所: オホーツク・鱒浦漁港・網走港・港町・網走・道東 / 魚種: サケ・コマイ・チカ・カレイ（みんなの北海道釣り情報）</description>
+      <category>みんなの北海道釣り情報</category>
+      <fog:place>オホーツク</fog:place>
+      <fog:lat>44.50000</fog:lat>
+      <fog:lon>143.50000</fog:lon>
+      <fog:species>サケ・コマイ・チカ・カレイ</fog:species>
+    </item>
     <item>
       <title>留萌のおすすめ釣りポイント｜釣れる魚・時期・注意点をわかりやすく！</title>
       <link>https://fishinglife.hatenadiary.jp/entry/2026/11/17/190000</link>
@@ -1632,6 +1644,17 @@
       <fog:lat>42.25000</fog:lat>
       <fog:lon>140.60000</fog:lon>
       <fog:species>アイナメ</fog:species>
+    </item>
+    <item>
+      <title>ボート釣り、洋上事故に注意を 八雲町沖で転覆事故 室蘭海保「天候、部品確認を」 - 北海道新聞デジタル</title>
+      <link>https://news.google.com/rss/articles/CBMiiAFBVV95cUxNcDJFS1RvSUpvbm5pSmJkWUx5b0dyREJvSlhSNjZvR3FKdGJPejR5WU11M1RzOFdCdnhranRzRmZmbG5fSm1hQmwyWmFhRjZYVFF0cFl1ZzNNVTRXTlNXNnBSdmcwNlRKUnY3X1o1bVFmWlBlaUhhbXhfLTRkREFnbE81cHVTMzVV?oc=5</link>
+      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMiiAFBVV95cUxNcDJFS1RvSUpvbm5pSmJkWUx5b0dyREJvSlhSNjZvR3FKdGJPejR5WU11M1RzOFdCdnhranRzRmZmbG5fSm1hQmwyWmFhRjZYVFF0cFl1ZzNNVTRXTlNXNnBSdmcwNlRKUnY3X1o1bVFmWlBlaUhhbXhfLTRkREFnbE81cHVTMzVV?oc=5</guid>
+      <pubDate>Mon, 12 May 2025 14:52:24 +0000</pubDate>
+      <description>ボート釣り、洋上事故に注意を 八雲町沖で転覆事故 室蘭海保「天候、部品確認を」 北海道新聞デジタル ｜ 場所: 八雲・室蘭（Google ニュース（八雲 釣り））</description>
+      <category>Google ニュース（八雲 釣り）</category>
+      <fog:place>八雲</fog:place>
+      <fog:lat>42.25400</fog:lat>
+      <fog:lon>140.26500</fog:lon>
     </item>
     <item>
       <title>ボート釣り、洋上事故に注意を 八雲町沖で転覆事故 室蘭海保「天候、部品確認を」 - 北海道新聞デジタル</title>
