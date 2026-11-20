@@ -1,16 +1,16 @@
 {
- "updatedAt": "2026-11-20T05:43:05.060605+09:00",
+ "updatedAt": "2026-11-20T11:22:07.186376+09:00",
  "stats": [
   {
    "source": "Google ニュース（北海道 釣果）",
    "status": "OK",
    "links": 35,
-   "new": 27
+   "new": 28
   },
   {
    "source": "Google ニュース（北海道 釣り）",
    "status": "OK",
-   "links": 61,
+   "links": 60,
    "new": 30
   },
   {
@@ -22,8 +22,8 @@
   {
    "source": "Google ニュース（道南 釣果）",
    "status": "OK",
-   "links": 23,
-   "new": 1
+   "links": 35,
+   "new": 7
   },
   {
    "source": "FISHLAND（道内全店）",
@@ -35,7 +35,7 @@
    "source": "みんなの北海道釣り情報",
    "status": "OK",
    "links": 30,
-   "new": 0
+   "new": 1
   },
   {
    "source": "フィッシングショップ・インパクト（ブログ）",
@@ -45,14 +45,14 @@
   },
   {
    "source": "エギCOM 北海道",
-   "status": "失敗",
-   "links": 0,
-   "new": 0
+   "status": "OK",
+   "links": 8,
+   "new": 4
   },
   {
    "source": "エギCOM 函館",
-   "status": "失敗",
-   "links": 0,
+   "status": "OK",
+   "links": 8,
    "new": 0
   },
   {
@@ -118,8 +118,8 @@
   {
    "source": "Google ニュース（噴火湾 釣り）",
    "status": "OK",
-   "links": 51,
-   "new": 15
+   "links": 27,
+   "new": 16
   },
   {
    "source": "Google ニュース（鹿部 釣り）",
@@ -130,26 +130,26 @@
   {
    "source": "Google ニュース（八雲 釣り）",
    "status": "OK",
-   "links": 9,
+   "links": 8,
    "new": 0
   },
   {
    "source": "Google ニュース（森町 釣り）",
    "status": "OK",
-   "links": 21,
-   "new": 7
+   "links": 22,
+   "new": 5
   },
   {
    "source": "Google ニュース（北斗市 釣り）",
    "status": "OK",
-   "links": 24,
-   "new": 0
+   "links": 76,
+   "new": 1
   },
   {
    "source": "Google ニュース（松前 江差 釣り）",
    "status": "OK",
-   "links": 27,
-   "new": 0
+   "links": 62,
+   "new": 4
   }
  ],
  "items": [
@@ -180,6 +180,17 @@
    ],
    "hakodate": false,
    "firstSeen": "2026-11-07T22:10:29.321923+09:00"
+  },
+  {
+   "title": "【速報】Sammys展示即売会が11月23日にバックウォーターで開催｜11月29日は伏古店、12月の道内イベントもチェック",
+   "link": "https://fishinglife.hatenadiary.jp/entry/2026/11/20/094950",
+   "summary": "※2026年11月20日に公開しました。イベントの開催日時や内容は変更になる場合があるため、出かける前に主催者・会場の最新情報の確認をお願いします。 北海道のルアーメーカー・Sammys（サミーズ）の展示即売会が、2026年11月23日（月・祝）にバックウォーターで開催されます。Sammys公式のイベント情報（令和8年10月26日更新）で「決定イベント」として発表されているもので、Sammys単独のイベントです。冬の釣りシーズンに向けてルアーを直接見て選べる機会なので、開催日が迫っている速報としてお知らせします。 （写真はイメージです） 11月23日（月・祝）バックウォーターの展示即売会 開催日：2026年11月23日（月・祝） 会場：バックウォーター 時間：9:30開場〜12:00閉場（Sammys公式Instagramの告知フライヤーによる） 内容：Sammysの展示即売会。バックウォ…",
+   "date": "2026-11-20T09:49:50+09:00",
+   "source": "みんなの北海道釣り情報",
+   "places": [],
+   "species": [],
+   "hakodate": false,
+   "firstSeen": "2026-11-20T11:22:07.186376+09:00"
   },
   {
    "title": "網走のおすすめ釣りポイント｜釣れる魚・時期・注意点をわかりやすく！",
@@ -2188,6 +2199,58 @@
    ],
    "hakodate": false,
    "firstSeen": "2026-11-19T11:37:10.590055+09:00"
+  },
+  {
+   "title": "4 HIT フルさん さん 2026-11-13 21:44 ツツイカ：100g以下 釣果場所： 全国 北海道 釣り場所：防波堤 少し風も出てきた、 照明用LEDを海に奉納？ そろそろ帰宅⤵ 詳細ページ →",
+   "link": "https://www.yamaria.com/catches/1325266",
+   "summary": "",
+   "date": "2026-11-13T00:00:00+09:00",
+   "source": "エギCOM 北海道",
+   "places": [],
+   "species": [
+    "イカ"
+   ],
+   "hakodate": false,
+   "firstSeen": "2026-11-20T11:22:07.186376+09:00"
+  },
+  {
+   "title": "4 HIT フルさん さん 2026-11-13 21:44 ツツイカ：100g以下 釣果場所： 全国 北海道 釣り場所：防波堤 少し風も出てきた、 照明用LEDを海に奉納？ そろそろ帰宅⤵ 詳細ページ →",
+   "link": "https://www.yamaria.com/catches/1325264",
+   "summary": "",
+   "date": "2026-11-13T00:00:00+09:00",
+   "source": "エギCOM 北海道",
+   "places": [],
+   "species": [
+    "イカ"
+   ],
+   "hakodate": false,
+   "firstSeen": "2026-11-20T11:22:07.186376+09:00"
+  },
+  {
+   "title": "4 HIT フルさん さん 2026-11-13 21:33 ツツイカ：100g以下 釣果場所： 全国 北海道 釣り場所：防波堤 エギチェンしながらキャスト やはり表層下の反応がいい 詳細ページ →",
+   "link": "https://www.yamaria.com/catches/1325260",
+   "summary": "",
+   "date": "2026-11-13T00:00:00+09:00",
+   "source": "エギCOM 北海道",
+   "places": [],
+   "species": [
+    "イカ"
+   ],
+   "hakodate": false,
+   "firstSeen": "2026-11-20T11:22:07.186376+09:00"
+  },
+  {
+   "title": "4 HIT フルさん さん 2026-11-13 21:24 ツツイカ：100g以下 釣果場所： 全国 北海道 釣り場所：防波堤 少し活性上昇か ピッチが上がる 詳細ページ →",
+   "link": "https://www.yamaria.com/catches/1325258",
+   "summary": "",
+   "date": "2026-11-13T00:00:00+09:00",
+   "source": "エギCOM 北海道",
+   "places": [],
+   "species": [
+    "イカ"
+   ],
+   "hakodate": false,
+   "firstSeen": "2026-11-20T11:22:07.186376+09:00"
   },
   {
    "title": "函館のおすすめ釣りポイント｜釣れる魚・時期・注意点をわかりやすく！",
@@ -5776,6 +5839,21 @@
    "firstSeen": "2026-11-05T13:15:28.807938+09:00"
   },
   {
+   "title": "カジカップ開催のお知らせ",
+   "link": "http://blog.fs-impact.com/?eid=1714",
+   "summary": "カジカをターゲットにしたイベント”カジカップ”を開催します！ 開催日 12月6日（日） 時間 AM9:00〜PM3:00（予定） 場所 鹿部漁港 参加費 500円 ★★★ カジカップとは？ ★★★ 大会形式になっていますが「ワイ...",
+   "date": "2026-10-27T10:57:00+09:00",
+   "source": "フィッシングショップ・インパクト（ブログ）",
+   "places": [
+    "鹿部漁港"
+   ],
+   "species": [
+    "カジカ"
+   ],
+   "hakodate": true,
+   "firstSeen": "2026-11-20T11:22:07.186376+09:00"
+  },
+  {
    "title": "2026/10/27 △▲△ﾊｸﾞｺﾞｽ入荷しました！！△▲△",
    "link": "https://www.tackleberry.co.jp/shop/30011066/2026/10/27/%e2%96%b3%e2%96%b2%e2%96%b3%ef%be%8a%ef%bd%b8%ef%be%9e%ef%bd%ba%ef%be%9e%ef%bd%bd%e5%85%a5%e8%8d%b7%e3%81%97%e3%81%be%e3%81%97%e3%81%9f%ef%bc%81%ef%bc%81%e2%96%b3%e2%96%b2%e2%96%b3-2/",
    "summary": "Just another 釣具の販売｜中古釣具オークション、高価買取、通販【タックルベリー】サイト site",
@@ -6763,21 +6841,6 @@
    "firstSeen": "2026-11-05T12:50:42.983227+09:00"
   },
   {
-   "title": "岡クラフト・NEW LT40＆LT50入荷！",
-   "link": "http://blog.fs-impact.com/?eid=1706",
-   "summary": "岡クラフトのLT40とLT50が新たなフォルムで登場！ 新設計モデルは「マイワシ」をイメージしたやや太目のシルエットでアクション重視 従来モデルは「オオナゴ」をイメージした細身のシルエットで飛距離重視！ 状況に合わせて使い分けがで...",
-   "date": "2026-07-21T11:50:00+09:00",
-   "source": "フィッシングショップ・インパクト（ブログ）",
-   "places": [
-    "函館"
-   ],
-   "species": [
-    "イワシ"
-   ],
-   "hakodate": true,
-   "firstSeen": "2026-11-05T12:50:42.983227+09:00"
-  },
-  {
    "title": "オホーツク東部の秋サケ釣り「1日3匹まで」 罰則も 資源保護へ初の指示 - 北海道新聞デジタル",
    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE50NTk2WHVPdXB1S1FDUWV1aVlBVHJpTTFsNGdLaFRnSHRsOXNYWWV0WkQ4R1JORjVySlQ0Zzl0aVJRVVdnQTZlMDcwNVRoTU8wMDhwUnU1Q1RLQQ?oc=5",
    "summary": "オホーツク東部の秋サケ釣り「1日3匹まで」 罰則も 資源保護へ初の指示 北海道新聞デジタル",
@@ -7019,6 +7082,19 @@
    "firstSeen": "2026-11-12T02:13:21.653643+09:00"
   },
   {
+   "title": "＜島牧＞釣り大会でオリジナルグッズ販売 宮脇史弥さん（26） - 北海道新聞デジタル",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9LS2NIQ1V5OTlhZ1NHVUVldVU3SDk0LURsVmh4aHoyYVZXSlp6dC0zZUZyWXkzdllmbTlvMGFsdDFUM0FhM2lBUi1rYnZKRUQ2bjdYdlA5bVZNdw?oc=5",
+   "summary": "＜島牧＞釣り大会でオリジナルグッズ販売 宮脇史弥さん（26） 北海道新聞デジタル",
+   "date": "2026-03-31T07:00:00+00:00",
+   "source": "Google ニュース（道南 釣果）",
+   "places": [
+    "島牧"
+   ],
+   "species": [],
+   "hakodate": true,
+   "firstSeen": "2026-11-20T11:22:07.186376+09:00"
+  },
+  {
    "title": "釣りガイド児島秀明さん 森町の協力隊員に 「豊富な観光資源 形に」 - 北海道新聞デジタル",
    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBXTkNuVHNwQU5RdEE4NVB0d1ZYcGI4QmloTGtfS09iLXJURy1tSlVMekZGVE0yUkExY1E3UEJGcmNMUVNrbFJoNjYzTkdmTGlja2tvWmd5dWF6Zw?oc=5",
    "summary": "釣りガイド児島秀明さん 森町の協力隊員に 「豊富な観光資源 形に」 北海道新聞デジタル",
@@ -7146,6 +7222,17 @@
    "species": [],
    "hakodate": true,
    "firstSeen": "2026-11-05T13:15:28.807938+09:00"
+  },
+  {
+   "title": "アタリ来た！親子で釣った！ 厚沢部で大会 - 北海道新聞デジタル",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5INW1QdlVuZ2wtY3d3c1h1N254V044UVdEN1VNUWFzR2Q1a0FLNXE3T1Fxdy1iRGlDMXBIUmpOSUZUSUdqaEN2b0lZSXlqbEhpZUZLbG9rZGwtZw?oc=5",
+   "summary": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+   "date": "2025-08-06T07:00:00+00:00",
+   "source": "Google ニュース（道南 釣果）",
+   "places": [],
+   "species": [],
+   "hakodate": true,
+   "firstSeen": "2026-11-20T11:22:07.186376+09:00"
   },
   {
    "title": "釣らない釣りクラブ、人脈「釣れた」 江差で転勤族ら活動 交流人口創出に貢献 - 北海道新聞デジタル",
@@ -7326,21 +7413,6 @@
   },
   {
    "title": "堤防ロックフィッシュゲームで50cmのアイナメをキャッチ！【北海道・噴火湾エリア】 - TSURINEWS",
-   "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE44cVFscDhlVVNTcTZYTmRqMEFkWU42U3l4N1puNEFaWkFlWkY5V1RpcnozeUdZeElOUUJlTnExUC1wZw?oc=5",
-   "summary": "堤防ロックフィッシュゲームで50cmのアイナメをキャッチ！【北海道・噴火湾エリア】 TSURINEWS",
-   "date": "2024-07-07T07:00:00+00:00",
-   "source": "Google ニュース（道南 釣果）",
-   "places": [
-    "噴火湾"
-   ],
-   "species": [
-    "アイナメ"
-   ],
-   "hakodate": true,
-   "firstSeen": "2026-11-05T12:56:58.716106+09:00"
-  },
-  {
-   "title": "堤防ロックフィッシュゲームで50cmのアイナメをキャッチ！【北海道・噴火湾エリア】 - TSURINEWS",
    "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTFBVN1piZGdpSlRNUXZCczZKaUdjaWZJTGdsWVlYVTB2ZTBHN2tnaHVmcm9qOFhMbTduS3lSYlNfRHZZQmwz?oc=5",
    "summary": "堤防ロックフィッシュゲームで50cmのアイナメをキャッチ！【北海道・噴火湾エリア】 TSURINEWS",
    "date": "2024-07-07T07:00:00+00:00",
@@ -7355,17 +7427,18 @@
    "firstSeen": "2026-11-12T20:23:52.343900+09:00"
   },
   {
-   "title": "196万人都市でワカサギ釣り 茨戸川で体感する奥深い札幌の風土＜冬のおすすめアドベンチャートラベル＞【PR】 - 北海道新聞デジタル",
-   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE94TmpLcUZoRnpjU0VISkVDeldCX1d6X2c4M3c3VERyZmhVbEluWHcxWTZFYmE0OVVuNkdqWFRXZXFNMVhqM21HUTBQZDRjOWdWaW9GRmdwYUU?oc=5",
-   "summary": "196万人都市でワカサギ釣り 茨戸川で体感する奥深い札幌の風土＜冬のおすすめアドベンチャートラベル＞【PR】 北海道新聞デジタル",
-   "date": "2024-01-23T08:00:00+00:00",
-   "source": "Google ニュース（道南 釣果）",
+   "title": "雪景色の大沼国定公園で「天ぷら付き氷上ワカサギ釣り」始まる - 函館経済新聞",
+   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1QTHhGWUh5Qnk5ZkNQZmtBUkZYTlJMc2x0OGxqX0V0U21nZDc5R05lU01XdnFscXB6MEI2cUZuSkZHc2RTeDUzdTd1STI2RkZqOGFz?oc=5",
+   "summary": "雪景色の大沼国定公園で「天ぷら付き氷上ワカサギ釣り」始まる 函館経済新聞",
+   "date": "2024-01-12T08:00:00+00:00",
+   "source": "Google ニュース（北斗市 釣り）",
    "places": [
-    "札幌"
+    "函館",
+    "大沼"
    ],
    "species": [],
    "hakodate": true,
-   "firstSeen": "2026-11-05T12:56:58.716106+09:00"
+   "firstSeen": "2026-11-20T11:22:07.186376+09:00"
   },
   {
    "title": "「子どもだったら嬉しくて走り回る」凧揚げ、海釣り、キャンプも楽しめる 北海道・鷗島灯台の“絶景”ポイント - クレアウェブ",
@@ -7443,6 +7516,47 @@
    ],
    "hakodate": true,
    "firstSeen": "2026-11-08T19:28:52.657557+09:00"
+  },
+  {
+   "title": "第409回 道南に春を告げるサクラマス ～北のサーフを熱くする煌めく銀鱗～ ｜夢釣行～一魚一会の旅 - BS日テレ",
+   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1zZm81N0N2YmxCNkpqYWhZTFA2TXozTjZsRGd2MDhOSFRXUnRxQWV5cVU5cHYtTEhSSDVkZkJIMTZnUmJxZHo1RGQ1QXNRSzV6c2xrYmQxMzdiRE5iYkR6RmpZWkpRTGVJSlRz?oc=5",
+   "summary": "第409回 道南に春を告げるサクラマス ～北のサーフを熱くする煌めく銀鱗～ ｜夢釣行～一魚一会の旅 BS日テレ",
+   "date": "2020-03-15T07:00:00+00:00",
+   "source": "Google ニュース（松前 江差 釣り）",
+   "places": [
+    "道南"
+   ],
+   "species": [
+    "サクラマス"
+   ],
+   "hakodate": true,
+   "firstSeen": "2026-11-20T11:22:07.186376+09:00"
+  },
+  {
+   "title": "松前江良沖で漁船火災 けが人なし（動画） - 北海道新聞デジタル",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5oUG82a2NxY1F3WnU4UjFkeXdNay1HdlJLVjc0QkZuT25yUDJKeDBqa3JKQXF3VDJNZXoxVllsMTVkTDRhbTlLQjFqRUZ3RVFfSzA5WlNuTUtSNFBzRGNuLWo2VXZSek5melE?oc=5",
+   "summary": "松前江良沖で漁船火災 けが人なし（動画） 北海道新聞デジタル",
+   "date": "2019-07-25T07:00:00+00:00",
+   "source": "Google ニュース（松前 江差 釣り）",
+   "places": [
+    "松前"
+   ],
+   "species": [],
+   "hakodate": true,
+   "firstSeen": "2026-11-20T11:22:07.186376+09:00"
+  },
+  {
+   "title": "北海道・石崎漁港は家族で楽しめる秋サケ - 日刊スポーツ",
+   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOQzMta0N0RXpWOUMxM0FuZTNBekxYMDBxMnlmWjBERS13eVBiSmhFWE4tLU1vekgzbE1EVHNiRHhmWktHdG1KTTQ0eExobTZSM3ZvRG1Tai1SVUlWaGh3Z2JLbDhvMkZsNTh0NUNJcDZBNXZrQjZBZWdsZk1mWGIxWU1VSmd3Zw?oc=5",
+   "summary": "北海道・石崎漁港は家族で楽しめる秋サケ 日刊スポーツ",
+   "date": "2017-10-17T13:06:36+00:00",
+   "source": "Google ニュース（松前 江差 釣り）",
+   "places": [],
+   "species": [
+    "サケ"
+   ],
+   "hakodate": true,
+   "firstSeen": "2026-11-20T11:22:07.186376+09:00"
   },
   {
    "title": "北海道・出来澗海岸 ヒラメ60ｃｍヒット - 日刊スポーツ",

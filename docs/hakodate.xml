@@ -4,7 +4,7 @@
     <title>函館周辺の釣果情報（fog-feeds）</title>
     <link>https://github.com/sawswork/fog-feeds</link>
     <description>道南・函館周辺の釣果・釣行情報を複数のサイトから集めたもの。見出しと短い説明、元記事へのリンク。</description>
-    <lastBuildDate>Fri, 20 Nov 2026 05:43:05 +0900</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 11:22:07 +0900</lastBuildDate>
     <item>
       <title>網走のおすすめ釣りポイント｜釣れる魚・時期・注意点をわかりやすく！</title>
       <link>https://fishinglife.hatenadiary.jp/entry/2026/11/19/190000</link>
@@ -704,6 +704,18 @@
       <fog:lon>140.72900</fog:lon>
     </item>
     <item>
+      <title>カジカップ開催のお知らせ</title>
+      <link>http://blog.fs-impact.com/?eid=1714</link>
+      <guid isPermaLink="true">http://blog.fs-impact.com/?eid=1714</guid>
+      <pubDate>Tue, 27 Oct 2026 10:57:00 +0900</pubDate>
+      <description>カジカをターゲットにしたイベント”カジカップ”を開催します！ 開催日 12月6日（日） 時間 AM9:00〜PM3:00（予定） 場所 鹿部漁港 参加費 500円 ★★★ カジカップとは？ ★★★ 大会形式になっていますが「ワイ... ｜ 場所: 鹿部漁港 / 魚種: カジカ（フィッシングショップ・インパクト（ブログ））</description>
+      <category>フィッシングショップ・インパクト（ブログ）</category>
+      <fog:place>鹿部漁港</fog:place>
+      <fog:lat>42.03170</fog:lat>
+      <fog:lon>140.82553</fog:lon>
+      <fog:species>カジカ</fog:species>
+    </item>
+    <item>
       <title>2026/10/27 △▲△ﾊｸﾞｺﾞｽ入荷しました！！△▲△</title>
       <link>https://www.tackleberry.co.jp/shop/30011066/2026/10/27/%e2%96%b3%e2%96%b2%e2%96%b3%ef%be%8a%ef%bd%b8%ef%be%9e%ef%bd%ba%ef%be%9e%ef%bd%bd%e5%85%a5%e8%8d%b7%e3%81%97%e3%81%be%e3%81%97%e3%81%9f%ef%bc%81%ef%bc%81%e2%96%b3%e2%96%b2%e2%96%b3-2/</link>
       <guid isPermaLink="true">https://www.tackleberry.co.jp/shop/30011066/2026/10/27/%e2%96%b3%e2%96%b2%e2%96%b3%ef%be%8a%ef%bd%b8%ef%be%9e%ef%bd%ba%ef%be%9e%ef%bd%bd%e5%85%a5%e8%8d%b7%e3%81%97%e3%81%be%e3%81%97%e3%81%9f%ef%bc%81%ef%bc%81%e2%96%b3%e2%96%b2%e2%96%b3-2/</guid>
@@ -1306,18 +1318,6 @@
       <fog:species>ヒラメ</fog:species>
     </item>
     <item>
-      <title>岡クラフト・NEW LT40＆LT50入荷！</title>
-      <link>http://blog.fs-impact.com/?eid=1706</link>
-      <guid isPermaLink="true">http://blog.fs-impact.com/?eid=1706</guid>
-      <pubDate>Tue, 21 Jul 2026 11:50:00 +0900</pubDate>
-      <description>岡クラフトのLT40とLT50が新たなフォルムで登場！ 新設計モデルは「マイワシ」をイメージしたやや太目のシルエットでアクション重視 従来モデルは「オオナゴ」をイメージした細身のシルエットで飛距離重視！ 状況に合わせて使い分けがで... ｜ 場所: 函館 / 魚種: イワシ（フィッシングショップ・インパクト（ブログ））</description>
-      <category>フィッシングショップ・インパクト（ブログ）</category>
-      <fog:place>函館</fog:place>
-      <fog:lat>41.76870</fog:lat>
-      <fog:lon>140.72900</fog:lon>
-      <fog:species>イワシ</fog:species>
-    </item>
-    <item>
       <title>オホーツク東部の秋サケ釣り「1日3匹まで」 罰則も 資源保護へ初の指示 - 北海道新聞デジタル</title>
       <link>https://news.google.com/rss/articles/CBMiWkFVX3lxTE50NTk2WHVPdXB1S1FDUWV1aVlBVHJpTTFsNGdLaFRnSHRsOXNYWWV0WkQ4R1JORjVySlQ0Zzl0aVJRVVdnQTZlMDcwNVRoTU8wMDhwUnU1Q1RLQQ?oc=5</link>
       <guid isPermaLink="true">https://news.google.com/rss/articles/CBMiWkFVX3lxTE50NTk2WHVPdXB1S1FDUWV1aVlBVHJpTTFsNGdLaFRnSHRsOXNYWWV0WkQ4R1JORjVySlQ0Zzl0aVJRVVdnQTZlMDcwNVRoTU8wMDhwUnU1Q1RLQQ?oc=5</guid>
@@ -1454,6 +1454,17 @@
       <fog:lon>141.74300</fog:lon>
     </item>
     <item>
+      <title>＜島牧＞釣り大会でオリジナルグッズ販売 宮脇史弥さん（26） - 北海道新聞デジタル</title>
+      <link>https://news.google.com/rss/articles/CBMiWkFVX3lxTE9LS2NIQ1V5OTlhZ1NHVUVldVU3SDk0LURsVmh4aHoyYVZXSlp6dC0zZUZyWXkzdllmbTlvMGFsdDFUM0FhM2lBUi1rYnZKRUQ2bjdYdlA5bVZNdw?oc=5</link>
+      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMiWkFVX3lxTE9LS2NIQ1V5OTlhZ1NHVUVldVU3SDk0LURsVmh4aHoyYVZXSlp6dC0zZUZyWXkzdllmbTlvMGFsdDFUM0FhM2lBUi1rYnZKRUQ2bjdYdlA5bVZNdw?oc=5</guid>
+      <pubDate>Tue, 31 Mar 2026 07:00:00 +0000</pubDate>
+      <description>＜島牧＞釣り大会でオリジナルグッズ販売 宮脇史弥さん（26） 北海道新聞デジタル ｜ 場所: 島牧（Google ニュース（道南 釣果））</description>
+      <category>Google ニュース（道南 釣果）</category>
+      <fog:place>島牧</fog:place>
+      <fog:lat>42.69100</fog:lat>
+      <fog:lon>140.06100</fog:lon>
+    </item>
+    <item>
       <title>釣りガイド児島秀明さん 森町の協力隊員に 「豊富な観光資源 形に」 - 北海道新聞デジタル</title>
       <link>https://news.google.com/rss/articles/CBMiWkFVX3lxTFBXTkNuVHNwQU5RdEE4NVB0d1ZYcGI4QmloTGtfS09iLXJURy1tSlVMekZGVE0yUkExY1E3UEJGcmNMUVNrbFJoNjYzTkdmTGlja2tvWmd5dWF6Zw?oc=5</link>
       <guid isPermaLink="true">https://news.google.com/rss/articles/CBMiWkFVX3lxTFBXTkNuVHNwQU5RdEE4NVB0d1ZYcGI4QmloTGtfS09iLXJURy1tSlVMekZGVE0yUkExY1E3UEJGcmNMUVNrbFJoNjYzTkdmTGlja2tvWmd5dWF6Zw?oc=5</guid>
@@ -1554,6 +1565,14 @@
       <fog:place>函館</fog:place>
       <fog:lat>41.76870</fog:lat>
       <fog:lon>140.72900</fog:lon>
+    </item>
+    <item>
+      <title>アタリ来た！親子で釣った！ 厚沢部で大会 - 北海道新聞デジタル</title>
+      <link>https://news.google.com/rss/articles/CBMiWkFVX3lxTE5INW1QdlVuZ2wtY3d3c1h1N254V044UVdEN1VNUWFzR2Q1a0FLNXE3T1Fxdy1iRGlDMXBIUmpOSUZUSUdqaEN2b0lZSXlqbEhpZUZLbG9rZGwtZw?oc=5</link>
+      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMiWkFVX3lxTE5INW1QdlVuZ2wtY3d3c1h1N254V044UVdEN1VNUWFzR2Q1a0FLNXE3T1Fxdy1iRGlDMXBIUmpOSUZUSUdqaEN2b0lZSXlqbEhpZUZLbG9rZGwtZw?oc=5</guid>
+      <pubDate>Wed, 06 Aug 2025 07:00:00 +0000</pubDate>
+      <description>Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.（Google ニュース（道南 釣果））</description>
+      <category>Google ニュース（道南 釣果）</category>
     </item>
     <item>
       <title>釣らない釣りクラブ、人脈「釣れた」 江差で転勤族ら活動 交流人口創出に貢献 - 北海道新聞デジタル</title>
@@ -1694,18 +1713,6 @@
     </item>
     <item>
       <title>堤防ロックフィッシュゲームで50cmのアイナメをキャッチ！【北海道・噴火湾エリア】 - TSURINEWS</title>
-      <link>https://news.google.com/rss/articles/CBMiQkFVX3lxTE44cVFscDhlVVNTcTZYTmRqMEFkWU42U3l4N1puNEFaWkFlWkY5V1RpcnozeUdZeElOUUJlTnExUC1wZw?oc=5</link>
-      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMiQkFVX3lxTE44cVFscDhlVVNTcTZYTmRqMEFkWU42U3l4N1puNEFaWkFlWkY5V1RpcnozeUdZeElOUUJlTnExUC1wZw?oc=5</guid>
-      <pubDate>Sun, 07 Jul 2024 07:00:00 +0000</pubDate>
-      <description>堤防ロックフィッシュゲームで50cmのアイナメをキャッチ！【北海道・噴火湾エリア】 TSURINEWS ｜ 場所: 噴火湾 / 魚種: アイナメ（Google ニュース（道南 釣果））</description>
-      <category>Google ニュース（道南 釣果）</category>
-      <fog:place>噴火湾</fog:place>
-      <fog:lat>42.25000</fog:lat>
-      <fog:lon>140.60000</fog:lon>
-      <fog:species>アイナメ</fog:species>
-    </item>
-    <item>
-      <title>堤防ロックフィッシュゲームで50cmのアイナメをキャッチ！【北海道・噴火湾エリア】 - TSURINEWS</title>
       <link>https://news.google.com/rss/articles/CBMiREFVX3lxTFBVN1piZGdpSlRNUXZCczZKaUdjaWZJTGdsWVlYVTB2ZTBHN2tnaHVmcm9qOFhMbTduS3lSYlNfRHZZQmwz?oc=5</link>
       <guid isPermaLink="true">https://news.google.com/rss/articles/CBMiREFVX3lxTFBVN1piZGdpSlRNUXZCczZKaUdjaWZJTGdsWVlYVTB2ZTBHN2tnaHVmcm9qOFhMbTduS3lSYlNfRHZZQmwz?oc=5</guid>
       <pubDate>Sun, 07 Jul 2024 07:00:00 +0000</pubDate>
@@ -1717,15 +1724,15 @@
       <fog:species>アイナメ</fog:species>
     </item>
     <item>
-      <title>196万人都市でワカサギ釣り 茨戸川で体感する奥深い札幌の風土＜冬のおすすめアドベンチャートラベル＞【PR】 - 北海道新聞デジタル</title>
-      <link>https://news.google.com/rss/articles/CBMiWEFVX3lxTE94TmpLcUZoRnpjU0VISkVDeldCX1d6X2c4M3c3VERyZmhVbEluWHcxWTZFYmE0OVVuNkdqWFRXZXFNMVhqM21HUTBQZDRjOWdWaW9GRmdwYUU?oc=5</link>
-      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMiWEFVX3lxTE94TmpLcUZoRnpjU0VISkVDeldCX1d6X2c4M3c3VERyZmhVbEluWHcxWTZFYmE0OVVuNkdqWFRXZXFNMVhqM21HUTBQZDRjOWdWaW9GRmdwYUU?oc=5</guid>
-      <pubDate>Tue, 23 Jan 2024 08:00:00 +0000</pubDate>
-      <description>196万人都市でワカサギ釣り 茨戸川で体感する奥深い札幌の風土＜冬のおすすめアドベンチャートラベル＞【PR】 北海道新聞デジタル ｜ 場所: 札幌（Google ニュース（道南 釣果））</description>
-      <category>Google ニュース（道南 釣果）</category>
-      <fog:place>札幌</fog:place>
-      <fog:lat>43.06200</fog:lat>
-      <fog:lon>141.35400</fog:lon>
+      <title>雪景色の大沼国定公園で「天ぷら付き氷上ワカサギ釣り」始まる - 函館経済新聞</title>
+      <link>https://news.google.com/rss/articles/CBMiU0FVX3lxTE1QTHhGWUh5Qnk5ZkNQZmtBUkZYTlJMc2x0OGxqX0V0U21nZDc5R05lU01XdnFscXB6MEI2cUZuSkZHc2RTeDUzdTd1STI2RkZqOGFz?oc=5</link>
+      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMiU0FVX3lxTE1QTHhGWUh5Qnk5ZkNQZmtBUkZYTlJMc2x0OGxqX0V0U21nZDc5R05lU01XdnFscXB6MEI2cUZuSkZHc2RTeDUzdTd1STI2RkZqOGFz?oc=5</guid>
+      <pubDate>Fri, 12 Jan 2024 08:00:00 +0000</pubDate>
+      <description>雪景色の大沼国定公園で「天ぷら付き氷上ワカサギ釣り」始まる 函館経済新聞 ｜ 場所: 函館・大沼（Google ニュース（北斗市 釣り））</description>
+      <category>Google ニュース（北斗市 釣り）</category>
+      <fog:place>函館</fog:place>
+      <fog:lat>41.76870</fog:lat>
+      <fog:lon>140.72900</fog:lon>
     </item>
     <item>
       <title>「子どもだったら嬉しくて走り回る」凧揚げ、海釣り、キャンプも楽しめる 北海道・鷗島灯台の“絶景”ポイント - クレアウェブ</title>
@@ -1782,6 +1789,38 @@
       <fog:lat>42.25400</fog:lat>
       <fog:lon>140.26500</fog:lon>
       <fog:species>マゾイ・ホッケ</fog:species>
+    </item>
+    <item>
+      <title>第409回 道南に春を告げるサクラマス ～北のサーフを熱くする煌めく銀鱗～ ｜夢釣行～一魚一会の旅 - BS日テレ</title>
+      <link>https://news.google.com/rss/articles/CBMia0FVX3lxTE1zZm81N0N2YmxCNkpqYWhZTFA2TXozTjZsRGd2MDhOSFRXUnRxQWV5cVU5cHYtTEhSSDVkZkJIMTZnUmJxZHo1RGQ1QXNRSzV6c2xrYmQxMzdiRE5iYkR6RmpZWkpRTGVJSlRz?oc=5</link>
+      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMia0FVX3lxTE1zZm81N0N2YmxCNkpqYWhZTFA2TXozTjZsRGd2MDhOSFRXUnRxQWV5cVU5cHYtTEhSSDVkZkJIMTZnUmJxZHo1RGQ1QXNRSzV6c2xrYmQxMzdiRE5iYkR6RmpZWkpRTGVJSlRz?oc=5</guid>
+      <pubDate>Sun, 15 Mar 2020 07:00:00 +0000</pubDate>
+      <description>第409回 道南に春を告げるサクラマス ～北のサーフを熱くする煌めく銀鱗～ ｜夢釣行～一魚一会の旅 BS日テレ ｜ 場所: 道南 / 魚種: サクラマス（Google ニュース（松前 江差 釣り））</description>
+      <category>Google ニュース（松前 江差 釣り）</category>
+      <fog:place>道南</fog:place>
+      <fog:lat>41.90000</fog:lat>
+      <fog:lon>140.50000</fog:lon>
+      <fog:species>サクラマス</fog:species>
+    </item>
+    <item>
+      <title>松前江良沖で漁船火災 けが人なし（動画） - 北海道新聞デジタル</title>
+      <link>https://news.google.com/rss/articles/CBMiakFVX3lxTE5oUG82a2NxY1F3WnU4UjFkeXdNay1HdlJLVjc0QkZuT25yUDJKeDBqa3JKQXF3VDJNZXoxVllsMTVkTDRhbTlLQjFqRUZ3RVFfSzA5WlNuTUtSNFBzRGNuLWo2VXZSek5melE?oc=5</link>
+      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMiakFVX3lxTE5oUG82a2NxY1F3WnU4UjFkeXdNay1HdlJLVjc0QkZuT25yUDJKeDBqa3JKQXF3VDJNZXoxVllsMTVkTDRhbTlLQjFqRUZ3RVFfSzA5WlNuTUtSNFBzRGNuLWo2VXZSek5melE?oc=5</guid>
+      <pubDate>Thu, 25 Jul 2019 07:00:00 +0000</pubDate>
+      <description>松前江良沖で漁船火災 けが人なし（動画） 北海道新聞デジタル ｜ 場所: 松前（Google ニュース（松前 江差 釣り））</description>
+      <category>Google ニュース（松前 江差 釣り）</category>
+      <fog:place>松前</fog:place>
+      <fog:lat>41.43000</fog:lat>
+      <fog:lon>140.10800</fog:lon>
+    </item>
+    <item>
+      <title>北海道・石崎漁港は家族で楽しめる秋サケ - 日刊スポーツ</title>
+      <link>https://news.google.com/rss/articles/CBMihgFBVV95cUxOQzMta0N0RXpWOUMxM0FuZTNBekxYMDBxMnlmWjBERS13eVBiSmhFWE4tLU1vekgzbE1EVHNiRHhmWktHdG1KTTQ0eExobTZSM3ZvRG1Tai1SVUlWaGh3Z2JLbDhvMkZsNTh0NUNJcDZBNXZrQjZBZWdsZk1mWGIxWU1VSmd3Zw?oc=5</link>
+      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMihgFBVV95cUxOQzMta0N0RXpWOUMxM0FuZTNBekxYMDBxMnlmWjBERS13eVBiSmhFWE4tLU1vekgzbE1EVHNiRHhmWktHdG1KTTQ0eExobTZSM3ZvRG1Tai1SVUlWaGh3Z2JLbDhvMkZsNTh0NUNJcDZBNXZrQjZBZWdsZk1mWGIxWU1VSmd3Zw?oc=5</guid>
+      <pubDate>Tue, 17 Oct 2017 13:06:36 +0000</pubDate>
+      <description>北海道・石崎漁港は家族で楽しめる秋サケ 日刊スポーツ ｜ 魚種: サケ（Google ニュース（松前 江差 釣り））</description>
+      <category>Google ニュース（松前 江差 釣り）</category>
+      <fog:species>サケ</fog:species>
     </item>
     <item>
       <title>北海道・出来澗海岸 ヒラメ60ｃｍヒット - 日刊スポーツ</title>
