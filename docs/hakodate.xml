@@ -4,7 +4,31 @@
     <title>函館周辺の釣果情報（fog-feeds）</title>
     <link>https://github.com/sawswork/fog-feeds</link>
     <description>道南・函館周辺の釣果・釣行情報を複数のサイトから集めたもの。見出しと短い説明、元記事へのリンク。</description>
-    <lastBuildDate>Fri, 20 Nov 2026 11:22:07 +0900</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 20:48:18 +0900</lastBuildDate>
+    <item>
+      <title>稚内のおすすめ釣りポイント｜釣れる魚・時期・注意点をわかりやすく！</title>
+      <link>https://fishinglife.hatenadiary.jp/entry/2026/11/20/190000</link>
+      <guid isPermaLink="true">https://fishinglife.hatenadiary.jp/entry/2026/11/20/190000</guid>
+      <pubDate>Fri, 20 Nov 2026 19:00:00 +0900</pubDate>
+      <description>※2026年11月に公開しました。ポイントの立入可否やルールは変わることがあるため、出かける前に最新情報の確認をお願いします。フェリーターミナル周辺など立入禁止の区域もあるため、現地の表示を必ず確認してください。 稚内は日本最北の港町で、稚内港を中心に宗谷港（大岬漁港）やノシャップ岬まわりまで釣り場が広がるエリアです。秋から冬はコマイやチカ、ホッケ、カレイ、根魚が狙えます。この記事では、稚内の釣りポイントの見方と、釣れる魚・時期・注意点をわかりやすくまとめます。 稚内で釣りができる主なエリア 稚内港（副港・中央ふ頭周辺など開放岸壁）：サビキでチカ、投げ釣りでカレイやコマイ、探り釣りで根魚が狙えます。ただしフェリーターミナル周辺や北防波堤など立入禁止の区域があります。竿を出せる場所かどうか、現地のフェンスと表示で必ず確認してください 稚内港北防波堤ドーム周辺：稚内のシンボル的な防波堤ドームの… ｜ 場所: 稚内港・宗谷港・港町・稚内 / 魚種: コマイ・チカ・ホッケ・カレイ（みんなの北海道釣り情報）</description>
+      <category>みんなの北海道釣り情報</category>
+      <fog:place>稚内港</fog:place>
+      <fog:lat>45.41455</fog:lat>
+      <fog:lon>141.70685</fog:lon>
+      <fog:species>コマイ・チカ・ホッケ・カレイ</fog:species>
+    </item>
+    <item>
+      <title>岡ジグのラインナップが揃いました！</title>
+      <link>http://blog.fs-impact.com/?eid=1715</link>
+      <guid isPermaLink="true">http://blog.fs-impact.com/?eid=1715</guid>
+      <pubDate>Fri, 20 Nov 2026 18:36:06 +0900</pubDate>
+      <description>雪がちらつく季節になり、そろそろサクラマスの準備を始める方も多いのではないでしょうか？ インパクトでは、岡クラフトの各アイテムを豊富に取り揃えております！ シーズン前の準備にぜひご利用ください(#^^#) そして、岡クラフトといえば... ｜ 場所: 豊富 / 魚種: サクラマス（フィッシングショップ・インパクト（ブログ））</description>
+      <category>フィッシングショップ・インパクト（ブログ）</category>
+      <fog:place>豊富</fog:place>
+      <fog:lat>45.10000</fog:lat>
+      <fog:lon>141.77800</fog:lon>
+      <fog:species>サクラマス</fog:species>
+    </item>
     <item>
       <title>網走のおすすめ釣りポイント｜釣れる魚・時期・注意点をわかりやすく！</title>
       <link>https://fishinglife.hatenadiary.jp/entry/2026/11/19/190000</link>
@@ -1304,18 +1328,6 @@
       <fog:lat>41.76870</fog:lat>
       <fog:lon>140.72900</fog:lon>
       <fog:species>アブラコ・アイナメ</fog:species>
-    </item>
-    <item>
-      <title>フラットフィッシュダービー情報</title>
-      <link>http://blog.fs-impact.com/?eid=1707</link>
-      <guid isPermaLink="true">http://blog.fs-impact.com/?eid=1707</guid>
-      <pubDate>Tue, 21 Jul 2026 11:55:00 +0900</pubDate>
-      <description>7月20日（月）、ヒラメの登録がありました。 しかも60cmオーバーのナイスサイズ！ ダービーは残り10日！ 1枚の登録でランキングが変わる接戦で盛り上がっています！ 皆様の登録をお待ちしております！ #フラットフィッシュダービ... ｜ 場所: 函館 / 魚種: ヒラメ（フィッシングショップ・インパクト（ブログ））</description>
-      <category>フィッシングショップ・インパクト（ブログ）</category>
-      <fog:place>函館</fog:place>
-      <fog:lat>41.76870</fog:lat>
-      <fog:lon>140.72900</fog:lon>
-      <fog:species>ヒラメ</fog:species>
     </item>
     <item>
       <title>オホーツク東部の秋サケ釣り「1日3匹まで」 罰則も 資源保護へ初の指示 - 北海道新聞デジタル</title>
