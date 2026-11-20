@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-20T20:48:18.068612+09:00",
+ "updatedAt": "2026-11-21T05:27:21.240119+09:00",
  "stats": [
   {
    "source": "Google ニュース（北海道 釣果）",
@@ -22,7 +22,7 @@
   {
    "source": "Google ニュース（道南 釣果）",
    "status": "OK",
-   "links": 24,
+   "links": 26,
    "new": 3
   },
   {
@@ -35,7 +35,7 @@
    "source": "みんなの北海道釣り情報",
    "status": "OK",
    "links": 30,
-   "new": 1
+   "new": 0
   },
   {
    "source": "フィッシングショップ・インパクト（ブログ）",
@@ -47,7 +47,7 @@
    "source": "エギCOM 北海道",
    "status": "OK",
    "links": 8,
-   "new": 6
+   "new": 0
   },
   {
    "source": "エギCOM 函館",
@@ -76,7 +76,7 @@
   {
    "source": "TSURI HACK",
    "status": "OK",
-   "links": 53,
+   "links": 52,
    "new": 0
   },
   {
@@ -118,8 +118,8 @@
   {
    "source": "Google ニュース（噴火湾 釣り）",
    "status": "OK",
-   "links": 28,
-   "new": 17
+   "links": 26,
+   "new": 16
   },
   {
    "source": "Google ニュース（鹿部 釣り）",
@@ -130,14 +130,14 @@
   {
    "source": "Google ニュース（八雲 釣り）",
    "status": "OK",
-   "links": 17,
+   "links": 18,
    "new": 0
   },
   {
    "source": "Google ニュース（森町 釣り）",
    "status": "OK",
-   "links": 23,
-   "new": 6
+   "links": 24,
+   "new": 7
   },
   {
    "source": "Google ニュース（北斗市 釣り）",
@@ -148,7 +148,7 @@
   {
    "source": "Google ニュース（松前 江差 釣り）",
    "status": "OK",
-   "links": 25,
+   "links": 26,
    "new": 0
   }
  ],
