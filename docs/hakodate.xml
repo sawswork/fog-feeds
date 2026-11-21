@@ -4,7 +4,19 @@
     <title>函館周辺の釣果情報（fog-feeds）</title>
     <link>https://github.com/sawswork/fog-feeds</link>
     <description>道南・函館周辺の釣果・釣行情報を複数のサイトから集めたもの。見出しと短い説明、元記事へのリンク。</description>
-    <lastBuildDate>Sat, 21 Nov 2026 05:27:21 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 21 Nov 2026 11:23:32 +0900</lastBuildDate>
+    <item>
+      <title>根室のおすすめ釣りポイント｜釣れる魚・時期・注意点をわかりやすく！</title>
+      <link>https://fishinglife.hatenadiary.jp/entry/2026/11/21/110936</link>
+      <guid isPermaLink="true">https://fishinglife.hatenadiary.jp/entry/2026/11/21/110936</guid>
+      <pubDate>Sat, 21 Nov 2026 11:09:36 +0900</pubDate>
+      <description>※2026年11月に公開しました。ポイントの立入可否やルールは変わることがあるため、出かける前に最新情報の確認をお願いします。防波堤など立入禁止の区域もあるため、現地の表示を必ず確認してください。 根室は道東の太平洋とオホーツク海の境目にある港町で、根室港と花咲港を中心に釣り場が広がるエリアです。秋から冬はコマイやチカ、カレイ、カジカ、根魚が狙えます。この記事では、根室の釣りポイントの見方と、釣れる魚・時期・注意点をわかりやすくまとめます。 根室で釣りができる主なエリア 根室港（岸壁まわり）：サビキでチカ、投げ釣りでカレイやコマイ、探り釣りで根魚が狙えます。ただし中防波堤など防波堤は立入禁止とされる場所があります。竿を出せる場所かどうか、現地のフェンスと表示で必ず確認してください 花咲港：根室の水揚げの拠点で、岸壁まわりでチカやカレイ、コマイが狙えます。南防波堤の先端寄りは立入禁止とされる… ｜ 場所: オホーツク・根室港・港町・根室・道東 / 魚種: コマイ・チカ・カレイ・カジカ（みんなの北海道釣り情報）</description>
+      <category>みんなの北海道釣り情報</category>
+      <fog:place>オホーツク</fog:place>
+      <fog:lat>44.50000</fog:lat>
+      <fog:lon>143.50000</fog:lon>
+      <fog:species>コマイ・チカ・カレイ・カジカ</fog:species>
+    </item>
     <item>
       <title>稚内のおすすめ釣りポイント｜釣れる魚・時期・注意点をわかりやすく！</title>
       <link>https://fishinglife.hatenadiary.jp/entry/2026/11/20/190000</link>
