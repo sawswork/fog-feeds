@@ -4,7 +4,31 @@
     <title>函館周辺の釣果情報（fog-feeds）</title>
     <link>https://github.com/sawswork/fog-feeds</link>
     <description>道南・函館周辺の釣果・釣行情報を複数のサイトから集めたもの。見出しと短い説明、元記事へのリンク。</description>
-    <lastBuildDate>Sat, 21 Nov 2026 11:23:32 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 21 Nov 2026 20:14:28 +0900</lastBuildDate>
+    <item>
+      <title>紋別のおすすめ釣りポイント｜釣れる魚・時期・注意点をわかりやすく！</title>
+      <link>https://fishinglife.hatenadiary.jp/entry/2026/11/21/190000</link>
+      <guid isPermaLink="true">https://fishinglife.hatenadiary.jp/entry/2026/11/21/190000</guid>
+      <pubDate>Sat, 21 Nov 2026 19:00:00 +0900</pubDate>
+      <description>※2026年11月に公開しました。ポイントの立入可否やルールは変わることがあるため、出かける前に最新情報の確認をお願いします。立入禁止の区域や投げ釣りができない場所もあるため、現地の表示を必ず確認してください。 紋別はオホーツク海に面した港町で、紋別港を中心に釣り場が広がるエリアです。秋から冬はチカやコマイ、カレイ、カジカ、根魚が狙えます。この記事では、紋別の釣りポイントの見方と、釣れる魚・時期・注意点をわかりやすくまとめます。 紋別で釣りができる主なエリア 紋別港（岸壁まわり）：サビキでチカ、投げ釣りでカレイやコマイ、探り釣りで根魚が狙えます。ただし第2埠頭・第3埠頭など船舶の入港時に立入禁止になる場所や、大型船の発着時に制限される区域があります。竿を出せる場所かどうか、現地の表示で必ず確認してください 海洋公園・クリオネプロムナードまわり：港に隣接する親水エリアです。投げ釣りは禁止とさ… ｜ 場所: オホーツク・紋別港・港町・紋別 / 魚種: チカ・コマイ・カレイ・カジカ（みんなの北海道釣り情報）</description>
+      <category>みんなの北海道釣り情報</category>
+      <fog:place>オホーツク</fog:place>
+      <fog:lat>44.50000</fog:lat>
+      <fog:lon>143.50000</fog:lon>
+      <fog:species>チカ・コマイ・カレイ・カジカ</fog:species>
+    </item>
+    <item>
+      <title>カジカップに向けて！</title>
+      <link>http://blog.fs-impact.com/?eid=1716</link>
+      <guid isPermaLink="true">http://blog.fs-impact.com/?eid=1716</guid>
+      <pubDate>Sat, 21 Nov 2026 13:05:44 +0900</pubDate>
+      <description>カジカップに向けて、近々釣り場の調査を予定中(^^♪ バスフィッシング用ルアーを、ロックフィッシュでも使いやすいようにあれこれチューニングするのも、この釣りの楽しさのひとつ！ 今まで活躍してくれた歴戦のルアーたちも、フックやリングを交換して... ｜ 場所: 函館 / 魚種: カジカ（フィッシングショップ・インパクト（ブログ））</description>
+      <category>フィッシングショップ・インパクト（ブログ）</category>
+      <fog:place>函館</fog:place>
+      <fog:lat>41.76870</fog:lat>
+      <fog:lon>140.72900</fog:lon>
+      <fog:species>カジカ</fog:species>
+    </item>
     <item>
       <title>根室のおすすめ釣りポイント｜釣れる魚・時期・注意点をわかりやすく！</title>
       <link>https://fishinglife.hatenadiary.jp/entry/2026/11/21/110936</link>
@@ -16,6 +40,17 @@
       <fog:lat>44.50000</fog:lat>
       <fog:lon>143.50000</fog:lon>
       <fog:species>コマイ・チカ・カレイ・カジカ</fog:species>
+    </item>
+    <item>
+      <title>2026/11/21 △▲△ｼﾞｷﾞﾝｸﾞｻﾋﾞｷ入荷しました！！△▲△</title>
+      <link>https://www.tackleberry.co.jp/shop/30011066/2026/11/21/%e2%96%b3%e2%96%b2%e2%96%b3%ef%bd%bc%ef%be%9e%ef%bd%b7%ef%be%9e%ef%be%9d%ef%bd%b8%ef%be%9e%ef%bd%bb%ef%be%8b%ef%be%9e%ef%bd%b7%e5%85%a5%e8%8d%b7%e3%81%97%e3%81%be%e3%81%97%e3%81%9f%ef%bc%81%ef%bc%81/</link>
+      <guid isPermaLink="true">https://www.tackleberry.co.jp/shop/30011066/2026/11/21/%e2%96%b3%e2%96%b2%e2%96%b3%ef%bd%bc%ef%be%9e%ef%bd%b7%ef%be%9e%ef%be%9d%ef%bd%b8%ef%be%9e%ef%bd%bb%ef%be%8b%ef%be%9e%ef%bd%b7%e5%85%a5%e8%8d%b7%e3%81%97%e3%81%be%e3%81%97%e3%81%9f%ef%bc%81%ef%bc%81/</guid>
+      <pubDate>Sat, 21 Nov 2026 00:00:00 +0900</pubDate>
+      <description>Just another 釣具の販売｜中古釣具オークション、高価買取、通販【タックルベリー】サイト site ｜ 場所: 函館（タックルベリー函館店）</description>
+      <category>タックルベリー函館店</category>
+      <fog:place>函館</fog:place>
+      <fog:lat>41.76870</fog:lat>
+      <fog:lon>140.72900</fog:lon>
     </item>
     <item>
       <title>稚内のおすすめ釣りポイント｜釣れる魚・時期・注意点をわかりやすく！</title>
@@ -1152,18 +1187,6 @@
       <fog:lon>140.72900</fog:lon>
     </item>
     <item>
-      <title>一週間まとめ！夏の釣りを満喫しました(^^)/</title>
-      <link>https://www.magicalhour.net/2026/08/23/%E4%B8%80%E9%80%B1%E9%96%93%E3%81%BE%E3%81%A8%E3%82%81-%E5%A4%8F%E3%81%AE%E9%87%A3%E3%82%8A%E3%82%92%E6%BA%80%E5%96%AB%E3%81%97%E3%81%BE%E3%81%97%E3%81%9F/</link>
-      <guid isPermaLink="true">https://www.magicalhour.net/2026/08/23/%E4%B8%80%E9%80%B1%E9%96%93%E3%81%BE%E3%81%A8%E3%82%81-%E5%A4%8F%E3%81%AE%E9%87%A3%E3%82%8A%E3%82%92%E6%BA%80%E5%96%AB%E3%81%97%E3%81%BE%E3%81%97%E3%81%9F/</guid>
-      <pubDate>Sun, 23 Aug 2026 19:44:41 +0900</pubDate>
-      <description>８月１９～２３日ヒラメ。小さいのから大きいのまで。汗をかきながらの真夏ヒラメ！ お盆の内は連日のシケ模様。全然出られませんでした( ;∀;) そんな状況の豊浦の海。１４日には痛ましい事故も。。ご冥福をお祈りいたします 余りにも予報が悪い日が続き過ぎてちょっとマシな日が来ると良い凪だと勘違いして出船しそうになりますね １９日もそんな感じで出船。結構吹かれました(^^; 小型が多めな展開。数は釣れたかな？ 中にはグッドサイズも！ この日は良い天気ヽ(^。^)ノ 良い型です(^^)/ 川から帰って(？)きたOさん。快調に釣り続けて二桁安打ヽ(^。^)ノ ダブルヒットデハイチーズ＼(^o^)／ キャスティングでもヒット！ ラストにグッドサイズでした(^^)/ 土曜日午後はテラカドカップ 写真の色合いの都合なのか昭和感ありますね！ 中盤のグッドサイズ！開催お疲れ様でした(^^)/ 優勝者は虐謀のトマ… ｜ 場所: 豊浦 / 魚種: ヒラメ（マジカルアワー（噴火湾の遊漁船））</description>
-      <category>マジカルアワー（噴火湾の遊漁船）</category>
-      <fog:place>豊浦</fog:place>
-      <fog:lat>42.57300</fog:lat>
-      <fog:lon>140.69200</fog:lon>
-      <fog:species>ヒラメ</fog:species>
-    </item>
-    <item>
       <title>当別丸山</title>
       <link>http://vi159xz3.exblog.jp/31018715/</link>
       <guid isPermaLink="true">http://vi159xz3.exblog.jp/31018715/</guid>
@@ -1328,18 +1351,6 @@
       <description>7/15 海峡側某漁港 3:45〜5:00 絶対ブリ釣るマンの釣欲は収まるところを知りません。 気づくと釣り場にいるんですよね（笑） この日も若干寝坊しましたが、なんとか釣り場を確保し、釣り開始。 先発はカナタアユ。 モゾゾッと当たったのはサバでした。 暗いとサババイブレーションは写真撮れませんね💦 その後、散発的なボイルが発生し、雰囲気は抜群！ ダイビングペンシルに一度反応がありますが、乗り切らず。 その後ダイビングペンシルに反応がなくなり、ルアーボックスに入れていた、アスリート13MDSを結びます。 数投したところで、 ゴゴッ！ と当たります！！ あまり大きいサイズの引きではなさそうだったので、ゆっくりやり取りをしていると、痛恨のフックアウト！！ 上がってきたルアーのフックを確認すると、若干針先が丸くなっていました。 刺さりが甘かったかな〜。 ということで、早速フックを交換し、次戦に備… ｜ 魚種: ブリ・サバ（気ままに道南釣行記）</description>
       <category>気ままに道南釣行記</category>
       <fog:species>ブリ・サバ</fog:species>
-    </item>
-    <item>
-      <title>茅部方面で54cmのアブラコがヒット</title>
-      <link>http://blog.fs-impact.com/?eid=1705</link>
-      <guid isPermaLink="true">http://blog.fs-impact.com/?eid=1705</guid>
-      <pubDate>Wed, 22 Jul 2026 11:48:00 +0900</pubDate>
-      <description>Kさんから茅部方面の漁港で54cmのアブラコ（アイナメ）ヒットの釣果写真が届きました！ 早朝4:30ころに漁港へ到着すると、港内のあちこちでベイトの群れが塊になって泳いでいる姿を発見。 エコギア・グラスミノーをキャストしてスイミング... ｜ 場所: 函館 / 魚種: アブラコ・アイナメ（フィッシングショップ・インパクト（ブログ））</description>
-      <category>フィッシングショップ・インパクト（ブログ）</category>
-      <fog:place>函館</fog:place>
-      <fog:lat>41.76870</fog:lat>
-      <fog:lon>140.72900</fog:lon>
-      <fog:species>アブラコ・アイナメ</fog:species>
     </item>
     <item>
       <title>オホーツク東部の秋サケ釣り「1日3匹まで」 罰則も 資源保護へ初の指示 - 北海道新聞デジタル</title>
