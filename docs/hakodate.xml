@@ -4,7 +4,7 @@
     <title>函館周辺の釣果情報（fog-feeds）</title>
     <link>https://github.com/sawswork/fog-feeds</link>
     <description>道南・函館周辺の釣果・釣行情報を複数のサイトから集めたもの。見出しと短い説明、元記事へのリンク。</description>
-    <lastBuildDate>Sat, 21 Nov 2026 20:14:28 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 22 Nov 2026 04:22:31 +0900</lastBuildDate>
     <item>
       <title>紋別のおすすめ釣りポイント｜釣れる魚・時期・注意点をわかりやすく！</title>
       <link>https://fishinglife.hatenadiary.jp/entry/2026/11/21/190000</link>
@@ -51,6 +51,30 @@
       <fog:place>函館</fog:place>
       <fog:lat>41.76870</fog:lat>
       <fog:lon>140.72900</fog:lon>
+    </item>
+    <item>
+      <title>18 HIT しん さん 2026-11-21 21:18 ツツイカ：100g〜300g 釣果場所： 北海道 函館 釣り場所：防波堤 #エギチャレX2026 中層で掛かりました🙂 詳細ページ →</title>
+      <link>https://www.yamaria.com/catches/1325793</link>
+      <guid isPermaLink="true">https://www.yamaria.com/catches/1325793</guid>
+      <pubDate>Sat, 21 Nov 2026 00:00:00 +0900</pubDate>
+      <description>場所: 函館 / 魚種: イカ（エギCOM 函館）</description>
+      <category>エギCOM 函館</category>
+      <fog:place>函館</fog:place>
+      <fog:lat>41.76870</fog:lat>
+      <fog:lon>140.72900</fog:lon>
+      <fog:species>イカ</fog:species>
+    </item>
+    <item>
+      <title>24 HIT satokun さん 2026-11-21 19:24 ツツイカ：100g以下 釣果場所： 北海道 函館 釣り場所：防波堤 これからという時にトラブルがあり泣く泣く撤収。 詳細ページ →</title>
+      <link>https://www.yamaria.com/catches/1325726</link>
+      <guid isPermaLink="true">https://www.yamaria.com/catches/1325726</guid>
+      <pubDate>Sat, 21 Nov 2026 00:00:00 +0900</pubDate>
+      <description>場所: 函館 / 魚種: イカ（エギCOM 函館）</description>
+      <category>エギCOM 函館</category>
+      <fog:place>函館</fog:place>
+      <fog:lat>41.76870</fog:lat>
+      <fog:lon>140.72900</fog:lon>
+      <fog:species>イカ</fog:species>
     </item>
     <item>
       <title>稚内のおすすめ釣りポイント｜釣れる魚・時期・注意点をわかりやすく！</title>
@@ -1256,6 +1280,17 @@
       <pubDate>Sat, 08 Aug 2026 07:00:00 +0000</pubDate>
       <description>【2026/8/8】鮎の塩焼きや釣り体験など「第3回後志利別川清流まつり」（今金町） 函館イベント情報局 ｜ 場所: 函館・今金（Google ニュース（松前 江差 釣り））</description>
       <category>Google ニュース（松前 江差 釣り）</category>
+      <fog:place>函館</fog:place>
+      <fog:lat>41.76870</fog:lat>
+      <fog:lon>140.72900</fog:lon>
+    </item>
+    <item>
+      <title>【2026/8/15】クライマックスは漁港で花火「第45回しかべ海と温泉のまつり」（鹿部町） - 函館イベント情報局</title>
+      <link>https://news.google.com/rss/articles/CBMiXkFVX3lxTE41cHljU0FKa084Z3VzcUI5ZldxSjNBUGVCeGY1OWVJQkJTZlBuTTFSMUZOc2xfZEFSYnRKZDdCYWs1RWZuazFQbXdsUzl4RGtNc1l0bkZialpwemxvaWc?oc=5</link>
+      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMiXkFVX3lxTE41cHljU0FKa084Z3VzcUI5ZldxSjNBUGVCeGY1OWVJQkJTZlBuTTFSMUZOc2xfZEFSYnRKZDdCYWs1RWZuazFQbXdsUzl4RGtNc1l0bkZialpwemxvaWc?oc=5</guid>
+      <pubDate>Sat, 08 Aug 2026 07:00:00 +0000</pubDate>
+      <description>【2026/8/15】クライマックスは漁港で花火「第45回しかべ海と温泉のまつり」（鹿部町） 函館イベント情報局 ｜ 場所: 函館・鹿部（Google ニュース（鹿部 釣り））</description>
+      <category>Google ニュース（鹿部 釣り）</category>
       <fog:place>函館</fog:place>
       <fog:lat>41.76870</fog:lat>
       <fog:lon>140.72900</fog:lon>

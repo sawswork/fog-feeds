@@ -1,16 +1,16 @@
 {
- "updatedAt": "2026-11-21T20:14:28.543212+09:00",
+ "updatedAt": "2026-11-22T04:22:31.693355+09:00",
  "stats": [
   {
    "source": "Google ニュース（北海道 釣果）",
    "status": "OK",
-   "links": 86,
-   "new": 30
+   "links": 35,
+   "new": 29
   },
   {
    "source": "Google ニュース（北海道 釣り）",
    "status": "OK",
-   "links": 60,
+   "links": 61,
    "new": 30
   },
   {
@@ -22,7 +22,7 @@
   {
    "source": "Google ニュース（道南 釣果）",
    "status": "OK",
-   "links": 34,
+   "links": 35,
    "new": 5
   },
   {
@@ -35,7 +35,7 @@
    "source": "みんなの北海道釣り情報",
    "status": "OK",
    "links": 30,
-   "new": 1
+   "new": 0
   },
   {
    "source": "フィッシングショップ・インパクト（ブログ）",
@@ -47,19 +47,19 @@
    "source": "エギCOM 北海道",
    "status": "OK",
    "links": 8,
-   "new": 3
+   "new": 8
   },
   {
    "source": "エギCOM 函館",
    "status": "OK",
    "links": 8,
-   "new": 0
+   "new": 2
   },
   {
    "source": "タックルベリー函館店",
    "status": "OK",
    "links": 6,
-   "new": 1
+   "new": 0
   },
   {
    "source": "TSURINEWS",
@@ -95,7 +95,7 @@
    "source": "マジカルアワー（噴火湾の遊漁船）",
    "status": "OK",
    "links": 18,
-   "new": 1
+   "new": 2
   },
   {
    "source": "鹿部漁協（今日の鹿部漁港）",
@@ -118,14 +118,14 @@
   {
    "source": "Google ニュース（噴火湾 釣り）",
    "status": "OK",
-   "links": 26,
-   "new": 17
+   "links": 25,
+   "new": 16
   },
   {
    "source": "Google ニュース（鹿部 釣り）",
    "status": "OK",
-   "links": 9,
-   "new": 0
+   "links": 28,
+   "new": 1
   },
   {
    "source": "Google ニュース（八雲 釣り）",
@@ -136,7 +136,7 @@
   {
    "source": "Google ニュース（森町 釣り）",
    "status": "OK",
-   "links": 20,
+   "links": 17,
    "new": 4
   },
   {
@@ -148,7 +148,7 @@
   {
    "source": "Google ニュース（松前 江差 釣り）",
    "status": "OK",
-   "links": 28,
+   "links": 30,
    "new": 0
   }
  ],
@@ -266,6 +266,101 @@
    "species": [],
    "hakodate": true,
    "firstSeen": "2026-11-21T20:14:28.543212+09:00"
+  },
+  {
+   "title": "6 HIT Hote さん 2026-11-21 21:58 ツツイカ：100g以下 釣果場所： 全国 北海道 釣り場所：防波堤 今日は激シブ2時間半で辛うじて1パイだけでした😅 詳細ページ →",
+   "link": "https://www.yamaria.com/catches/1325809",
+   "summary": "",
+   "date": "2026-11-21T00:00:00+09:00",
+   "source": "エギCOM 北海道",
+   "places": [],
+   "species": [
+    "イカ"
+   ],
+   "hakodate": false,
+   "firstSeen": "2026-11-22T04:22:31.693355+09:00"
+  },
+  {
+   "title": "15 HIT kuro さん 2026-11-21 19:58 ツツイカ：100g〜300g 釣果場所： 全国 北海道 釣り場所：防波堤 #エギチャレX2026 ボトムでした！ 今日は全然レンジが定まらず苦戦してます 詳細ページ →",
+   "link": "https://www.yamaria.com/catches/1325807",
+   "summary": "",
+   "date": "2026-11-21T00:00:00+09:00",
+   "source": "エギCOM 北海道",
+   "places": [],
+   "species": [
+    "イカ"
+   ],
+   "hakodate": false,
+   "firstSeen": "2026-11-22T04:22:31.693355+09:00"
+  },
+  {
+   "title": "15 HIT kuro さん 2026-11-21 19:47 ツツイカ：100g〜300g 釣果場所： 全国 北海道 釣り場所：防波堤 #エギチャレX2026 レンジ2mぐらいでライン引っ張っていきました！ 詳細ページ →",
+   "link": "https://www.yamaria.com/catches/1325806",
+   "summary": "",
+   "date": "2026-11-21T00:00:00+09:00",
+   "source": "エギCOM 北海道",
+   "places": [],
+   "species": [
+    "イカ"
+   ],
+   "hakodate": false,
+   "firstSeen": "2026-11-22T04:22:31.693355+09:00"
+  },
+  {
+   "title": "16 HIT kuro さん 2026-11-21 19:42 ツツイカ：100g〜300g 釣果場所： 全国 北海道 釣り場所：防波堤 #エギチャレX2026 中層でした！ 詳細ページ →",
+   "link": "https://www.yamaria.com/catches/1325805",
+   "summary": "",
+   "date": "2026-11-21T00:00:00+09:00",
+   "source": "エギCOM 北海道",
+   "places": [],
+   "species": [
+    "イカ"
+   ],
+   "hakodate": false,
+   "firstSeen": "2026-11-22T04:22:31.693355+09:00"
+  },
+  {
+   "title": "19 HIT しん さん 2026-11-21 21:41 ツツイカ：100g〜300g 釣果場所： 全国 北海道 釣り場所：防波堤 #エギチャレX2026 これも少し沖目中層でした😊 この後は反応もなく撤収です😰 詳細ページ →",
+   "link": "https://www.yamaria.com/catches/1325795",
+   "summary": "",
+   "date": "2026-11-21T00:00:00+09:00",
+   "source": "エギCOM 北海道",
+   "places": [],
+   "species": [
+    "イカ"
+   ],
+   "hakodate": false,
+   "firstSeen": "2026-11-22T04:22:31.693355+09:00"
+  },
+  {
+   "title": "18 HIT しん さん 2026-11-21 21:18 ツツイカ：100g〜300g 釣果場所： 北海道 函館 釣り場所：防波堤 #エギチャレX2026 中層で掛かりました🙂 詳細ページ →",
+   "link": "https://www.yamaria.com/catches/1325793",
+   "summary": "",
+   "date": "2026-11-21T00:00:00+09:00",
+   "source": "エギCOM 函館",
+   "places": [
+    "函館"
+   ],
+   "species": [
+    "イカ"
+   ],
+   "hakodate": true,
+   "firstSeen": "2026-11-22T04:22:31.693355+09:00"
+  },
+  {
+   "title": "24 HIT satokun さん 2026-11-21 19:24 ツツイカ：100g以下 釣果場所： 北海道 函館 釣り場所：防波堤 これからという時にトラブルがあり泣く泣く撤収。 詳細ページ →",
+   "link": "https://www.yamaria.com/catches/1325726",
+   "summary": "",
+   "date": "2026-11-21T00:00:00+09:00",
+   "source": "エギCOM 函館",
+   "places": [
+    "函館"
+   ],
+   "species": [
+    "イカ"
+   ],
+   "hakodate": true,
+   "firstSeen": "2026-11-22T04:22:31.693355+09:00"
   },
   {
    "title": "稚内のおすすめ釣りポイント｜釣れる魚・時期・注意点をわかりやすく！",
@@ -967,6 +1062,45 @@
    ],
    "hakodate": false,
    "firstSeen": "2026-11-20T20:48:18.068612+09:00"
+  },
+  {
+   "title": "6 HIT キャプテン ポリッシュ さん 2026-11-17 16:27 ツツイカ：100g〜300g 釣果場所： 全国 北海道 釣り場所：防波堤 #エギチャレX2026 ゆっくり落として着底からボトム 詳細ページ →",
+   "link": "https://www.yamaria.com/catches/1325814",
+   "summary": "",
+   "date": "2026-11-17T00:00:00+09:00",
+   "source": "エギCOM 北海道",
+   "places": [],
+   "species": [
+    "イカ"
+   ],
+   "hakodate": false,
+   "firstSeen": "2026-11-22T04:22:31.693355+09:00"
+  },
+  {
+   "title": "6 HIT キャプテン ポリッシュ さん 2026-11-17 16:12 ツツイカ：100g以下 釣果場所： 全国 北海道 釣り場所：防波堤 #エギチャレX2026 足元横に壁際 詳細ページ →",
+   "link": "https://www.yamaria.com/catches/1325812",
+   "summary": "",
+   "date": "2026-11-17T00:00:00+09:00",
+   "source": "エギCOM 北海道",
+   "places": [],
+   "species": [
+    "イカ"
+   ],
+   "hakodate": false,
+   "firstSeen": "2026-11-22T04:22:31.693355+09:00"
+  },
+  {
+   "title": "6 HIT キャプテン ポリッシュ さん 2026-11-17 16:01 ツツイカ：100g〜300g 釣果場所： 全国 北海道 釣り場所：防波堤 #エギチャレX2026 薄い。 詳細ページ →",
+   "link": "https://www.yamaria.com/catches/1325811",
+   "summary": "",
+   "date": "2026-11-17T00:00:00+09:00",
+   "source": "エギCOM 北海道",
+   "places": [],
+   "species": [
+    "イカ"
+   ],
+   "hakodate": false,
+   "firstSeen": "2026-11-22T04:22:31.693355+09:00"
   },
   {
    "title": "穴釣りの始め方｜根魚の仕掛け・ポイント・釣り方をわかりやすく！",
@@ -6945,6 +7079,20 @@
    "species": [],
    "hakodate": true,
    "firstSeen": "2026-11-11T15:34:43.320096+09:00"
+  },
+  {
+   "title": "【2026/8/15】クライマックスは漁港で花火「第45回しかべ海と温泉のまつり」（鹿部町） - 函館イベント情報局",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE41cHljU0FKa084Z3VzcUI5ZldxSjNBUGVCeGY1OWVJQkJTZlBuTTFSMUZOc2xfZEFSYnRKZDdCYWs1RWZuazFQbXdsUzl4RGtNc1l0bkZialpwemxvaWc?oc=5",
+   "summary": "【2026/8/15】クライマックスは漁港で花火「第45回しかべ海と温泉のまつり」（鹿部町） 函館イベント情報局",
+   "date": "2026-08-08T07:00:00+00:00",
+   "source": "Google ニュース（鹿部 釣り）",
+   "places": [
+    "函館",
+    "鹿部"
+   ],
+   "species": [],
+   "hakodate": true,
+   "firstSeen": "2026-11-22T04:22:31.693355+09:00"
   },
   {
    "title": "ヤマシタ エギングキャンペーン開催中！",
