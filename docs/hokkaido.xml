@@ -4,7 +4,7 @@
     <title>北海道の釣果情報（fog-feeds）</title>
     <link>https://github.com/sawswork/fog-feeds</link>
     <description>北海道全域の釣果・釣行情報を複数のサイトから集めたもの。見出しと短い説明、元記事へのリンク。</description>
-    <lastBuildDate>Sun, 22 Nov 2026 04:22:31 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 22 Nov 2026 10:22:49 +0900</lastBuildDate>
     <item>
       <title>1月に今釣れるおすすめの魚！ワカサギ・チカ・ホッケなど</title>
       <link>https://fishinglife.hatenadiary.jp/entry/2026/11/06/073309</link>
@@ -22,6 +22,26 @@
       <description>1月の北海道は、一年で最も寒さが厳しい時期です。雪と氷に覆われた景色の中でも、釣りの楽しみはしっかりあります。氷上でのワカサギ釣りが本番を迎え、港ではチカやホッケの数釣りも楽しめる季節です。 この記事では、1月に北海道で今釣れるおすすめの魚を5つ紹介します。極寒の中での釣りになるので、防寒と安全にしっかり気をつけて、真冬の釣りを楽しみましょう。 1月に今釣れる魚！ ワカサギ （写真はイメージです） ワカサギは、1月の氷上釣りシーズン本番の主役です。氷に穴を開けて狙うワカサギ釣りは、北海道の冬ならではの楽しみで、群れに当たればたくさんの釣果が期待できます。ただし、氷上釣りができるのは解禁した場所だけで、氷の厚さや状態は日々変わります。必ず現地の解禁情報と氷の状態を確認してから出かけましょう。詳しくは、こちらのワカサギ釣りの始め方ガイドも参考にしてください。 ワカサギ釣りの始め方｜氷上釣りの道… ｜ 魚種: チカ・ホッケ（みんなの北海道釣り情報）</description>
       <category>みんなの北海道釣り情報</category>
       <fog:species>チカ・ホッケ</fog:species>
+    </item>
+    <item>
+      <title>厚岸のおすすめ釣りポイント｜釣れる魚・時期・注意点をわかりやすく！</title>
+      <link>https://fishinglife.hatenadiary.jp/entry/2026/11/22/095845</link>
+      <guid isPermaLink="true">https://fishinglife.hatenadiary.jp/entry/2026/11/22/095845</guid>
+      <pubDate>Sun, 22 Nov 2026 09:58:45 +0900</pubDate>
+      <description>※2026年11月に公開しました。ポイントの立入可否やルールは変わることがあるため、出かける前に最新情報の確認をお願いします。防波堤など立入禁止の区域もあるため、現地の表示を必ず確認してください。 厚岸は道東・釧路と根室の間にある港町で、厚岸港と厚岸湖・厚岸湾を中心に釣り場が広がるエリアです。秋から冬はチカやコマイ、カレイ、カジカ、根魚が狙えます。この記事では、厚岸の釣りポイントの見方と、釣れる魚・時期・注意点をわかりやすくまとめます。 厚岸で釣りができる主なエリア 厚岸港（岸壁まわり）：サビキでチカ、投げ釣りでカレイやコマイ、探り釣りで根魚が狙えます。働く港なので、荷役作業の場所や立入禁止の区域には入らないでください。竿を出せる場所かどうか、現地の表示で必ず確認してください 厚岸大橋・厚岸湖まわり（汽水エリア）：厚岸湖はカキの産地として知られる汽水湖です。橋の上からの釣りは交通の妨げにな… ｜ 場所: 港町・釧路・厚岸・根室・道東 / 魚種: チカ・コマイ・カレイ・カジカ（みんなの北海道釣り情報）</description>
+      <category>みんなの北海道釣り情報</category>
+      <fog:place>港町</fog:place>
+      <fog:lat>41.80600</fog:lat>
+      <fog:lon>140.73700</fog:lon>
+      <fog:species>チカ・コマイ・カレイ・カジカ</fog:species>
+    </item>
+    <item>
+      <title>氷上ワカサギ釣りの道具まとめ｜初めてでも揃えられる仕掛け・テント・防寒の基本セット</title>
+      <link>https://fishinglife.hatenadiary.jp/entry/2026/11/22/094554</link>
+      <guid isPermaLink="true">https://fishinglife.hatenadiary.jp/entry/2026/11/22/094554</guid>
+      <pubDate>Sun, 22 Nov 2026 09:45:54 +0900</pubDate>
+      <description>※2026年11月に公開しました。氷上ワカサギ釣りの解禁日や入漁料、レンタルの有無は釣り場ごとに異なります。出かける前に各釣り場・管理者の公式発表で最新情報を確認してください。 北海道の氷上ワカサギ釣りは、例年12月下旬から湖ごとに順次解禁になります。シーズンが始まってから慌てて揃えると、サイズ切れや売り切れで困ることもあります。この記事では、初めてでも揃えられる基本の道具セットを、仕掛け・穴あけとテント・防寒の3つに分けてまとめます。湖ごとの解禁時期は 氷上ワカサギ解禁まとめ の記事もあわせてどうぞ。 仕掛けまわり｜竿・リール・仕掛け・エサ 竿（ワカサギ専用ロッド）：30〜40cm前後の短い専用竿が基本です。穂先の硬さが違うものを2本あると、食いが渋い日にも対応できます リール・電動リール：手巻きの小型リールでも始められます。深い湖や手返しを上げたい場合は電動リールが便利ですが、最初は手…（みんなの北海道釣り情報）</description>
+      <category>みんなの北海道釣り情報</category>
     </item>
     <item>
       <title>紋別のおすすめ釣りポイント｜釣れる魚・時期・注意点をわかりやすく！</title>
@@ -151,6 +171,33 @@
       <fog:species>イカ</fog:species>
     </item>
     <item>
+      <title>8 HIT kuro さん 2026-11-21 22:05 ツツイカ：100g以下 釣果場所： 全国 北海道 釣り場所：防波堤 #エギチャレX2026 中層で！ 詳細ページ →</title>
+      <link>https://www.yamaria.com/catches/1325964</link>
+      <guid isPermaLink="true">https://www.yamaria.com/catches/1325964</guid>
+      <pubDate>Sat, 21 Nov 2026 00:00:00 +0900</pubDate>
+      <description>魚種: イカ（エギCOM 北海道）</description>
+      <category>エギCOM 北海道</category>
+      <fog:species>イカ</fog:species>
+    </item>
+    <item>
+      <title>9 HIT kuro さん 2026-11-21 21:34 ツツイカ：100g以下 釣果場所： 全国 北海道 釣り場所：防波堤 #エギチャレX2026 中層でした！ エギ名間違いでした！ LIVEのルナホワイトです！ 詳細ページ →</title>
+      <link>https://www.yamaria.com/catches/1325963</link>
+      <guid isPermaLink="true">https://www.yamaria.com/catches/1325963</guid>
+      <pubDate>Sat, 21 Nov 2026 00:00:00 +0900</pubDate>
+      <description>魚種: イカ（エギCOM 北海道）</description>
+      <category>エギCOM 北海道</category>
+      <fog:species>イカ</fog:species>
+    </item>
+    <item>
+      <title>9 HIT kuro さん 2026-11-21 21:04 ツツイカ：100g以下 釣果場所： 全国 北海道 釣り場所：防波堤 #エギチャレX2026 ボトム付近で！ 詳細ページ →</title>
+      <link>https://www.yamaria.com/catches/1325960</link>
+      <guid isPermaLink="true">https://www.yamaria.com/catches/1325960</guid>
+      <pubDate>Sat, 21 Nov 2026 00:00:00 +0900</pubDate>
+      <description>魚種: イカ（エギCOM 北海道）</description>
+      <category>エギCOM 北海道</category>
+      <fog:species>イカ</fog:species>
+    </item>
+    <item>
       <title>稚内のおすすめ釣りポイント｜釣れる魚・時期・注意点をわかりやすく！</title>
       <link>https://fishinglife.hatenadiary.jp/entry/2026/11/20/190000</link>
       <guid isPermaLink="true">https://fishinglife.hatenadiary.jp/entry/2026/11/20/190000</guid>
@@ -161,6 +208,18 @@
       <fog:lat>45.41455</fog:lat>
       <fog:lon>141.70685</fog:lon>
       <fog:species>コマイ・チカ・ホッケ・カレイ</fog:species>
+    </item>
+    <item>
+      <title>オホーツク管内、サケ釣り自粛呼びかけ 人工ふ化用卵の確保優先のため 対策協議会も定置網繰り上げ撤去 - au Webポータル</title>
+      <link>https://news.google.com/rss/articles/CBMibkFVX3lxTFBsX1Q4aHIyOGJsbjh1UGM3c1hMcWNjellQTlljWFhHVXpudGNRTnItck56a0kwMWM1VHFPZUpaNkw3eFF0ZHVJR0tMYkJ4cWl1T2x4blh5VXRUakRDOWQxQjhYTGdqV0dxQU9tNWVR?oc=5</link>
+      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMibkFVX3lxTFBsX1Q4aHIyOGJsbjh1UGM3c1hMcWNjellQTlljWFhHVXpudGNRTnItck56a0kwMWM1VHFPZUpaNkw3eFF0ZHVJR0tMYkJ4cWl1T2x4blh5VXRUakRDOWQxQjhYTGdqV0dxQU9tNWVR?oc=5</guid>
+      <pubDate>Fri, 20 Nov 2026 09:56:47 +0000</pubDate>
+      <description>オホーツク管内、サケ釣り自粛呼びかけ 人工ふ化用卵の確保優先のため 対策協議会も定置網繰り上げ撤去 au Webポータル ｜ 場所: オホーツク / 魚種: サケ（Google ニュース（北海道 釣り））</description>
+      <category>Google ニュース（北海道 釣り）</category>
+      <fog:place>オホーツク</fog:place>
+      <fog:lat>44.50000</fog:lat>
+      <fog:lon>143.50000</fog:lon>
+      <fog:species>サケ</fog:species>
     </item>
     <item>
       <title>オホーツク管内、サケ釣り自粛呼びかけ 人工ふ化用卵の確保優先のため 対策協議会も定置網繰り上げ撤去 - Yahoo!ニュース</title>
@@ -214,6 +273,15 @@
       <description>※2026年11月に公開しました。ポイントの立入可否やルールは変わることがあるため、出かける前に最新情報の確認をお願いします。 カジカは、北海道の秋から冬の投げ釣りで人気の底物の魚です。大きな頭と口が特徴で、砂地や岩礁まわりの底に潜み、エサが近くに来るのを待って一気に食いつきます。鍋料理で知られる冬の味覚でもあり、寒くなるこれからの時期がまさに盛期です。この記事では、カジカの釣り方とポイントをわかりやすくまとめます。 （写真はイメージです） カジカが釣れる時期と時間帯 盛期：秋から冬（10月〜2月ごろ）。水温が下がる時期に接岸し、産卵期に向けて大型が狙えます 時間帯：夕方から夜が実績の中心です。昼間でも深場や濁りがある日は釣れますが、夜釣りの方が安定します 場所の傾向：サーフ（砂浜）・漁港の砂泥底・テトラ帯や岩礁の際など、底に変化がある場所を好みます カジカの釣り方と仕掛け 投げ釣り（基本… ｜ 魚種: カジカ（みんなの北海道釣り情報）</description>
       <category>みんなの北海道釣り情報</category>
       <fog:species>カジカ</fog:species>
+    </item>
+    <item>
+      <title>6 HIT タクポン さん 2026-11-19 17:51 ツツイカ：100g以下 釣果場所： 全国 北海道 釣り場所：防波堤 フラッシュ忘れて撮影してしまった。 やはり遠目のボトムで！ 詳細ページ →</title>
+      <link>https://www.yamaria.com/catches/1325956</link>
+      <guid isPermaLink="true">https://www.yamaria.com/catches/1325956</guid>
+      <pubDate>Thu, 19 Nov 2026 00:00:00 +0900</pubDate>
+      <description>魚種: イカ（エギCOM 北海道）</description>
+      <category>エギCOM 北海道</category>
+      <fog:species>イカ</fog:species>
     </item>
     <item>
       <title>不漁続くサンマの群れが港に入り込み岸壁が釣り客でにぎわう 水産試験場「産卵のため南下する群れが根室港に入ったのでは」北海道根室市 - Yahoo!ニュース</title>
@@ -358,6 +426,24 @@
       <title>18 HIT たがし さん 2026-11-18 20:48 ツツイカ：100g〜300g 釣果場所： 全国 北海道 釣り場所：防波堤 ちょうど群れが回って来て、サイトでキャッチしました！ 詳細ページ →</title>
       <link>https://www.yamaria.com/catches/1325192</link>
       <guid isPermaLink="true">https://www.yamaria.com/catches/1325192</guid>
+      <pubDate>Wed, 18 Nov 2026 00:00:00 +0900</pubDate>
+      <description>魚種: イカ（エギCOM 北海道）</description>
+      <category>エギCOM 北海道</category>
+      <fog:species>イカ</fog:species>
+    </item>
+    <item>
+      <title>5 HIT タクポン さん 2026-11-18 18:39 ツツイカ：100g以下 釣果場所： 全国 北海道 釣り場所：防波堤 ボトムズル引きでキャッチ！ 詳細ページ →</title>
+      <link>https://www.yamaria.com/catches/1325958</link>
+      <guid isPermaLink="true">https://www.yamaria.com/catches/1325958</guid>
+      <pubDate>Wed, 18 Nov 2026 00:00:00 +0900</pubDate>
+      <description>魚種: イカ（エギCOM 北海道）</description>
+      <category>エギCOM 北海道</category>
+      <fog:species>イカ</fog:species>
+    </item>
+    <item>
+      <title>6 HIT タクポン さん 2026-11-18 17:51 ツツイカ：100g以下 釣果場所： 全国 北海道 釣り場所：防波堤 全体的に浅く根掛かりも無いこのポイントは遠投してベタ底ネチネチ攻めるのが基本！ 詳細ページ →</title>
+      <link>https://www.yamaria.com/catches/1325954</link>
+      <guid isPermaLink="true">https://www.yamaria.com/catches/1325954</guid>
       <pubDate>Wed, 18 Nov 2026 00:00:00 +0900</pubDate>
       <description>魚種: イカ（エギCOM 北海道）</description>
       <category>エギCOM 北海道</category>
@@ -5113,6 +5199,18 @@
       <fog:species>ブリ・サバ</fog:species>
     </item>
     <item>
+      <title>【秋サケ釣りに規制】『1日3匹まで・釣りざお1人3本まで』違反者に罰則も～北海道東部海域で…“記録的不漁”の秋サケの資源保護に向け9月から新ルール適用へ〈北海道網走市・斜里町・小清水町〉 - UHB 北海道文化放送</title>
+      <link>https://news.google.com/rss/articles/CBMiV0FVX3lxTE0zN0VQUGJvMEtVTHBXUERxZUdTUVVRMzFfY01FN19IbE5ncjZuZnhhQmdMd2JTSS03Y0wyaTJtTHA2ZWlfcHB1V19kSUxxV2NpQjYtSGdaTQ?oc=5</link>
+      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMiV0FVX3lxTE0zN0VQUGJvMEtVTHBXUERxZUdTUVVRMzFfY01FN19IbE5ncjZuZnhhQmdMd2JTSS03Y0wyaTJtTHA2ZWlfcHB1V19kSUxxV2NpQjYtSGdaTQ?oc=5</guid>
+      <pubDate>Tue, 14 Jul 2026 05:03:36 +0000</pubDate>
+      <description>【秋サケ釣りに規制】『1日3匹まで・釣りざお1人3本まで』違反者に罰則も～北海道東部海域で…“記録的不漁”の秋サケの資源保護に向け9月から新ルール適用へ〈北海道網走市・斜里町・小清水町〉 UHB 北海道文化放送 ｜ 場所: 斜里・網走・道東 / 魚種: サケ（Google ニュース（森町 釣り））</description>
+      <category>Google ニュース（森町 釣り）</category>
+      <fog:place>斜里</fog:place>
+      <fog:lat>43.91100</fog:lat>
+      <fog:lon>144.66600</fog:lon>
+      <fog:species>サケ</fog:species>
+    </item>
+    <item>
       <title>オホーツク東部の秋サケ釣り「1日3匹まで」 罰則も 資源保護へ初の指示 - 北海道新聞デジタル</title>
       <link>https://news.google.com/rss/articles/CBMiWkFVX3lxTE50NTk2WHVPdXB1S1FDUWV1aVlBVHJpTTFsNGdLaFRnSHRsOXNYWWV0WkQ4R1JORjVySlQ0Zzl0aVJRVVdnQTZlMDcwNVRoTU8wMDhwUnU1Q1RLQQ?oc=5</link>
       <guid isPermaLink="true">https://news.google.com/rss/articles/CBMiWkFVX3lxTE50NTk2WHVPdXB1S1FDUWV1aVlBVHJpTTFsNGdLaFRnSHRsOXNYWWV0WkQ4R1JORjVySlQ0Zzl0aVJRVVdnQTZlMDcwNVRoTU8wMDhwUnU1Q1RLQQ?oc=5</guid>
@@ -5296,17 +5394,6 @@
       <fog:place>島牧</fog:place>
       <fog:lat>42.69100</fog:lat>
       <fog:lon>140.06100</fog:lon>
-    </item>
-    <item>
-      <title>釣りガイド児島秀明さん 森町の協力隊員に 「豊富な観光資源 形に」 - 北海道新聞デジタル</title>
-      <link>https://news.google.com/rss/articles/CBMiWkFVX3lxTFBXTkNuVHNwQU5RdEE4NVB0d1ZYcGI4QmloTGtfS09iLXJURy1tSlVMekZGVE0yUkExY1E3UEJGcmNMUVNrbFJoNjYzTkdmTGlja2tvWmd5dWF6Zw?oc=5</link>
-      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMiWkFVX3lxTFBXTkNuVHNwQU5RdEE4NVB0d1ZYcGI4QmloTGtfS09iLXJURy1tSlVMekZGVE0yUkExY1E3UEJGcmNMUVNrbFJoNjYzTkdmTGlja2tvWmd5dWF6Zw?oc=5</guid>
-      <pubDate>Thu, 12 Feb 2026 08:00:00 +0000</pubDate>
-      <description>釣りガイド児島秀明さん 森町の協力隊員に 「豊富な観光資源 形に」 北海道新聞デジタル ｜ 場所: 森町・豊富（Google ニュース（森町 釣り））</description>
-      <category>Google ニュース（森町 釣り）</category>
-      <fog:place>森町</fog:place>
-      <fog:lat>42.10700</fog:lat>
-      <fog:lon>140.57500</fog:lon>
     </item>
     <item>
       <title>江差港西防波堤の釣りマナー向上検討へ 江差MINATOプロジェクト検討会が設立総会 - 北海道新聞デジタル</title>
