@@ -1,22 +1,22 @@
 {
- "updatedAt": "2026-11-22T10:22:49.122557+09:00",
+ "updatedAt": "2026-11-22T20:33:21.543589+09:00",
  "stats": [
   {
    "source": "Google ニュース（北海道 釣果）",
    "status": "OK",
-   "links": 35,
-   "new": 29
+   "links": 36,
+   "new": 30
   },
   {
    "source": "Google ニュース（北海道 釣り）",
    "status": "OK",
-   "links": 60,
+   "links": 59,
    "new": 30
   },
   {
    "source": "Google ニュース（函館 釣り）",
    "status": "OK",
-   "links": 41,
+   "links": 42,
    "new": 30
   },
   {
@@ -35,7 +35,7 @@
    "source": "みんなの北海道釣り情報",
    "status": "OK",
    "links": 30,
-   "new": 2
+   "new": 0
   },
   {
    "source": "フィッシングショップ・インパクト（ブログ）",
@@ -47,7 +47,7 @@
    "source": "エギCOM 北海道",
    "status": "OK",
    "links": 8,
-   "new": 6
+   "new": 3
   },
   {
    "source": "エギCOM 函館",
@@ -65,7 +65,7 @@
    "source": "TSURINEWS",
    "status": "OK",
    "links": 11,
-   "new": 0
+   "new": 1
   },
   {
    "source": "ルアマガ＋",
@@ -83,7 +83,7 @@
    "source": "北海道釣り情報ブログ（道南エリア釣行記）",
    "status": "OK",
    "links": 6,
-   "new": 0
+   "new": 1
   },
   {
    "source": "気ままに道南釣行記",
@@ -105,9 +105,9 @@
   },
   {
    "source": "八雲の釣りブログ（exblog）",
-   "status": "OK",
-   "links": 15,
-   "new": 5
+   "status": "失敗",
+   "links": 0,
+   "new": 0
   },
   {
    "source": "uosoku（釣り場まとめ）",
@@ -130,25 +130,25 @@
   {
    "source": "Google ニュース（八雲 釣り）",
    "status": "OK",
-   "links": 18,
-   "new": 0
+   "links": 43,
+   "new": 4
   },
   {
    "source": "Google ニュース（森町 釣り）",
    "status": "OK",
-   "links": 15,
+   "links": 13,
    "new": 4
   },
   {
    "source": "Google ニュース（北斗市 釣り）",
    "status": "OK",
-   "links": 24,
+   "links": 23,
    "new": 0
   },
   {
    "source": "Google ニュース（松前 江差 釣り）",
    "status": "OK",
-   "links": 30,
+   "links": 29,
    "new": 0
   }
  ],
@@ -180,6 +180,30 @@
    ],
    "hakodate": false,
    "firstSeen": "2026-11-07T22:10:29.321923+09:00"
+  },
+  {
+   "title": "シマノ FS-190Z ウォータープルーフウィンター磯ブーツ｜中綿入りで防水、ソールは貼り替えできるカットラバーピンフェルト",
+   "link": "https://xn--nbkzd3exd059r6ngg8p23x0w5ekjd.com/shimano-fs-190z-winter-iso-boots/",
+   "summary": "シマノが2026年9月に出した冬用の磯ブーツ「FS-190Z」。中綿の外側に防水膜を重ね、ソールは自分で貼り替えられるジオロック。サイズと重さ、楽天市場の値段を整理しました。 The post シマノ FS-190Z ウォータープルーフウィンター磯ブーツ｜中綿入りで防水、ソールは貼り替えできるカットラバーピンフェルト first appeared on 北海道釣り情報ブログ .",
+   "date": "2026-11-22T08:43:58+00:00",
+   "source": "北海道釣り情報ブログ（道南エリア釣行記）",
+   "places": [],
+   "species": [],
+   "hakodate": true,
+   "firstSeen": "2026-11-22T20:33:21.543589+09:00"
+  },
+  {
+   "title": "少年アングラーがヒラマサGET！船酔いしながらも奮闘【落とし込み釣り最新釣果情報14選・福岡】",
+   "link": "https://tsurinews.jp/417664/",
+   "summary": "少年アングラーがヒラマサGET！船酔いしながらも奮闘【落とし込み釣り最新釣果情報14選・福岡】\"> 北斗丸 北九州市小倉の高浜港から案内している北斗丸は、響灘に落とし込み釣りで出船。10kg超えの大型のヒラマサ好ヒット中。お父さんと乗船した、たつきくんは船酔いしながらも8kgのヒラマサを見事ゲットし … \"少年アングラーがヒラマサGET！船酔いしながらも奮闘【落とし込み釣り最新釣果情報14選・福岡】\" の 続きを読む",
+   "date": "2026-11-22T07:00:19+00:00",
+   "source": "TSURINEWS",
+   "places": [
+    "北斗"
+   ],
+   "species": [],
+   "hakodate": true,
+   "firstSeen": "2026-11-22T20:33:21.543589+09:00"
   },
   {
    "title": "厚岸のおすすめ釣りポイント｜釣れる魚・時期・注意点をわかりやすく！",
@@ -433,6 +457,45 @@
    ],
    "hakodate": false,
    "firstSeen": "2026-11-22T10:22:49.122557+09:00"
+  },
+  {
+   "title": "52 HIT うみきち🎣🦑 さん 2026-11-21 16:58 ツツイカ：100g〜300g 釣果場所： 全国 北海道 釣り場所：防波堤 #エギチャレX2026 一投目から掛かったので期待しましたが、その後は続きませんでした。 詳細ペー",
+   "link": "https://www.yamaria.com/catches/1325984",
+   "summary": "",
+   "date": "2026-11-21T00:00:00+09:00",
+   "source": "エギCOM 北海道",
+   "places": [],
+   "species": [
+    "イカ"
+   ],
+   "hakodate": false,
+   "firstSeen": "2026-11-22T20:33:21.543589+09:00"
+  },
+  {
+   "title": "54 HIT うみきち🎣🦑 さん 2026-11-21 17:26 ツツイカ：100g〜300g 釣果場所： 全国 北海道 釣り場所：防波堤 #エギチャレX2026 群れが回るとポツポツ釣れる感じですが群れは小さくなってるようです。 詳細ペ",
+   "link": "https://www.yamaria.com/catches/1325983",
+   "summary": "",
+   "date": "2026-11-21T00:00:00+09:00",
+   "source": "エギCOM 北海道",
+   "places": [],
+   "species": [
+    "イカ"
+   ],
+   "hakodate": false,
+   "firstSeen": "2026-11-22T20:33:21.543589+09:00"
+  },
+  {
+   "title": "53 HIT うみきち🎣🦑 さん 2026-11-21 18:01 ツツイカ：100g〜300g 釣果場所： 全国 北海道 釣り場所：防波堤 #エギチャレX2026 早いフォールで掛かってましたが、掛からなくなったので遅いフォールにしたら掛",
+   "link": "https://www.yamaria.com/catches/1325982",
+   "summary": "",
+   "date": "2026-11-21T00:00:00+09:00",
+   "source": "エギCOM 北海道",
+   "places": [],
+   "species": [
+    "イカ"
+   ],
+   "hakodate": false,
+   "firstSeen": "2026-11-22T20:33:21.543589+09:00"
   },
   {
    "title": "稚内のおすすめ釣りポイント｜釣れる魚・時期・注意点をわかりやすく！",
@@ -7637,6 +7700,19 @@
    "firstSeen": "2026-11-05T13:15:28.807938+09:00"
   },
   {
+   "title": "八雲・佳栄丸＝木村船長 - 日刊スポーツ",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQM3dOMkpEczhTZXFiNTFmazZ3V2NRWHNMb1I4Ym1ORDEtMDFBX2JTcldtb2pBMnMtR01GUVdLZG00WmpmNzZDUnNNLWRwa0Q4bHlqdExlNVZzeGtpeWdOQlVFRDlHc0hJLU1jaFVpQl95SEtSUElSQzA3dzFER1o2TUk3WFRoZHdVbmxGN1ktczU?oc=5",
+   "summary": "八雲・佳栄丸＝木村船長 日刊スポーツ",
+   "date": "2025-11-22T08:00:00+00:00",
+   "source": "Google ニュース（八雲 釣り）",
+   "places": [
+    "八雲"
+   ],
+   "species": [],
+   "hakodate": true,
+   "firstSeen": "2026-11-22T20:33:21.543589+09:00"
+  },
+  {
    "title": "サンマ釣りにぎわう 根室港、岸壁に太公望続々【根室市】 - 北海道ニュースリンク",
    "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE15OFE0ZDFDTC1pUDlnaE1TLVJEZHRjenp0SUR4TmtGWHotSmpUUnA2aldNZHdWeXdFTmVwNGtGQWd0WVJfSGNCWW9hY0g?oc=5",
    "summary": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
@@ -7695,6 +7771,21 @@
    ],
    "hakodate": true,
    "firstSeen": "2026-11-20T05:43:05.060605+09:00"
+  },
+  {
+   "title": "今年初めてイカ船入港 勝宝丸 「戻りイカ漁に期待」と船長 - 稚内プレス社",
+   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5NYTlWdkM2a3pOUlJvdU5wMUpfdDdHS2F5ODNvWVRDRHMyRHl5SmNGUGxJWnpNWmNCUl9BcXRmdG84cHJqWkJUZ2N3aXVvQ3FUUFNqTEhn?oc=5",
+   "summary": "今年初めてイカ船入港 勝宝丸 「戻りイカ漁に期待」と船長 稚内プレス社",
+   "date": "2025-10-03T07:00:00+00:00",
+   "source": "Google ニュース（八雲 釣り）",
+   "places": [
+    "稚内"
+   ],
+   "species": [
+    "イカ"
+   ],
+   "hakodate": true,
+   "firstSeen": "2026-11-22T20:33:21.543589+09:00"
   },
   {
    "title": "幕末のロマンが蘇る「開陽丸記念館」と江差で楽しめる船釣り「OCEAN TERRA」 - visit-hokkaido.jp",
@@ -7953,6 +8044,19 @@
    "firstSeen": "2026-11-05T13:15:28.807938+09:00"
   },
   {
+   "title": "嬉野D参戦！ウニにアワビ・早朝の釣りバカ対決も！これが八雲町熊石のここキャン北海道だ！ - SODANE",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8wQUhKTVh2T2RrX3k3MV9JZXFsNXBGZXo0TEpZVTkyZ2tBTkc3UUxNZDZSWFl1aWJHaGRJb00xMlBPMzhTcFJhRkpGZFUxUkhRUXR3Q1MtZExVQXRqeW9odnhtNmV2cEU?oc=5",
+   "summary": "嬉野D参戦！ウニにアワビ・早朝の釣りバカ対決も！これが八雲町熊石のここキャン北海道だ！ SODANE",
+   "date": "2022-06-29T07:00:00+00:00",
+   "source": "Google ニュース（八雲 釣り）",
+   "places": [
+    "八雲"
+   ],
+   "species": [],
+   "hakodate": true,
+   "firstSeen": "2026-11-22T20:33:21.543589+09:00"
+  },
+  {
    "title": "北海道・せたな町～八雲町沿岸 60cm大型アカハラ、ホッケ＆カレイ40cm超 土本さんＶ - 日刊スポーツ",
    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQVWRCSllzZGp2Nk9jNmZ5UHB5cHR4WHhXbDlCRFU1blEtd3FIOFJzUjREREx3NXU4dHhlU04yUWJ3MHA0MXhIellVUkVoVm4zR2xrVXp1b0hoeGRmX3NVQXZDMkdBVm1neXlMdEJwRVRqcmpZWHBFaHZ3Qnl2UE9HRkVRUlBaanlqbkhXbWk0Z01RbkJMZWgzQg?oc=5",
    "summary": "北海道・せたな町～八雲町沿岸 60cm大型アカハラ、ホッケ＆カレイ40cm超 土本さんＶ 日刊スポーツ",
@@ -8068,21 +8172,6 @@
    "places": [],
    "species": [
     "ヒラメ"
-   ],
-   "hakodate": true,
-   "firstSeen": "2026-11-05T13:15:28.807938+09:00"
-  },
-  {
-   "title": "北海道・八雲沖 好調好釣ソイや - 日刊スポーツ",
-   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9wbWV0ekg1MHpzdkhFS0YtX3Q4NzlwM1ZVWjl4ak5HVU5USUp4Qmg3WjFOeFRWNEtjZDlnVnBsQ2VIT25FNVZVRFh4RFpydHNqWnIxUGFaVDJNaEdBWXJHTlhSZG5HdkwzT0tDcDhkdWNPUDJjcU1MdDYzSQ?oc=5",
-   "summary": "北海道・八雲沖 好調好釣ソイや 日刊スポーツ",
-   "date": "2012-04-11T07:00:00+00:00",
-   "source": "Google ニュース（八雲 釣り）",
-   "places": [
-    "八雲"
-   ],
-   "species": [
-    "ソイ"
    ],
    "hakodate": true,
    "firstSeen": "2026-11-05T13:15:28.807938+09:00"
