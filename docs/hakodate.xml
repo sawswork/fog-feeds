@@ -4,7 +4,7 @@
     <title>函館周辺の釣果情報（fog-feeds）</title>
     <link>https://github.com/sawswork/fog-feeds</link>
     <description>道南・函館周辺の釣果・釣行情報を複数のサイトから集めたもの。見出しと短い説明、元記事へのリンク。</description>
-    <lastBuildDate>Tue, 24 Nov 2026 22:51:19 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 08:56:10 +0900</lastBuildDate>
     <item>
       <title>増毛のおすすめ釣りポイント｜釣れる魚・時期・注意点をわかりやすく！</title>
       <link>https://fishinglife.hatenadiary.jp/entry/2026/11/24/190000</link>
@@ -1813,6 +1813,14 @@
       <fog:species>サケ</fog:species>
     </item>
     <item>
+      <title>北海道在住アングラーが「釣りは程々にしよう！」と思った理由3選 - TSURINEWS</title>
+      <link>https://news.google.com/rss/articles/CBMiQkFVX3lxTE9PMmJRbU9nWlRWQmxhYW84Sm83alhXVFZMWEdMZS1CWFFpN3dGeV9ZZmpSbHpTci1NRmx4MW5OcTJlQQ?oc=5</link>
+      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMiQkFVX3lxTE9PMmJRbU9nWlRWQmxhYW84Sm83alhXVFZMWEdMZS1CWFFpN3dGeV9ZZmpSbHpTci1NRmx4MW5OcTJlQQ?oc=5</guid>
+      <pubDate>Sun, 05 Oct 2025 07:00:00 +0000</pubDate>
+      <description>北海道在住アングラーが「釣りは程々にしよう！」と思った理由3選 TSURINEWS（Google ニュース（噴火湾 釣り））</description>
+      <category>Google ニュース（噴火湾 釣り）</category>
+    </item>
+    <item>
       <title>スルメイカ９月２３０トン ７年ぶり２００トン超 胆振方面から陸送増【函館】 - 北海道ニュースリンク</title>
       <link>https://news.google.com/rss/articles/CBMiTEFVX3lxTE5HSkYxbGkxdC04YlZCT2laTkxZN3hJQlNsYkVFUnI3TmNBN2VrLUFNdVhoTkpBbUZGV1NKMkwyMjJUYkFLb0ZlZ1RRNWQ?oc=5</link>
       <guid isPermaLink="true">https://news.google.com/rss/articles/CBMiTEFVX3lxTE5HSkYxbGkxdC04YlZCT2laTkxZN3hJQlNsYkVFUnI3TmNBN2VrLUFNdVhoTkpBbUZGV1NKMkwyMjJUYkFLb0ZlZ1RRNWQ?oc=5</guid>
@@ -1934,18 +1942,6 @@
       <fog:species>アイナメ</fog:species>
     </item>
     <item>
-      <title>北海道の陸っぱりロックゲームでアイナメにヒラメを手中【噴火湾】ブロックの隙間狙いが奏功 - TSURINEWS</title>
-      <link>https://news.google.com/rss/articles/CBMiQkFVX3lxTE5wWVdheFNtU2NkYjJBWE5mVXJmSXgxRHl0Q2lET3RKT2t2YW9HTzRkR0RmNGwwRGNDT3JSc1ZLREhFQQ?oc=5</link>
-      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMiQkFVX3lxTE5wWVdheFNtU2NkYjJBWE5mVXJmSXgxRHl0Q2lET3RKT2t2YW9HTzRkR0RmNGwwRGNDT3JSc1ZLREhFQQ?oc=5</guid>
-      <pubDate>Mon, 23 Jun 2025 07:00:00 +0000</pubDate>
-      <description>北海道の陸っぱりロックゲームでアイナメにヒラメを手中【噴火湾】ブロックの隙間狙いが奏功 TSURINEWS ｜ 場所: 噴火湾 / 魚種: アイナメ・ヒラメ（Google ニュース（噴火湾 釣り））</description>
-      <category>Google ニュース（噴火湾 釣り）</category>
-      <fog:place>噴火湾</fog:place>
-      <fog:lat>42.25000</fog:lat>
-      <fog:lon>140.60000</fog:lon>
-      <fog:species>アイナメ・ヒラメ</fog:species>
-    </item>
-    <item>
       <title>道南の無人島 釣りの楽園 松前小島 前編 - YouTube</title>
       <link>https://news.google.com/rss/articles/CBMiXEFVX3lxTE02Ni1hSlhhUktXQWJuWFkxRXdjQ2xMLTh1UmtyYXlnRXlEc3Y2cDc1NGZOaW41ZXU2QjQtR2FwVUw5dnJwc1JnZmVsaE5RUWdoWWFWN1FqdnBVUjF6?oc=5</link>
       <guid isPermaLink="true">https://news.google.com/rss/articles/CBMiXEFVX3lxTE02Ni1hSlhhUktXQWJuWFkxRXdjQ2xMLTh1UmtyYXlnRXlEc3Y2cDc1NGZOaW41ZXU2QjQtR2FwVUw5dnJwc1JnZmVsaE5RUWdoWWFWN1FqdnBVUjF6?oc=5</guid>
@@ -2035,6 +2031,14 @@
       <category>Google ニュース（松前 江差 釣り）</category>
     </item>
     <item>
+      <title>北海道／釣りも楽しめるキャンプ場で夕食をゲット!!(季節・暮らしの話題 2023年09月19日) - tenki.jp</title>
+      <link>https://news.google.com/rss/articles/CBMidEFVX3lxTE8wYnpMdFZWNGY4LXd5ZnN4RmgweGlJdG9vbks2X1JNeFBGT3FWNTRrRGdNM1lWY1BjM25XY1hIUlVYVWg2M1VsVi1OQXVISlFJbWRWWG9oTjB5LVg0RWpQM2hPN2lHYUp2Zi1NS1ZmdjlHTkYz?oc=5</link>
+      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMidEFVX3lxTE8wYnpMdFZWNGY4LXd5ZnN4RmgweGlJdG9vbks2X1JNeFBGT3FWNTRrRGdNM1lWY1BjM25XY1hIUlVYVWg2M1VsVi1OQXVISlFJbWRWWG9oTjB5LVg0RWpQM2hPN2lHYUp2Zi1NS1ZmdjlHTkYz?oc=5</guid>
+      <pubDate>Tue, 19 Sep 2023 07:00:00 +0000</pubDate>
+      <description>北海道／釣りも楽しめるキャンプ場で夕食をゲット!!(季節・暮らしの話題 2023年09月19日) tenki.jp（Google ニュース（八雲 釣り））</description>
+      <category>Google ニュース（八雲 釣り）</category>
+    </item>
+    <item>
       <title>嬉野D参戦！ウニにアワビ・早朝の釣りバカ対決も！これが八雲町熊石のここキャン北海道だ！ - SODANE</title>
       <link>https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8wQUhKTVh2T2RrX3k3MV9JZXFsNXBGZXo0TEpZVTkyZ2tBTkc3UUxNZDZSWFl1aWJHaGRJb00xMlBPMzhTcFJhRkpGZFUxUkhRUXR3Q1MtZExVQXRqeW9odnhtNmV2cEU?oc=5</link>
       <guid isPermaLink="true">https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8wQUhKTVh2T2RrX3k3MV9JZXFsNXBGZXo0TEpZVTkyZ2tBTkc3UUxNZDZSWFl1aWJHaGRJb00xMlBPMzhTcFJhRkpGZFUxUkhRUXR3Q1MtZExVQXRqeW9odnhtNmV2cEU?oc=5</guid>
@@ -2084,18 +2088,6 @@
       <title>北海道・八雲町熊石大成区で40センチ超マゾイ まだまだホッケも楽しめる - 日刊スポーツ</title>
       <link>https://news.google.com/rss/articles/CBMimAFBVV95cUxPTENXZzdyeTNfTWhEampMTXVYeERsYXpRM1NWX09PMmVxZnhsUWhxSzQ0VzB6RUkwbVpxeUJVZTB5aHpvWG1UWlgyODF5dU1hTGpfVGtQSGpUTWg3emxIck5jN2owallnUVNEc1BPbW9DekllcllZcUE3Z1pVR0pjeHV2NmJwSkhGbVFCWlVvZWpfRENyb3luNA?oc=5</link>
       <guid isPermaLink="true">https://news.google.com/rss/articles/CBMimAFBVV95cUxPTENXZzdyeTNfTWhEampMTXVYeERsYXpRM1NWX09PMmVxZnhsUWhxSzQ0VzB6RUkwbVpxeUJVZTB5aHpvWG1UWlgyODF5dU1hTGpfVGtQSGpUTWg3emxIck5jN2owallnUVNEc1BPbW9DekllcllZcUE3Z1pVR0pjeHV2NmJwSkhGbVFCWlVvZWpfRENyb3luNA?oc=5</guid>
-      <pubDate>Thu, 20 May 2021 07:00:00 +0000</pubDate>
-      <description>北海道・八雲町熊石大成区で40センチ超マゾイ まだまだホッケも楽しめる 日刊スポーツ ｜ 場所: 八雲 / 魚種: マゾイ・ホッケ（Google ニュース（八雲 釣り））</description>
-      <category>Google ニュース（八雲 釣り）</category>
-      <fog:place>八雲</fog:place>
-      <fog:lat>42.25400</fog:lat>
-      <fog:lon>140.26500</fog:lon>
-      <fog:species>マゾイ・ホッケ</fog:species>
-    </item>
-    <item>
-      <title>北海道・八雲町熊石大成区で40センチ超マゾイ　まだまだホッケも楽しめる - 日刊スポーツ</title>
-      <link>https://news.google.com/rss/articles/CBMiekFVX3lxTE5uV3pOQ2J5VlZHS2F5TTlLNTBaaWlxWFppa1hLQmNyNVAwSmc5NXdubXUzald6V0FxaFZaMXpZWXZ5MGZmaWRnZE1TRGpEcnVUYUo2SWNhSU12cTVvWEoxbVZuUFIzN3hvYWNkVUxjUDEzNTd2U2ZDZkV30gGCAUFVX3lxTE9ZVGRTcS1DVGtuWkZveDN5M2FzS0FvX1o2cElQQnY4Tk12elNCeDJ5MU1WdUlfQTJiWDZLR09ISUcteDBabTM3RENuM2FtVVFUV3hRUlExSnJVSURfQ3lMb0JMaTlLTlBrSFl5ZF9CQ2luRjR3dFNHNC1IT0k1Z0xoZ1E?oc=5</link>
-      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMiekFVX3lxTE5uV3pOQ2J5VlZHS2F5TTlLNTBaaWlxWFppa1hLQmNyNVAwSmc5NXdubXUzald6V0FxaFZaMXpZWXZ5MGZmaWRnZE1TRGpEcnVUYUo2SWNhSU12cTVvWEoxbVZuUFIzN3hvYWNkVUxjUDEzNTd2U2ZDZkV30gGCAUFVX3lxTE9ZVGRTcS1DVGtuWkZveDN5M2FzS0FvX1o2cElQQnY4Tk12elNCeDJ5MU1WdUlfQTJiWDZLR09ISUcteDBabTM3RENuM2FtVVFUV3hRUlExSnJVSURfQ3lMb0JMaTlLTlBrSFl5ZF9CQ2luRjR3dFNHNC1IT0k1Z0xoZ1E?oc=5</guid>
       <pubDate>Thu, 20 May 2021 07:00:00 +0000</pubDate>
       <description>北海道・八雲町熊石大成区で40センチ超マゾイ まだまだホッケも楽しめる 日刊スポーツ ｜ 場所: 八雲 / 魚種: マゾイ・ホッケ（Google ニュース（八雲 釣り））</description>
       <category>Google ニュース（八雲 釣り）</category>
