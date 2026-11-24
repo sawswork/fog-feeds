@@ -4,7 +4,7 @@
     <title>北海道の釣果情報（fog-feeds）</title>
     <link>https://github.com/sawswork/fog-feeds</link>
     <description>北海道全域の釣果・釣行情報を複数のサイトから集めたもの。見出しと短い説明、元記事へのリンク。</description>
-    <lastBuildDate>Tue, 24 Nov 2026 11:16:13 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 24 Nov 2026 22:51:19 +0900</lastBuildDate>
     <item>
       <title>1月に今釣れるおすすめの魚！ワカサギ・チカ・ホッケなど</title>
       <link>https://fishinglife.hatenadiary.jp/entry/2026/11/06/073309</link>
@@ -22,6 +22,38 @@
       <description>1月の北海道は、一年で最も寒さが厳しい時期です。雪と氷に覆われた景色の中でも、釣りの楽しみはしっかりあります。氷上でのワカサギ釣りが本番を迎え、港ではチカやホッケの数釣りも楽しめる季節です。 この記事では、1月に北海道で今釣れるおすすめの魚を5つ紹介します。極寒の中での釣りになるので、防寒と安全にしっかり気をつけて、真冬の釣りを楽しみましょう。 1月に今釣れる魚！ ワカサギ （写真はイメージです） ワカサギは、1月の氷上釣りシーズン本番の主役です。氷に穴を開けて狙うワカサギ釣りは、北海道の冬ならではの楽しみで、群れに当たればたくさんの釣果が期待できます。ただし、氷上釣りができるのは解禁した場所だけで、氷の厚さや状態は日々変わります。必ず現地の解禁情報と氷の状態を確認してから出かけましょう。詳しくは、こちらのワカサギ釣りの始め方ガイドも参考にしてください。 ワカサギ釣りの始め方｜氷上釣りの道… ｜ 魚種: チカ・ホッケ（みんなの北海道釣り情報）</description>
       <category>みんなの北海道釣り情報</category>
       <fog:species>チカ・ホッケ</fog:species>
+    </item>
+    <item>
+      <title>増毛のおすすめ釣りポイント｜釣れる魚・時期・注意点をわかりやすく！</title>
+      <link>https://fishinglife.hatenadiary.jp/entry/2026/11/24/190000</link>
+      <guid isPermaLink="true">https://fishinglife.hatenadiary.jp/entry/2026/11/24/190000</guid>
+      <pubDate>Tue, 24 Nov 2026 19:00:00 +0900</pubDate>
+      <description>※2026年11月に公開しました。ポイントの立入可否やルールは変わることがあるため、出かける前に最新情報の確認をお願いします。防波堤など立入禁止の区域もあるため、現地の表示を必ず確認してください。 増毛は日本海側・留萌の南にある港町で、増毛港を中心に釣り場が広がるエリアです。秋から冬はホッケやカレイ、アイナメ、チカが狙えます。この記事では、増毛の釣りポイントの見方と、釣れる魚・時期・注意点をわかりやすくまとめます。 増毛で釣りができる主なエリア 増毛港（岸壁・埠頭まわり）：サビキでチカ、投げ釣りでカレイ、ジグサビキでホッケ、探り釣りで根魚が狙えます。北防波堤は立入禁止と案内されることがあるため、竿を出せる場所かどうか現地の表示で必ず確認してください。マリーナ内は釣り禁止です 町内・近隣の小規模な漁港・海岸まわり：カレイやカジカ、根魚の実績があります。漁業者の作業スペースには入らないでくださ… ｜ 場所: 増毛港・港町・留萌・増毛 / 魚種: ホッケ・カレイ・アイナメ・チカ・カジカ（みんなの北海道釣り情報）</description>
+      <category>みんなの北海道釣り情報</category>
+      <fog:place>増毛港</fog:place>
+      <fog:lat>43.86134</fog:lat>
+      <fog:lon>141.52702</fog:lon>
+      <fog:species>ホッケ・カレイ・アイナメ・チカ・カジカ</fog:species>
+    </item>
+    <item>
+      <title>「釣り人が海に落ち浮いている」釣り人の男性（28）が死亡 北海道・上ノ国町 - TVer</title>
+      <link>https://news.google.com/rss/articles/CBMiS0FVX3lxTE5lcTktSmFLX0FpLXBMZUZ5TTFOWjRocDNEWUc3LVQ2YTNTSnpfVFNFTU01N01mc0pLTVIyNl9Wa3RUUkVET3lKQ0w0TQ?oc=5</link>
+      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMiS0FVX3lxTE5lcTktSmFLX0FpLXBMZUZ5TTFOWjRocDNEWUc3LVQ2YTNTSnpfVFNFTU01N01mc0pLTVIyNl9Wa3RUUkVET3lKQ0w0TQ?oc=5</guid>
+      <pubDate>Tue, 24 Nov 2026 09:16:50 +0000</pubDate>
+      <description>「釣り人が海に落ち浮いている」釣り人の男性（28）が死亡 北海道・上ノ国町 TVer（Google ニュース（北海道 釣り））</description>
+      <category>Google ニュース（北海道 釣り）</category>
+    </item>
+    <item>
+      <title>沖根開幕間近！５５ｃｍ。カレイは穏やかに釣れています</title>
+      <link>https://www.magicalhour.net/2026/11/24/%E6%B2%96%E6%A0%B9%E9%96%8B%E5%B9%95%E9%96%93%E8%BF%91-%EF%BC%95%EF%BC%95%EF%BD%83%EF%BD%8D-%E3%82%AB%E3%83%AC%E3%82%A4%E3%81%AF%E7%A9%8F%E3%82%84%E3%81%8B%E3%81%AB%E9%87%A3%E3%82%8C%E3%81%A6%E3%81%84%E3%81%BE%E3%81%99/</link>
+      <guid isPermaLink="true">https://www.magicalhour.net/2026/11/24/%E6%B2%96%E6%A0%B9%E9%96%8B%E5%B9%95%E9%96%93%E8%BF%91-%EF%BC%95%EF%BC%95%EF%BD%83%EF%BD%8D-%E3%82%AB%E3%83%AC%E3%82%A4%E3%81%AF%E7%A9%8F%E3%82%84%E3%81%8B%E3%81%AB%E9%87%A3%E3%82%8C%E3%81%A6%E3%81%84%E3%81%BE%E3%81%99/</guid>
+      <pubDate>Tue, 24 Nov 2026 11:48:13 +0900</pubDate>
+      <description>１１月２１～２３日三連休。ボートロック、沖根、カレイ。ヒラメは終了ですが元気な魚達が迎えてくれました シケまくりでどもならんな、、と思って所に奇跡の連続出船！ 初日はボートロック＆沖根 開始一発！ 前回ほどの勢いはありませんでしたが良い反応。元気なアブラコ達がポツポツと相手してくれました 仲良し三人組。ちょっとトラブル多めでしたが上手く嵌るとドカンとヒット ベテランYさんもなんかあやとりしてましたね(^^; 竿が出てる時間が少なかったのか連発！とはいきませんでしたが全員ヒット 僕も少し味見しました。小気味良いアブラコ特有のアタリは癒されますね 前日はしっかり目の雪が降り、久々の雪かき。秘境エリアの景色は抜群でした 風は吹いたり止んだりで落ち着きません。沖根も予定していましたが行こうかな？と思った時に限って吹き始める 今日は浅場で終わろうかとも考えましたが終盤に少し行けそうと感じたので短時間… ｜ 場所: 豊浦 / 魚種: カレイ・ヒラメ・アブラコ（マジカルアワー（噴火湾の遊漁船））</description>
+      <category>マジカルアワー（噴火湾の遊漁船）</category>
+      <fog:place>豊浦</fog:place>
+      <fog:lat>42.57300</fog:lat>
+      <fog:lon>140.69200</fog:lon>
+      <fog:species>カレイ・ヒラメ・アブラコ</fog:species>
     </item>
     <item>
       <title>天塩のおすすめ釣りポイント｜釣れる魚・時期・注意点をわかりやすく！</title>
@@ -42,6 +74,14 @@
       <pubDate>Tue, 24 Nov 2026 00:06:33 +0000</pubDate>
       <description>「釣り人が海に落ち浮いている」釣り人の男性（28）が死亡 北海道・上ノ国町 (2026年11月23日掲載) ライブドアニュース（Google ニュース（北海道 釣り））</description>
       <category>Google ニュース（北海道 釣り）</category>
+    </item>
+    <item>
+      <title>「人が海に落ちて浮いている」男性が防波堤の岩場付近で発見…ヘリで救助されるも搬送先の病院で死亡…釣りをしている最中に転落か？発見時ライフジャケットは未着用〈北海道上ノ国町〉 - Yahoo!ニュース</title>
+      <link>https://news.google.com/rss/articles/CBMif0FVX3lxTE93cnZUMVd0Vlc1aG9MNFF0VUNocll2RHd4aXAxMmdGdVFrTjhaVUhTU2tGUWw3emlMUEFpY2tVUC1SdlN0NW45a3ZRbEdhQTJseHNpalB4SmNCZTBiSzVOTlFEcUFnUUdoV0s1cmRoWG9RTkNXOU9JSTUyUHQwRlk?oc=5</link>
+      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMif0FVX3lxTE93cnZUMVd0Vlc1aG9MNFF0VUNocll2RHd4aXAxMmdGdVFrTjhaVUhTU2tGUWw3emlMUEFpY2tVUC1SdlN0NW45a3ZRbEdhQTJseHNpalB4SmNCZTBiSzVOTlFEcUFnUUdoV0s1cmRoWG9RTkNXOU9JSTUyUHQwRlk?oc=5</guid>
+      <pubDate>Mon, 23 Nov 2026 21:30:02 +0000</pubDate>
+      <description>「人が海に落ちて浮いている」男性が防波堤の岩場付近で発見…ヘリで救助されるも搬送先の病院で死亡…釣りをしている最中に転落か？発見時ライフジャケットは未着用〈北海道上ノ国町〉 Yahoo!ニュース（Google ニュース（松前 江差 釣り））</description>
+      <category>Google ニュース（松前 江差 釣り）</category>
     </item>
     <item>
       <title>「人が海に落ちて浮いている」32歳男性が防波堤の岩場付近で発見…ヘリで救助されるも搬送先の病院で死亡…釣りをしている最中に転落か？発見時ライフジャケットは未着用〈北海道上ノ国町〉 - FNNプライムオンライン</title>
@@ -120,6 +160,14 @@
       <title>釣り中に海中転落か 上ノ国で男性死亡 - 北海道新聞デジタル</title>
       <link>https://news.google.com/rss/articles/CBMiZEFVX3lxTE1NWFd5ak12SFJmM05pVmdTVGI0SFJ3cWdyYk1lMGpJbWp4TmR2UlZwTS1QY1dKdXNvVXI2WWhnMkpqaExRS25WU3BLNzlXTGZRTFpGcXBMWEZ3aF84OHZUTWNpSk8?oc=5</link>
       <guid isPermaLink="true">https://news.google.com/rss/articles/CBMiZEFVX3lxTE1NWFd5ak12SFJmM05pVmdTVGI0SFJ3cWdyYk1lMGpJbWp4TmR2UlZwTS1QY1dKdXNvVXI2WWhnMkpqaExRS25WU3BLNzlXTGZRTFpGcXBMWEZ3aF84OHZUTWNpSk8?oc=5</guid>
+      <pubDate>Mon, 23 Nov 2026 11:00:43 +0000</pubDate>
+      <description>Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.（Google ニュース（北海道 釣り））</description>
+      <category>Google ニュース（北海道 釣り）</category>
+    </item>
+    <item>
+      <title>釣り中に海中転落か 上ノ国で男性死亡 - 北海道新聞デジタル</title>
+      <link>https://news.google.com/rss/articles/CBMiWkFVX3lxTE95bUY5cFlabjdQV0UyWkRkZWZzZzBadWZ1VVYyMVhVMzRRd3RwYUN1dnZFYjRJZG1xX201VzlNcjVMNkM1NEQ2UFA0YzRLVWlFQlg4ZFFYVDNpdw?oc=5</link>
+      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMiWkFVX3lxTE95bUY5cFlabjdQV0UyWkRkZWZzZzBadWZ1VVYyMVhVMzRRd3RwYUN1dnZFYjRJZG1xX201VzlNcjVMNkM1NEQ2UFA0YzRLVWlFQlg4ZFFYVDNpdw?oc=5</guid>
       <pubDate>Mon, 23 Nov 2026 11:00:43 +0000</pubDate>
       <description>Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.（Google ニュース（北海道 釣り））</description>
       <category>Google ニュース（北海道 釣り）</category>
@@ -5463,18 +5511,6 @@
       <fog:species>アジ</fog:species>
     </item>
     <item>
-      <title>のんびり秋ヒラメ【投げる】LJタックル活用術【しゃくる】</title>
-      <link>https://www.magicalhour.net/2026/08/26/%E3%81%AE%E3%82%93%E3%81%B3%E3%82%8A%E7%A7%8B%E3%83%92%E3%83%A9%E3%83%A1-%E6%8A%95%E3%81%92%E3%82%8B-lj%E3%82%BF%E3%83%83%E3%82%AF%E3%83%AB%E6%B4%BB%E7%94%A8%E8%A1%93-%E3%81%97%E3%82%83%E3%81%8F%E3%82%8B/</link>
-      <guid isPermaLink="true">https://www.magicalhour.net/2026/08/26/%E3%81%AE%E3%82%93%E3%81%B3%E3%82%8A%E7%A7%8B%E3%83%92%E3%83%A9%E3%83%A1-%E6%8A%95%E3%81%92%E3%82%8B-lj%E3%82%BF%E3%83%83%E3%82%AF%E3%83%AB%E6%B4%BB%E7%94%A8%E8%A1%93-%E3%81%97%E3%82%83%E3%81%8F%E3%82%8B/</guid>
-      <pubDate>Wed, 26 Aug 2026 18:31:08 +0900</pubDate>
-      <description>８月２４～２７日ヒラメ。とても良い感じで釣れております。数釣りの秋(^^)/ なんだかヒラメいっぱい居るんだが。サイズは程々ながらよく釣れております Mさんなんやかんや二桁安打 Kさんも多数ヒット！ 他お写真見つからず。また保存されてない件。キャスティングでも釣れていました。申し訳ありませんm(__)m 例年秋になるとルアーで釣るのが難しくなります。特にここ最近は同じ船に乗ってるのに別の海で釣りしてる？ってくらいルアーには無反応 まぁこれを攻略してなんとか掛けるのも面白いんですけどね。２年ほど前はダウンショットに激ハマリしてやり込んでみました ２５日は激雨。めちゃくちゃ降りました 今日は濁ってるべな～なんて思ってましたが何故かほぼ影響無し。風が押し流してくれたのかな？ さて夏の終わりを感じるとやりたくなるのが自由研究。今年は久しぶりにライトバケにチャレンジ！ 丁度RENAちゃんが来てくれた… ｜ 場所: 豊浦 / 魚種: ヒラメ（マジカルアワー（噴火湾の遊漁船））</description>
-      <category>マジカルアワー（噴火湾の遊漁船）</category>
-      <fog:place>豊浦</fog:place>
-      <fog:lat>42.57300</fog:lat>
-      <fog:lon>140.69200</fog:lon>
-      <fog:species>ヒラメ</fog:species>
-    </item>
-    <item>
       <title>【2026/8/30】釣り好きのための即売会イベント「第4回釣道南ハンドクラフト祭」（北斗市） - 函館イベント情報局</title>
       <link>https://news.google.com/rss/articles/CBMiXkFVX3lxTE9feW83b1ExZHRQOFNvaXNUcVd4aERsYWtrVXNKWG5ZanBkTmNQSFBVSjBuSkVqV1JUX0Q1TkZiWGxoMjdaOVZhOUlDdUh0cTlNRkQ2ME05LVpHOTBqQmc?oc=5</link>
       <guid isPermaLink="true">https://news.google.com/rss/articles/CBMiXkFVX3lxTE9feW83b1ExZHRQOFNvaXNUcVd4aERsYWtrVXNKWG5ZanBkTmNQSFBVSjBuSkVqV1JUX0Q1TkZiWGxoMjdaOVZhOUlDdUh0cTlNRkQ2ME05LVpHOTBqQmc?oc=5</guid>
@@ -6181,6 +6217,17 @@
       <fog:lon>140.26500</fog:lon>
     </item>
     <item>
+      <title>浜辺で安全に楽しめるカニ釣り - 函館経済新聞</title>
+      <link>https://news.google.com/rss/articles/CBMiVkFVX3lxTE5zdURDQ2VfNTlSUVZ3dGVaME01RzlnTUNRZW9OT3dGaGVDWngzMm1Yc2h0U0RJS0Y3cU1CcUMzb1J3UGlzd2FGMzVZMmV1MWJqTU4tSnhR?oc=5</link>
+      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMiVkFVX3lxTE5zdURDQ2VfNTlSUVZ3dGVaME01RzlnTUNRZW9OT3dGaGVDWngzMm1Yc2h0U0RJS0Y3cU1CcUMzb1J3UGlzd2FGMzVZMmV1MWJqTU4tSnhR?oc=5</guid>
+      <pubDate>Tue, 10 May 2022 07:00:00 +0000</pubDate>
+      <description>浜辺で安全に楽しめるカニ釣り 函館経済新聞 ｜ 場所: 函館（Google ニュース（北斗市 釣り））</description>
+      <category>Google ニュース（北斗市 釣り）</category>
+      <fog:place>函館</fog:place>
+      <fog:lat>41.76870</fog:lat>
+      <fog:lon>140.72900</fog:lon>
+    </item>
+    <item>
       <title>北海道・せたな町～八雲町沿岸 60cm大型アカハラ、ホッケ＆カレイ40cm超 土本さんＶ - 日刊スポーツ</title>
       <link>https://news.google.com/rss/articles/CBMimAFBVV95cUxQVWRCSllzZGp2Nk9jNmZ5UHB5cHR4WHhXbDlCRFU1blEtd3FIOFJzUjREREx3NXU4dHhlU04yUWJ3MHA0MXhIellVUkVoVm4zR2xrVXp1b0hoeGRmX3NVQXZDMkdBVm1neXlMdEJwRVRqcmpZWHBFaHZ3Qnl2UE9HRkVRUlBaanlqbkhXbWk0Z01RbkJMZWgzQg?oc=5</link>
       <guid isPermaLink="true">https://news.google.com/rss/articles/CBMimAFBVV95cUxQVWRCSllzZGp2Nk9jNmZ5UHB5cHR4WHhXbDlCRFU1blEtd3FIOFJzUjREREx3NXU4dHhlU04yUWJ3MHA0MXhIellVUkVoVm4zR2xrVXp1b0hoeGRmX3NVQXZDMkdBVm1neXlMdEJwRVRqcmpZWHBFaHZ3Qnl2UE9HRkVRUlBaanlqbkhXbWk0Z01RbkJMZWgzQg?oc=5</guid>
@@ -6239,17 +6286,6 @@
       <fog:lat>41.90000</fog:lat>
       <fog:lon>140.50000</fog:lon>
       <fog:species>サクラマス</fog:species>
-    </item>
-    <item>
-      <title>松前江良沖で漁船火災 けが人なし（動画） - 北海道新聞デジタル</title>
-      <link>https://news.google.com/rss/articles/CBMiakFVX3lxTE5oUG82a2NxY1F3WnU4UjFkeXdNay1HdlJLVjc0QkZuT25yUDJKeDBqa3JKQXF3VDJNZXoxVllsMTVkTDRhbTlLQjFqRUZ3RVFfSzA5WlNuTUtSNFBzRGNuLWo2VXZSek5melE?oc=5</link>
-      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMiakFVX3lxTE5oUG82a2NxY1F3WnU4UjFkeXdNay1HdlJLVjc0QkZuT25yUDJKeDBqa3JKQXF3VDJNZXoxVllsMTVkTDRhbTlLQjFqRUZ3RVFfSzA5WlNuTUtSNFBzRGNuLWo2VXZSek5melE?oc=5</guid>
-      <pubDate>Thu, 25 Jul 2019 07:00:00 +0000</pubDate>
-      <description>松前江良沖で漁船火災 けが人なし（動画） 北海道新聞デジタル ｜ 場所: 松前（Google ニュース（松前 江差 釣り））</description>
-      <category>Google ニュース（松前 江差 釣り）</category>
-      <fog:place>松前</fog:place>
-      <fog:lat>41.43000</fog:lat>
-      <fog:lon>140.10800</fog:lon>
     </item>
     <item>
       <title>北海道・出来澗海岸 ヒラメ60ｃｍヒット - 日刊スポーツ</title>

@@ -1,28 +1,28 @@
 {
- "updatedAt": "2026-11-24T11:16:13.742448+09:00",
+ "updatedAt": "2026-11-24T22:51:19.869274+09:00",
  "stats": [
   {
    "source": "Google ニュース（北海道 釣果）",
    "status": "OK",
-   "links": 87,
-   "new": 30
+   "links": 36,
+   "new": 29
   },
   {
    "source": "Google ニュース（北海道 釣り）",
    "status": "OK",
-   "links": 59,
-   "new": 27
+   "links": 61,
+   "new": 29
   },
   {
    "source": "Google ニュース（函館 釣り）",
    "status": "OK",
-   "links": 76,
+   "links": 75,
    "new": 30
   },
   {
    "source": "Google ニュース（道南 釣果）",
    "status": "OK",
-   "links": 26,
+   "links": 23,
    "new": 5
   },
   {
@@ -47,19 +47,19 @@
    "source": "エギCOM 北海道",
    "status": "OK",
    "links": 8,
-   "new": 8
+   "new": 0
   },
   {
    "source": "エギCOM 函館",
    "status": "OK",
    "links": 8,
-   "new": 2
+   "new": 0
   },
   {
    "source": "タックルベリー函館店",
    "status": "OK",
    "links": 6,
-   "new": 1
+   "new": 0
   },
   {
    "source": "TSURINEWS",
@@ -76,7 +76,7 @@
   {
    "source": "TSURI HACK",
    "status": "OK",
-   "links": 53,
+   "links": 52,
    "new": 0
   },
   {
@@ -117,39 +117,39 @@
   },
   {
    "source": "Google ニュース（噴火湾 釣り）",
-   "status": "失敗",
-   "links": 0,
-   "new": 0
+   "status": "OK",
+   "links": 25,
+   "new": 15
   },
   {
    "source": "Google ニュース（鹿部 釣り）",
-   "status": "失敗",
-   "links": 0,
+   "status": "OK",
+   "links": 26,
    "new": 0
   },
   {
    "source": "Google ニュース（八雲 釣り）",
-   "status": "失敗",
-   "links": 0,
-   "new": 0
+   "status": "OK",
+   "links": 52,
+   "new": 2
   },
   {
    "source": "Google ニュース（森町 釣り）",
-   "status": "失敗",
-   "links": 0,
-   "new": 0
+   "status": "OK",
+   "links": 13,
+   "new": 5
   },
   {
    "source": "Google ニュース（北斗市 釣り）",
-   "status": "失敗",
-   "links": 0,
-   "new": 0
+   "status": "OK",
+   "links": 77,
+   "new": 1
   },
   {
    "source": "Google ニュース（松前 江差 釣り）",
-   "status": "失敗",
-   "links": 0,
-   "new": 0
+   "status": "OK",
+   "links": 31,
+   "new": 1
   }
  ],
  "items": [
@@ -180,6 +180,56 @@
    ],
    "hakodate": false,
    "firstSeen": "2026-11-07T22:10:29.321923+09:00"
+  },
+  {
+   "title": "増毛のおすすめ釣りポイント｜釣れる魚・時期・注意点をわかりやすく！",
+   "link": "https://fishinglife.hatenadiary.jp/entry/2026/11/24/190000",
+   "summary": "※2026年11月に公開しました。ポイントの立入可否やルールは変わることがあるため、出かける前に最新情報の確認をお願いします。防波堤など立入禁止の区域もあるため、現地の表示を必ず確認してください。 増毛は日本海側・留萌の南にある港町で、増毛港を中心に釣り場が広がるエリアです。秋から冬はホッケやカレイ、アイナメ、チカが狙えます。この記事では、増毛の釣りポイントの見方と、釣れる魚・時期・注意点をわかりやすくまとめます。 増毛で釣りができる主なエリア 増毛港（岸壁・埠頭まわり）：サビキでチカ、投げ釣りでカレイ、ジグサビキでホッケ、探り釣りで根魚が狙えます。北防波堤は立入禁止と案内されることがあるため、竿を出せる場所かどうか現地の表示で必ず確認してください。マリーナ内は釣り禁止です 町内・近隣の小規模な漁港・海岸まわり：カレイやカジカ、根魚の実績があります。漁業者の作業スペースには入らないでくださ…",
+   "date": "2026-11-24T19:00:00+09:00",
+   "source": "みんなの北海道釣り情報",
+   "places": [
+    "増毛港",
+    "港町",
+    "留萌",
+    "増毛"
+   ],
+   "species": [
+    "ホッケ",
+    "カレイ",
+    "アイナメ",
+    "チカ",
+    "カジカ"
+   ],
+   "hakodate": true,
+   "firstSeen": "2026-11-24T22:51:19.869274+09:00"
+  },
+  {
+   "title": "「釣り人が海に落ち浮いている」釣り人の男性（28）が死亡 北海道・上ノ国町 - TVer",
+   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5lcTktSmFLX0FpLXBMZUZ5TTFOWjRocDNEWUc3LVQ2YTNTSnpfVFNFTU01N01mc0pLTVIyNl9Wa3RUUkVET3lKQ0w0TQ?oc=5",
+   "summary": "「釣り人が海に落ち浮いている」釣り人の男性（28）が死亡 北海道・上ノ国町 TVer",
+   "date": "2026-11-24T09:16:50+00:00",
+   "source": "Google ニュース（北海道 釣り）",
+   "places": [],
+   "species": [],
+   "hakodate": false,
+   "firstSeen": "2026-11-24T22:51:19.869274+09:00"
+  },
+  {
+   "title": "沖根開幕間近！５５ｃｍ。カレイは穏やかに釣れています",
+   "link": "https://www.magicalhour.net/2026/11/24/%E6%B2%96%E6%A0%B9%E9%96%8B%E5%B9%95%E9%96%93%E8%BF%91-%EF%BC%95%EF%BC%95%EF%BD%83%EF%BD%8D-%E3%82%AB%E3%83%AC%E3%82%A4%E3%81%AF%E7%A9%8F%E3%82%84%E3%81%8B%E3%81%AB%E9%87%A3%E3%82%8C%E3%81%A6%E3%81%84%E3%81%BE%E3%81%99/",
+   "summary": "１１月２１～２３日三連休。ボートロック、沖根、カレイ。ヒラメは終了ですが元気な魚達が迎えてくれました シケまくりでどもならんな、、と思って所に奇跡の連続出船！ 初日はボートロック＆沖根 開始一発！ 前回ほどの勢いはありませんでしたが良い反応。元気なアブラコ達がポツポツと相手してくれました 仲良し三人組。ちょっとトラブル多めでしたが上手く嵌るとドカンとヒット ベテランYさんもなんかあやとりしてましたね(^^; 竿が出てる時間が少なかったのか連発！とはいきませんでしたが全員ヒット 僕も少し味見しました。小気味良いアブラコ特有のアタリは癒されますね 前日はしっかり目の雪が降り、久々の雪かき。秘境エリアの景色は抜群でした 風は吹いたり止んだりで落ち着きません。沖根も予定していましたが行こうかな？と思った時に限って吹き始める 今日は浅場で終わろうかとも考えましたが終盤に少し行けそうと感じたので短時間…",
+   "date": "2026-11-24T11:48:13+09:00",
+   "source": "マジカルアワー（噴火湾の遊漁船）",
+   "places": [
+    "豊浦"
+   ],
+   "species": [
+    "カレイ",
+    "ヒラメ",
+    "アブラコ"
+   ],
+   "hakodate": true,
+   "firstSeen": "2026-11-24T22:51:19.869274+09:00"
   },
   {
    "title": "天塩のおすすめ釣りポイント｜釣れる魚・時期・注意点をわかりやすく！",
@@ -213,6 +263,17 @@
    "species": [],
    "hakodate": false,
    "firstSeen": "2026-11-24T11:16:13.742448+09:00"
+  },
+  {
+   "title": "「人が海に落ちて浮いている」男性が防波堤の岩場付近で発見…ヘリで救助されるも搬送先の病院で死亡…釣りをしている最中に転落か？発見時ライフジャケットは未着用〈北海道上ノ国町〉 - Yahoo!ニュース",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE93cnZUMVd0Vlc1aG9MNFF0VUNocll2RHd4aXAxMmdGdVFrTjhaVUhTU2tGUWw3emlMUEFpY2tVUC1SdlN0NW45a3ZRbEdhQTJseHNpalB4SmNCZTBiSzVOTlFEcUFnUUdoV0s1cmRoWG9RTkNXOU9JSTUyUHQwRlk?oc=5",
+   "summary": "「人が海に落ちて浮いている」男性が防波堤の岩場付近で発見…ヘリで救助されるも搬送先の病院で死亡…釣りをしている最中に転落か？発見時ライフジャケットは未着用〈北海道上ノ国町〉 Yahoo!ニュース",
+   "date": "2026-11-23T21:30:02+00:00",
+   "source": "Google ニュース（松前 江差 釣り）",
+   "places": [],
+   "species": [],
+   "hakodate": true,
+   "firstSeen": "2026-11-24T22:51:19.869274+09:00"
   },
   {
    "title": "「人が海に落ちて浮いている」32歳男性が防波堤の岩場付近で発見…ヘリで救助されるも搬送先の病院で死亡…釣りをしている最中に転落か？発見時ライフジャケットは未着用〈北海道上ノ国町〉 - FNNプライムオンライン",
@@ -322,6 +383,17 @@
    "species": [],
    "hakodate": false,
    "firstSeen": "2026-11-23T21:57:34.570569+09:00"
+  },
+  {
+   "title": "釣り中に海中転落か 上ノ国で男性死亡 - 北海道新聞デジタル",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE95bUY5cFlabjdQV0UyWkRkZWZzZzBadWZ1VVYyMVhVMzRRd3RwYUN1dnZFYjRJZG1xX201VzlNcjVMNkM1NEQ2UFA0YzRLVWlFQlg4ZFFYVDNpdw?oc=5",
+   "summary": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+   "date": "2026-11-23T11:00:43+00:00",
+   "source": "Google ニュース（北海道 釣り）",
+   "places": [],
+   "species": [],
+   "hakodate": false,
+   "firstSeen": "2026-11-24T22:51:19.869274+09:00"
   },
   {
    "title": "羽幌のおすすめ釣りポイント｜釣れる魚・時期・注意点をわかりやすく！",
@@ -7730,21 +7802,6 @@
    "firstSeen": "2026-11-05T13:15:28.807938+09:00"
   },
   {
-   "title": "のんびり秋ヒラメ【投げる】LJタックル活用術【しゃくる】",
-   "link": "https://www.magicalhour.net/2026/08/26/%E3%81%AE%E3%82%93%E3%81%B3%E3%82%8A%E7%A7%8B%E3%83%92%E3%83%A9%E3%83%A1-%E6%8A%95%E3%81%92%E3%82%8B-lj%E3%82%BF%E3%83%83%E3%82%AF%E3%83%AB%E6%B4%BB%E7%94%A8%E8%A1%93-%E3%81%97%E3%82%83%E3%81%8F%E3%82%8B/",
-   "summary": "８月２４～２７日ヒラメ。とても良い感じで釣れております。数釣りの秋(^^)/ なんだかヒラメいっぱい居るんだが。サイズは程々ながらよく釣れております Mさんなんやかんや二桁安打 Kさんも多数ヒット！ 他お写真見つからず。また保存されてない件。キャスティングでも釣れていました。申し訳ありませんm(__)m 例年秋になるとルアーで釣るのが難しくなります。特にここ最近は同じ船に乗ってるのに別の海で釣りしてる？ってくらいルアーには無反応 まぁこれを攻略してなんとか掛けるのも面白いんですけどね。２年ほど前はダウンショットに激ハマリしてやり込んでみました ２５日は激雨。めちゃくちゃ降りました 今日は濁ってるべな～なんて思ってましたが何故かほぼ影響無し。風が押し流してくれたのかな？ さて夏の終わりを感じるとやりたくなるのが自由研究。今年は久しぶりにライトバケにチャレンジ！ 丁度RENAちゃんが来てくれた…",
-   "date": "2026-08-26T18:31:08+09:00",
-   "source": "マジカルアワー（噴火湾の遊漁船）",
-   "places": [
-    "豊浦"
-   ],
-   "species": [
-    "ヒラメ"
-   ],
-   "hakodate": true,
-   "firstSeen": "2026-11-05T13:15:28.807938+09:00"
-  },
-  {
    "title": "【2026/8/30】釣り好きのための即売会イベント「第4回釣道南ハンドクラフト祭」（北斗市） - 函館イベント情報局",
    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9feW83b1ExZHRQOFNvaXNUcVd4aERsYWtrVXNKWG5ZanBkTmNQSFBVSjBuSkVqV1JUX0Q1TkZiWGxoMjdaOVZhOUlDdUh0cTlNRkQ2ME05LVpHOTBqQmc?oc=5",
    "summary": "【2026/8/30】釣り好きのための即売会イベント「第4回釣道南ハンドクラフト祭」（北斗市） 函館イベント情報局",
@@ -8668,6 +8725,19 @@
    "firstSeen": "2026-11-22T20:33:21.543589+09:00"
   },
   {
+   "title": "浜辺で安全に楽しめるカニ釣り - 函館経済新聞",
+   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5zdURDQ2VfNTlSUVZ3dGVaME01RzlnTUNRZW9OT3dGaGVDWngzMm1Yc2h0U0RJS0Y3cU1CcUMzb1J3UGlzd2FGMzVZMmV1MWJqTU4tSnhR?oc=5",
+   "summary": "浜辺で安全に楽しめるカニ釣り 函館経済新聞",
+   "date": "2022-05-10T07:00:00+00:00",
+   "source": "Google ニュース（北斗市 釣り）",
+   "places": [
+    "函館"
+   ],
+   "species": [],
+   "hakodate": true,
+   "firstSeen": "2026-11-24T22:51:19.869274+09:00"
+  },
+  {
    "title": "北海道・せたな町～八雲町沿岸 60cm大型アカハラ、ホッケ＆カレイ40cm超 土本さんＶ - 日刊スポーツ",
    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQVWRCSllzZGp2Nk9jNmZ5UHB5cHR4WHhXbDlCRFU1blEtd3FIOFJzUjREREx3NXU4dHhlU04yUWJ3MHA0MXhIellVUkVoVm4zR2xrVXp1b0hoeGRmX3NVQXZDMkdBVm1neXlMdEJwRVRqcmpZWHBFaHZ3Qnl2UE9HRkVRUlBaanlqbkhXbWk0Z01RbkJMZWgzQg?oc=5",
    "summary": "北海道・せたな町～八雲町沿岸 60cm大型アカハラ、ホッケ＆カレイ40cm超 土本さんＶ 日刊スポーツ",
@@ -8745,19 +8815,6 @@
    "species": [
     "サクラマス"
    ],
-   "hakodate": true,
-   "firstSeen": "2026-11-20T11:22:07.186376+09:00"
-  },
-  {
-   "title": "松前江良沖で漁船火災 けが人なし（動画） - 北海道新聞デジタル",
-   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5oUG82a2NxY1F3WnU4UjFkeXdNay1HdlJLVjc0QkZuT25yUDJKeDBqa3JKQXF3VDJNZXoxVllsMTVkTDRhbTlLQjFqRUZ3RVFfSzA5WlNuTUtSNFBzRGNuLWo2VXZSek5melE?oc=5",
-   "summary": "松前江良沖で漁船火災 けが人なし（動画） 北海道新聞デジタル",
-   "date": "2019-07-25T07:00:00+00:00",
-   "source": "Google ニュース（松前 江差 釣り）",
-   "places": [
-    "松前"
-   ],
-   "species": [],
    "hakodate": true,
    "firstSeen": "2026-11-20T11:22:07.186376+09:00"
   },
