@@ -4,7 +4,7 @@
     <title>北海道の釣果情報（fog-feeds）</title>
     <link>https://github.com/sawswork/fog-feeds</link>
     <description>北海道全域の釣果・釣行情報を複数のサイトから集めたもの。見出しと短い説明、元記事へのリンク。</description>
-    <lastBuildDate>Wed, 25 Nov 2026 08:56:10 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 17:43:50 +0900</lastBuildDate>
     <item>
       <title>1月に今釣れるおすすめの魚！ワカサギ・チカ・ホッケなど</title>
       <link>https://fishinglife.hatenadiary.jp/entry/2026/11/06/073309</link>
@@ -22,6 +22,29 @@
       <description>1月の北海道は、一年で最も寒さが厳しい時期です。雪と氷に覆われた景色の中でも、釣りの楽しみはしっかりあります。氷上でのワカサギ釣りが本番を迎え、港ではチカやホッケの数釣りも楽しめる季節です。 この記事では、1月に北海道で今釣れるおすすめの魚を5つ紹介します。極寒の中での釣りになるので、防寒と安全にしっかり気をつけて、真冬の釣りを楽しみましょう。 1月に今釣れる魚！ ワカサギ （写真はイメージです） ワカサギは、1月の氷上釣りシーズン本番の主役です。氷に穴を開けて狙うワカサギ釣りは、北海道の冬ならではの楽しみで、群れに当たればたくさんの釣果が期待できます。ただし、氷上釣りができるのは解禁した場所だけで、氷の厚さや状態は日々変わります。必ず現地の解禁情報と氷の状態を確認してから出かけましょう。詳しくは、こちらのワカサギ釣りの始め方ガイドも参考にしてください。 ワカサギ釣りの始め方｜氷上釣りの道… ｜ 魚種: チカ・ホッケ（みんなの北海道釣り情報）</description>
       <category>みんなの北海道釣り情報</category>
       <fog:species>チカ・ホッケ</fog:species>
+    </item>
+    <item>
+      <title>遠別のおすすめ釣りポイント｜釣れる魚・時期・注意点をわかりやすく！</title>
+      <link>https://fishinglife.hatenadiary.jp/entry/2026/11/25/094554</link>
+      <guid isPermaLink="true">https://fishinglife.hatenadiary.jp/entry/2026/11/25/094554</guid>
+      <pubDate>Wed, 25 Nov 2026 09:45:54 +0900</pubDate>
+      <description>※2026年11月に公開しました。ポイントの立入可否やルールは変わることがあるため、出かける前に最新情報の確認をお願いします。外防波堤など立入禁止の区域もあるため、現地の表示を必ず確認してください。 遠別は日本海側、留萌管内の港町で、遠別漁港を中心に釣り場が広がるエリアです。秋から冬はコマイやホッケ、アイナメ、カレイ、チカが狙えます。この記事では、遠別の釣りポイントの見方と、釣れる魚・時期・注意点をわかりやすくまとめます。 遠別で釣りができる主なエリア 遠別漁港（港内・岸壁まわり）：サビキでチカ、投げ釣りでカレイやコマイ、探り釣りでアイナメなどの根魚が狙えます。働く港なので、荷役作業の場所や立入禁止の区域には入らないでください。外防波堤は立入禁止とされるため、港内で竿を出してください。 遠別川河口周辺：河口周辺にはサケ・マスの採捕に関する規制がかかる期間があります。河口規制があるため、規制… ｜ 場所: 遠別漁港・港町・遠別・留萌 / 魚種: コマイ・ホッケ・アイナメ・カレイ・チカ・サケ（みんなの北海道釣り情報）</description>
+      <category>みんなの北海道釣り情報</category>
+      <fog:place>遠別漁港</fog:place>
+      <fog:lat>44.72279</fog:lat>
+      <fog:lon>141.78306</fog:lon>
+      <fog:species>コマイ・ホッケ・アイナメ・カレイ・チカ・サケ</fog:species>
+    </item>
+    <item>
+      <title>2026/11/25 △▲△タックルベリーDAY開催！！△▲△</title>
+      <link>https://www.tackleberry.co.jp/shop/30011066/2026/11/25/%e2%96%b3%e2%96%b2%e2%96%b3%e3%82%bf%e3%83%83%e3%82%af%e3%83%ab%e3%83%99%e3%83%aa%e3%83%bcday%e9%96%8b%e5%82%ac%ef%bc%81%ef%bc%81%e2%96%b3%e2%96%b2%e2%96%b3-3/</link>
+      <guid isPermaLink="true">https://www.tackleberry.co.jp/shop/30011066/2026/11/25/%e2%96%b3%e2%96%b2%e2%96%b3%e3%82%bf%e3%83%83%e3%82%af%e3%83%ab%e3%83%99%e3%83%aa%e3%83%bcday%e9%96%8b%e5%82%ac%ef%bc%81%ef%bc%81%e2%96%b3%e2%96%b2%e2%96%b3-3/</guid>
+      <pubDate>Wed, 25 Nov 2026 00:00:00 +0900</pubDate>
+      <description>Just another 釣具の販売｜中古釣具オークション、高価買取、通販【タックルベリー】サイト site ｜ 場所: 函館（タックルベリー函館店）</description>
+      <category>タックルベリー函館店</category>
+      <fog:place>函館</fog:place>
+      <fog:lat>41.76870</fog:lat>
+      <fog:lon>140.72900</fog:lon>
     </item>
     <item>
       <title>増毛のおすすめ釣りポイント｜釣れる魚・時期・注意点をわかりやすく！</title>
@@ -172,6 +195,14 @@
       <guid isPermaLink="true">https://news.google.com/rss/articles/CBMif0FVX3lxTFBiWDhmQ1pMY29sQlpzRXV2N0NQdncza1BfTVJpemh1N3htMTNoOGtNUWhlaThhSXZNVnhVbWR0SmMxVmFBT0ZaY29NZ253VlpKNllibWNOYjBzY0pTVE8xaXllMm1BTjhTQlU3ejZGMU1nZGNHeU9NalNFbnZGTDg?oc=5</guid>
       <pubDate>Mon, 23 Nov 2026 11:50:00 +0000</pubDate>
       <description>「釣り人が海に落ち浮いている」釣り人の男性（28）が死亡 北海道・上ノ国町 Yahoo!ニュース（Google ニュース（北海道 釣り））</description>
+      <category>Google ニュース（北海道 釣り）</category>
+    </item>
+    <item>
+      <title>「釣り人が海に落ち浮いている」釣り人の男性（28）が死亡 北海道・上ノ国町（2026年11月23日掲載）｜STV NEWS NNN - 日テレNEWS NNN</title>
+      <link>https://news.google.com/rss/articles/CBMihwFBVV95cUxNVERTdm04QjRYeFhxOFl3cDlOQWJIcThmS1dRUDJmY1Nfd1p6Q01WM05HTnpQeWt1aThhbVQ2b1diVUp1T2FYZ090LS1zdmJNZDdnbTMyck4zNTNTQ2VuLTZnaXJXQzdORDNDWGR4UUVJQlFhcTJnZkEwd2FrSThlU0FLWE1sckU?oc=5</link>
+      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMihwFBVV95cUxNVERTdm04QjRYeFhxOFl3cDlOQWJIcThmS1dRUDJmY1Nfd1p6Q01WM05HTnpQeWt1aThhbVQ2b1diVUp1T2FYZ090LS1zdmJNZDdnbTMyck4zNTNTQ2VuLTZnaXJXQzdORDNDWGR4UUVJQlFhcTJnZkEwd2FrSThlU0FLWE1sckU?oc=5</guid>
+      <pubDate>Mon, 23 Nov 2026 11:50:00 +0000</pubDate>
+      <description>「釣り人が海に落ち浮いている」釣り人の男性（28）が死亡 北海道・上ノ国町（2026年11月23日掲載）｜STV NEWS NNN 日テレNEWS NNN（Google ニュース（北海道 釣り））</description>
       <category>Google ニュース（北海道 釣り）</category>
     </item>
     <item>
@@ -5542,6 +5573,18 @@
       <fog:species>ヒラメ</fog:species>
     </item>
     <item>
+      <title>「クマがサケを持って行った」釣り人からの110番通報…カゴの中のサケが1匹減る 北海道石狩市 - Yahoo!ニュース</title>
+      <link>https://news.google.com/rss/articles/CBMijgFBVV95cUxQUTNPMDBpd3BxUDJFVDJTRGM5U3ZJcXJfcVNvMFBkV0treWxjZlVPWV9fd3Q5S2hCaGdiUXpoNFlrMTJPMlMzeEJDNzRldHJnWk8tOGlpbFZrYUFyOXZ2NURiWURoMkJGOUVEaW84eEpzcEg4NnRGNGZWRG4xeER0OElhMFYxb3Buc1NLWURR?oc=5</link>
+      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMijgFBVV95cUxQUTNPMDBpd3BxUDJFVDJTRGM5U3ZJcXJfcVNvMFBkV0treWxjZlVPWV9fd3Q5S2hCaGdiUXpoNFlrMTJPMlMzeEJDNzRldHJnWk8tOGlpbFZrYUFyOXZ2NURiWURoMkJGOUVEaW84eEpzcEg4NnRGNGZWRG4xeER0OElhMFYxb3Buc1NLWURR?oc=5</guid>
+      <pubDate>Sat, 19 Sep 2026 07:00:00 +0000</pubDate>
+      <description>「クマがサケを持って行った」釣り人からの110番通報…カゴの中のサケが1匹減る 北海道石狩市 Yahoo!ニュース ｜ 場所: 石狩 / 魚種: サケ（Google ニュース（北海道 釣り））</description>
+      <category>Google ニュース（北海道 釣り）</category>
+      <fog:place>石狩</fog:place>
+      <fog:lat>43.17100</fog:lat>
+      <fog:lon>141.31500</fog:lon>
+      <fog:species>サケ</fog:species>
+    </item>
+    <item>
       <title>立待岬側の寒川の洞窟</title>
       <link>http://vi159xz3.exblog.jp/31081846/</link>
       <guid isPermaLink="true">http://vi159xz3.exblog.jp/31081846/</guid>
@@ -5607,6 +5650,18 @@
       <fog:lon>142.36900</fog:lon>
     </item>
     <item>
+      <title>釧路港 釣り自粛強化 振興局や市 秋サケ不漁予想受け 15日、釧路署と巡回 - 北海道新聞デジタル</title>
+      <link>https://news.google.com/rss/articles/CBMiWkFVX3lxTE9IVEN3NXREZzcwUTk3UWUybFdQaFd3VFd3dzlmWC1ud2R3SmJrSGFITXctV3ZUOFhxZ3dwQTZ6eXZhQmZ2N2hNTzBma0g2RnR3SnZsdFlWQXNxQQ?oc=5</link>
+      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMiWkFVX3lxTE9IVEN3NXREZzcwUTk3UWUybFdQaFd3VFd3dzlmWC1ud2R3SmJrSGFITXctV3ZUOFhxZ3dwQTZ6eXZhQmZ2N2hNTzBma0g2RnR3SnZsdFlWQXNxQQ?oc=5</guid>
+      <pubDate>Sat, 12 Sep 2026 07:00:00 +0000</pubDate>
+      <description>釧路港 釣り自粛強化 振興局や市 秋サケ不漁予想受け 15日、釧路署と巡回 北海道新聞デジタル ｜ 場所: 釧路港・釧路 / 魚種: サケ（Google ニュース（北海道 釣り））</description>
+      <category>Google ニュース（北海道 釣り）</category>
+      <fog:place>釧路港</fog:place>
+      <fog:lat>42.98455</fog:lat>
+      <fog:lon>144.32336</fog:lon>
+      <fog:species>サケ</fog:species>
+    </item>
+    <item>
       <title>アナゴ釣り</title>
       <link>https://sshiimaaa.hatenablog.com/entry/2026/09/12/124749</link>
       <guid isPermaLink="true">https://sshiimaaa.hatenablog.com/entry/2026/09/12/124749</guid>
@@ -5650,6 +5705,15 @@
       <fog:lat>41.76870</fog:lat>
       <fog:lon>140.72900</fog:lon>
       <fog:species>スルメイカ</fog:species>
+    </item>
+    <item>
+      <title>「秋サケ」全国の産地で“記録的不漁”…スーパーでは1匹“88万円” 「1人1日3匹まで」北海道で釣り規制も（2026年9月10日掲載） - 日テレNEWS NNN</title>
+      <link>https://news.google.com/rss/articles/CBMifEFVX3lxTE81Yzhvc1J2LUdBNjBoclhxVlotZ0tBWnktbEV0enJ1TGRER0J4djFYNThRa2F3bUFUSXNrOTBlUjBtaG9MUDh5OVU0c3N3NmVSYlpFazQ5S29ZNjFrVzViRnJqNG5LczhFSTJVQ0xET3RicUJvUlZrblI3eFg?oc=5</link>
+      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMifEFVX3lxTE81Yzhvc1J2LUdBNjBoclhxVlotZ0tBWnktbEV0enJ1TGRER0J4djFYNThRa2F3bUFUSXNrOTBlUjBtaG9MUDh5OVU0c3N3NmVSYlpFazQ5S29ZNjFrVzViRnJqNG5LczhFSTJVQ0xET3RicUJvUlZrblI3eFg?oc=5</guid>
+      <pubDate>Thu, 10 Sep 2026 07:00:00 +0000</pubDate>
+      <description>「秋サケ」全国の産地で“記録的不漁”…スーパーでは1匹“88万円” 「1人1日3匹まで」北海道で釣り規制も（2026年9月10日掲載） 日テレNEWS NNN ｜ 魚種: サケ（Google ニュース（北海道 釣り））</description>
+      <category>Google ニュース（北海道 釣り）</category>
+      <fog:species>サケ</fog:species>
     </item>
     <item>
       <title>今週まとめ。バケは順調、ルアーは・・</title>
@@ -5758,6 +5822,15 @@
       <description>【北海道】【釣り】我慢して合わせ、止めて喰わし極太ゲット！＃サケ釣り＃アキアジ釣り＃ウキルアー YouTube ｜ 魚種: サケ・アキアジ（Google ニュース（北海道 釣り））</description>
       <category>Google ニュース（北海道 釣り）</category>
       <fog:species>サケ・アキアジ</fog:species>
+    </item>
+    <item>
+      <title>北海道のサケ、釣り人の身勝手で"無法地帯" 資源減少の町が訴える窮状 「業者の関与が疑われる」ケースも - ENCOUNT</title>
+      <link>https://news.google.com/rss/articles/CBMiUEFVX3lxTFBXMHFQRXNacHYwc0NGNUdrRHkwbWlPTUR4U04yeG9KQzNQVlJNS2o0SlNsc1BRZ2FYN3ZZa1prcUtscDZyNFJ6ajBMVUtzcEFv?oc=5</link>
+      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMiUEFVX3lxTFBXMHFQRXNacHYwc0NGNUdrRHkwbWlPTUR4U04yeG9KQzNQVlJNS2o0SlNsc1BRZ2FYN3ZZa1prcUtscDZyNFJ6ajBMVUtzcEFv?oc=5</guid>
+      <pubDate>Tue, 01 Sep 2026 07:00:00 +0000</pubDate>
+      <description>北海道のサケ、釣り人の身勝手で"無法地帯" 資源減少の町が訴える窮状 「業者の関与が疑われる」ケースも ENCOUNT ｜ 魚種: サケ（Google ニュース（北海道 釣り））</description>
+      <category>Google ニュース（北海道 釣り）</category>
+      <fog:species>サケ</fog:species>
     </item>
     <item>
       <title>【トラウト釣り】愛しのドールと釣り旅！北海道でオショロコマ&amp;アメマス（釣りビジョン マガジン） - Yahoo!ニュース</title>
@@ -5975,6 +6048,17 @@
       <fog:species>ヒラメ</fog:species>
     </item>
     <item>
+      <title>室蘭崎守・北春丸＝北山船長 - 日刊スポーツ</title>
+      <link>https://news.google.com/rss/articles/CBMikAFBVV95cUxNand2M3JaOC14VnNUc09zTVJWNmxod1dLZTYxTDBsUFFnTjFpTWlFTjE4TEVPMWxpWUxtZXdzX0tHY291V1dhWXFveWNvb1RmdWtFU1BQRTEzMFhuc0ZPSmpLR1hLRGtnS3ZldUxrUllYRGlNQlhJb0dVem05UUswVHVyWFZ1MWJTaHZrVW5TWEM?oc=5</link>
+      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMikAFBVV95cUxNand2M3JaOC14VnNUc09zTVJWNmxod1dLZTYxTDBsUFFnTjFpTWlFTjE4TEVPMWxpWUxtZXdzX0tHY291V1dhWXFveWNvb1RmdWtFU1BQRTEzMFhuc0ZPSmpLR1hLRGtnS3ZldUxrUllYRGlNQlhJb0dVem05UUswVHVyWFZ1MWJTaHZrVW5TWEM?oc=5</guid>
+      <pubDate>Fri, 24 Jul 2026 07:00:00 +0000</pubDate>
+      <description>Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News. ｜ 場所: 室蘭（Google ニュース（北海道 釣果））</description>
+      <category>Google ニュース（北海道 釣果）</category>
+      <fog:place>室蘭</fog:place>
+      <fog:lat>42.31500</fog:lat>
+      <fog:lon>140.97400</fog:lon>
+    </item>
+    <item>
       <title>初夏の北海道で30cm級アイナメ連発！ パックロッド片手に噴火湾をランガン - TSURINEWS</title>
       <link>https://news.google.com/rss/articles/CBMiQkFVX3lxTE9iUEp0dDYyYnJSMkE1UzIwalczVm9SRmw3MHVIRW51Rk9OQ01STVB6REJQM2JVQlZsTEJkZkRrY3dyUQ?oc=5</link>
       <guid isPermaLink="true">https://news.google.com/rss/articles/CBMiQkFVX3lxTE9iUEp0dDYyYnJSMkE1UzIwalczVm9SRmw3MHVIRW51Rk9OQ01STVB6REJQM2JVQlZsTEJkZkRrY3dyUQ?oc=5</guid>
@@ -6114,14 +6198,6 @@
       <description>【北海道でチップ釣り】銀色の魚体も湖面もキラキラ！「チップ」と呼ばれるサケ科のヒメマス“水温低く”序盤の釣果は『厳しめ』―8月末ごろまで〈北海道千歳市〉 UHB 北海道文化放送 ｜ 魚種: サケ（Google ニュース（北海道 釣果））</description>
       <category>Google ニュース（北海道 釣果）</category>
       <fog:species>サケ</fog:species>
-    </item>
-    <item>
-      <title>北海道の釣りは車移動が基本？ 公共機関の利用で行ける釣りプランを考えてみた - TSURINEWS</title>
-      <link>https://news.google.com/rss/articles/CBMiQkFVX3lxTFBsbldWZElQU2pxX3F1TEtRbHZVM3pJeDlWbFUxZHFGREpaZ1pKdURveVNRX0xCYmI4UUZEWE1oeXZLQQ?oc=5</link>
-      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMiQkFVX3lxTFBsbldWZElQU2pxX3F1TEtRbHZVM3pJeDlWbFUxZHFGREpaZ1pKdURveVNRX0xCYmI4UUZEWE1oeXZLQQ?oc=5</guid>
-      <pubDate>Wed, 03 Jun 2026 07:00:00 +0000</pubDate>
-      <description>北海道の釣りは車移動が基本？ 公共機関の利用で行ける釣りプランを考えてみた TSURINEWS（Google ニュース（北海道 釣果））</description>
-      <category>Google ニュース（北海道 釣果）</category>
     </item>
     <item>
       <title>【函館】スルメイカ漁解禁も「イカがいないので、もう帰る」価格は20年前と比べて約4倍に高騰 専門家が指摘する不漁の要因 - TBS NEWS DIG</title>
