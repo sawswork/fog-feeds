@@ -1,28 +1,28 @@
 {
- "updatedAt": "2026-11-27T01:59:03.128581+09:00",
+ "updatedAt": "2026-11-27T10:46:10.954824+09:00",
  "stats": [
   {
    "source": "Google ニュース（北海道 釣果）",
    "status": "OK",
-   "links": 88,
-   "new": 30
+   "links": 37,
+   "new": 27
   },
   {
    "source": "Google ニュース（北海道 釣り）",
    "status": "OK",
-   "links": 58,
-   "new": 24
+   "links": 57,
+   "new": 26
   },
   {
    "source": "Google ニュース（函館 釣り）",
    "status": "OK",
-   "links": 42,
+   "links": 76,
    "new": 30
   },
   {
    "source": "Google ニュース（道南 釣果）",
    "status": "OK",
-   "links": 38,
+   "links": 24,
    "new": 4
   },
   {
@@ -35,7 +35,7 @@
    "source": "みんなの北海道釣り情報",
    "status": "OK",
    "links": 30,
-   "new": 2
+   "new": 0
   },
   {
    "source": "フィッシングショップ・インパクト（ブログ）",
@@ -47,7 +47,7 @@
    "source": "エギCOM 北海道",
    "status": "OK",
    "links": 8,
-   "new": 6
+   "new": 3
   },
   {
    "source": "エギCOM 函館",
@@ -76,7 +76,7 @@
   {
    "source": "TSURI HACK",
    "status": "OK",
-   "links": 54,
+   "links": 53,
    "new": 0
   },
   {
@@ -119,7 +119,7 @@
    "source": "Google ニュース（噴火湾 釣り）",
    "status": "OK",
    "links": 51,
-   "new": 20
+   "new": 18
   },
   {
    "source": "Google ニュース（鹿部 釣り）",
@@ -130,26 +130,26 @@
   {
    "source": "Google ニュース（八雲 釣り）",
    "status": "OK",
-   "links": 46,
-   "new": 4
+   "links": 10,
+   "new": 2
   },
   {
    "source": "Google ニュース（森町 釣り）",
    "status": "OK",
-   "links": 30,
+   "links": 12,
    "new": 5
   },
   {
    "source": "Google ニュース（北斗市 釣り）",
    "status": "OK",
-   "links": 26,
+   "links": 72,
    "new": 0
   },
   {
    "source": "Google ニュース（松前 江差 釣り）",
    "status": "OK",
-   "links": 63,
-   "new": 3
+   "links": 28,
+   "new": 0
   }
  ],
  "items": [
@@ -269,6 +269,45 @@
    ],
    "hakodate": false,
    "firstSeen": "2026-11-27T01:59:03.128581+09:00"
+  },
+  {
+   "title": "14 HIT タクポン さん 2026-11-26 17:35 ツツイカ：100g以下 釣果場所： 全国 北海道 釣り場所：防波堤 同じ場所には溜まってませんでした。 足元でキャッチ！ 詳細ページ →",
+   "link": "https://www.yamaria.com/catches/1328606",
+   "summary": "",
+   "date": "2026-11-26T00:00:00+09:00",
+   "source": "エギCOM 北海道",
+   "places": [],
+   "species": [
+    "イカ"
+   ],
+   "hakodate": false,
+   "firstSeen": "2026-11-27T10:46:10.954824+09:00"
+  },
+  {
+   "title": "15 HIT タクポン さん 2026-11-26 17:13 ツツイカ：100g以下 釣果場所： 全国 北海道 釣り場所：防波堤 同じ場所に投げてキャッチ！ 溜まってるのか？ 詳細ページ →",
+   "link": "https://www.yamaria.com/catches/1328605",
+   "summary": "",
+   "date": "2026-11-26T00:00:00+09:00",
+   "source": "エギCOM 北海道",
+   "places": [],
+   "species": [
+    "イカ"
+   ],
+   "hakodate": false,
+   "firstSeen": "2026-11-27T10:46:10.954824+09:00"
+  },
+  {
+   "title": "16 HIT タクポン さん 2026-11-26 16:38 ツツイカ：100g以下 釣果場所： 全国 北海道 釣り場所：防波堤 #エギチャレX2026 遠投ベタ底ステイからの巻きでキャッチ！ 詳細ページ →",
+   "link": "https://www.yamaria.com/catches/1328603",
+   "summary": "",
+   "date": "2026-11-26T00:00:00+09:00",
+   "source": "エギCOM 北海道",
+   "places": [],
+   "species": [
+    "イカ"
+   ],
+   "hakodate": false,
+   "firstSeen": "2026-11-27T10:46:10.954824+09:00"
   },
   {
    "title": "高騰する船の燃料代を大幅に節約「魚群探知機」で漁師のスマホに魚の居場所が！北海道の海に“ＩＴの波”【STVみらいWEEK】 - 日テレNEWS NNN",
