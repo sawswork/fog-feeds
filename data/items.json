@@ -1,29 +1,29 @@
 {
- "updatedAt": "2026-11-27T10:46:10.954824+09:00",
+ "updatedAt": "2026-11-27T21:34:16.466707+09:00",
  "stats": [
   {
    "source": "Google ニュース（北海道 釣果）",
    "status": "OK",
-   "links": 37,
-   "new": 27
+   "links": 100,
+   "new": 30
   },
   {
    "source": "Google ニュース（北海道 釣り）",
    "status": "OK",
-   "links": 57,
-   "new": 26
+   "links": 58,
+   "new": 25
   },
   {
    "source": "Google ニュース（函館 釣り）",
    "status": "OK",
-   "links": 76,
+   "links": 41,
    "new": 30
   },
   {
    "source": "Google ニュース（道南 釣果）",
    "status": "OK",
-   "links": 24,
-   "new": 4
+   "links": 25,
+   "new": 2
   },
   {
    "source": "FISHLAND（道内全店）",
@@ -35,7 +35,7 @@
    "source": "みんなの北海道釣り情報",
    "status": "OK",
    "links": 30,
-   "new": 0
+   "new": 2
   },
   {
    "source": "フィッシングショップ・インパクト（ブログ）",
@@ -59,7 +59,7 @@
    "source": "タックルベリー函館店",
    "status": "OK",
    "links": 6,
-   "new": 0
+   "new": 1
   },
   {
    "source": "TSURINEWS",
@@ -76,7 +76,7 @@
   {
    "source": "TSURI HACK",
    "status": "OK",
-   "links": 53,
+   "links": 54,
    "new": 0
   },
   {
@@ -118,38 +118,38 @@
   {
    "source": "Google ニュース（噴火湾 釣り）",
    "status": "OK",
-   "links": 51,
-   "new": 18
+   "links": 27,
+   "new": 19
   },
   {
    "source": "Google ニュース（鹿部 釣り）",
    "status": "OK",
-   "links": 27,
+   "links": 26,
    "new": 0
   },
   {
    "source": "Google ニュース（八雲 釣り）",
    "status": "OK",
-   "links": 10,
-   "new": 2
+   "links": 9,
+   "new": 3
   },
   {
    "source": "Google ニュース（森町 釣り）",
    "status": "OK",
-   "links": 12,
-   "new": 5
+   "links": 10,
+   "new": 2
   },
   {
    "source": "Google ニュース（北斗市 釣り）",
    "status": "OK",
-   "links": 72,
+   "links": 24,
    "new": 0
   },
   {
    "source": "Google ニュース（松前 江差 釣り）",
    "status": "OK",
-   "links": 28,
-   "new": 0
+   "links": 60,
+   "new": 5
   }
  ],
  "items": [
@@ -180,6 +180,56 @@
    ],
    "hakodate": false,
    "firstSeen": "2026-11-07T22:10:29.321923+09:00"
+  },
+  {
+   "title": "雄武のおすすめ釣りポイント｜釣れる魚・時期・注意点をわかりやすく！",
+   "link": "https://fishinglife.hatenadiary.jp/entry/2026/11/27/210758",
+   "summary": "※2026年11月に公開しました。ポイントの立入可否やルールは変わることがあるため、出かける前に最新情報の確認をお願いします。立入禁止の区域や投げ釣りができない場所もあるため、現地の表示を必ず確認してください。 雄武（おうむ）は、北海道のオホーツク沿岸にある漁港のまちです。雄武漁港を中心に、カレイやチカ、コマイなどの魚が狙える釣り場として知られています。この記事では、雄武で釣れる魚や時期、釣り方、注意点をわかりやすくまとめました。 雄武で釣りができる主なエリア 雄武漁港：雄武の中心となる漁港です。堤防から釣りを楽しめます。 雄武漁港の堤防：サビキ釣りや投げ釣りができる場所です。漁港は漁業者の仕事場でもあるため、船の出入りや作業の邪魔にならない場所を選んでください。 雄武川の河口付近：河口付近はサケ・マスの採捕制限がある場合があるため、釣りをする前に必ず現地の表示で確認してください。 雄武で…",
+   "date": "2026-11-27T21:07:58+09:00",
+   "source": "みんなの北海道釣り情報",
+   "places": [
+    "オホーツク",
+    "雄武漁港",
+    "雄武"
+   ],
+   "species": [
+    "カレイ",
+    "チカ",
+    "コマイ",
+    "サケ"
+   ],
+   "hakodate": false,
+   "firstSeen": "2026-11-27T21:34:16.466707+09:00"
+  },
+  {
+   "title": "【速報】網走・斜里方面のサケ釣り自粛要請は11月30日で終了｜12月以降も河口規制と3本・3尾ルールに注意",
+   "link": "https://fishinglife.hatenadiary.jp/entry/2026/11/27/175639",
+   "summary": "※2026年11月27日に公開しました。釣りのルールや自粛要請の期間は変わることがあるため、出かける前に最新情報の確認をお願いします。 オホーツク総合振興局管内の秋サケ来遊が前年の57％にとどまり、平成以降で最も厳しい状況になっています。こうした資源状況を受けて、網走・斜里方面のサケ釣りについて呼びかけられていた自粛要請が、2026年11月30日で終了します。この記事では、要請終了の内容と、12月以降も気をつけたいルールをまとめました。 写真はイメージです。 結論：自粛要請は11月30日で終了します 項目 内容 自粛要請の期間 2026年11月20日〜11月30日（11日間） 対象 網走・斜里方面のサケ釣り（オホーツク総合振興局管内の全海域） 終了後 12月1日以降は要請期間の対象外になります 注意点 河口規制や竿の本数・尾数のルールは別途続く場合があります 自粛要請が終わるのは、あくまで…",
+   "date": "2026-11-27T17:56:39+09:00",
+   "source": "みんなの北海道釣り情報",
+   "places": [
+    "オホーツク",
+    "斜里",
+    "網走"
+   ],
+   "species": [
+    "サケ"
+   ],
+   "hakodate": false,
+   "firstSeen": "2026-11-27T21:34:16.466707+09:00"
+  },
+  {
+   "title": "2026/11/27 △▲△ブラックフライデーセール！！△▲△",
+   "link": "https://www.tackleberry.co.jp/shop/30011066/2026/11/27/%e2%96%b3%e2%96%b2%e2%96%b3%e3%83%96%e3%83%a9%e3%83%83%e3%82%af%e3%83%95%e3%83%a9%e3%82%a4%e3%83%87%e3%83%bc%e3%82%bb%e3%83%bc%e3%83%ab%ef%bc%81%ef%bc%81%e2%96%b3%e2%96%b2%e2%96%b3-4/",
+   "summary": "Just another 釣具の販売｜中古釣具オークション、高価買取、通販【タックルベリー】サイト site",
+   "date": "2026-11-27T00:00:00+09:00",
+   "source": "タックルベリー函館店",
+   "places": [
+    "函館"
+   ],
+   "species": [],
+   "hakodate": true,
+   "firstSeen": "2026-11-27T21:34:16.466707+09:00"
   },
   {
    "title": "初山別のおすすめ釣りポイント｜釣れる魚・時期・注意点をわかりやすく！",
@@ -601,6 +651,45 @@
    ],
    "hakodate": false,
    "firstSeen": "2026-11-27T01:59:03.128581+09:00"
+  },
+  {
+   "title": "32 HIT キャプテン ポリッシュ さん 2026-11-24 20:48 ツツイカ：100g〜300g 釣果場所： 全国 北海道 釣り場所：防波堤 #エギチャレX2026 毎週懲りずに来てるけど、何か良い時に当たらんの〜。 詳細ページ ",
+   "link": "https://www.yamaria.com/catches/1328672",
+   "summary": "",
+   "date": "2026-11-24T00:00:00+09:00",
+   "source": "エギCOM 北海道",
+   "places": [],
+   "species": [
+    "イカ"
+   ],
+   "hakodate": false,
+   "firstSeen": "2026-11-27T21:34:16.466707+09:00"
+  },
+  {
+   "title": "32 HIT キャプテン ポリッシュ さん 2026-11-24 20:34 ツツイカ：100g以下 釣果場所： 全国 北海道 釣り場所：防波堤 #エギチャレX2026 薄いが、たまに釣れるので帰りにくい。 詳細ページ →",
+   "link": "https://www.yamaria.com/catches/1328670",
+   "summary": "",
+   "date": "2026-11-24T00:00:00+09:00",
+   "source": "エギCOM 北海道",
+   "places": [],
+   "species": [
+    "イカ"
+   ],
+   "hakodate": false,
+   "firstSeen": "2026-11-27T21:34:16.466707+09:00"
+  },
+  {
+   "title": "33 HIT キャプテン ポリッシュ さん 2026-11-24 20:25 ツツイカ：100g以下 釣果場所： 全国 北海道 釣り場所：防波堤 #エギチャレX2026 2時間後、猛吹雪。 詳細ページ →",
+   "link": "https://www.yamaria.com/catches/1328669",
+   "summary": "",
+   "date": "2026-11-24T00:00:00+09:00",
+   "source": "エギCOM 北海道",
+   "places": [],
+   "species": [
+    "イカ"
+   ],
+   "hakodate": false,
+   "firstSeen": "2026-11-27T21:34:16.466707+09:00"
   },
   {
    "title": "【2026年11月】磯竿人気ランキングTOP10｜堤防のウキ釣り・カゴ釣りの竿を口コミが多い順に並べてみた",
@@ -8475,17 +8564,6 @@
    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBlS2J3MG40UkkydmFVaGRGc3JDczNuLUJWQUNsRDMzd1k3d1RrYTVhU3dqUnJrYkZUS21Bay04cUVGSUxVekhrZ3BUVGZkcWxtYjd1MDVGN3U5WWg0b056WldTQzgzY2FOaXE3RmZ5WWNvT2o2R1d1RTVLY20wS3c?oc=5",
    "summary": "【トラウト釣り】愛しのドールと釣り旅！北海道でオショロコマ&アメマス（釣りビジョン マガジン） Yahoo!ニュース",
    "date": "2026-08-30T07:00:00+00:00",
-   "source": "Google ニュース（北海道 釣り）",
-   "places": [],
-   "species": [],
-   "hakodate": false,
-   "firstSeen": "2026-11-05T12:56:58.716106+09:00"
-  },
-  {
-   "title": "【巨大魚釣り】北海道の海でモンスター・オヒョウを仕留める（釣りビジョン マガジン） - Yahoo!ニュース",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9RZDRnZUQwQy1MR2RyLWc1ZEw3anBxZy00SXVpcVBXTDR1V1BQaTZCVHl3SFhDaFRtUWJObnQ4dzdIcVczTU8xcFQ2ckZEM1IwdlJLNmw3aGhCTDl4Y0tVdE9aODlGeUxibTNRNEw2dlhubmN6Q3BBLXdZWlZLNE0?oc=5",
-   "summary": "【巨大魚釣り】北海道の海でモンスター・オヒョウを仕留める（釣りビジョン マガジン） Yahoo!ニュース",
-   "date": "2026-08-29T07:00:00+00:00",
    "source": "Google ニュース（北海道 釣り）",
    "places": [],
    "species": [],
