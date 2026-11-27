@@ -4,7 +4,7 @@
     <title>函館周辺の釣果情報（fog-feeds）</title>
     <link>https://github.com/sawswork/fog-feeds</link>
     <description>道南・函館周辺の釣果・釣行情報を複数のサイトから集めたもの。見出しと短い説明、元記事へのリンク。</description>
-    <lastBuildDate>Fri, 27 Nov 2026 21:34:16 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 28 Nov 2026 08:29:46 +0900</lastBuildDate>
     <item>
       <title>2026/11/27 △▲△ブラックフライデーセール！！△▲△</title>
       <link>https://www.tackleberry.co.jp/shop/30011066/2026/11/27/%e2%96%b3%e2%96%b2%e2%96%b3%e3%83%96%e3%83%a9%e3%83%83%e3%82%af%e3%83%95%e3%83%a9%e3%82%a4%e3%83%87%e3%83%bc%e3%82%bb%e3%83%bc%e3%83%ab%ef%bc%81%ef%bc%81%e2%96%b3%e2%96%b2%e2%96%b3-4/</link>
@@ -15,6 +15,78 @@
       <fog:place>函館</fog:place>
       <fog:lat>41.76870</fog:lat>
       <fog:lon>140.72900</fog:lon>
+    </item>
+    <item>
+      <title>61 HIT kuro さん 2026-11-27 20:46 ツツイカ：100g以下 釣果場所： 北海道 函館 釣り場所：防波堤 #エギチャレX2026 ボトムで！ 詳細ページ →</title>
+      <link>https://www.yamaria.com/catches/1328832</link>
+      <guid isPermaLink="true">https://www.yamaria.com/catches/1328832</guid>
+      <pubDate>Fri, 27 Nov 2026 00:00:00 +0900</pubDate>
+      <description>場所: 函館 / 魚種: イカ（エギCOM 函館）</description>
+      <category>エギCOM 函館</category>
+      <fog:place>函館</fog:place>
+      <fog:lat>41.76870</fog:lat>
+      <fog:lon>140.72900</fog:lon>
+      <fog:species>イカ</fog:species>
+    </item>
+    <item>
+      <title>58 HIT kuro さん 2026-11-27 20:27 ツツイカ：100g以下 釣果場所： 北海道 函館 釣り場所：防波堤 #エギチャレX2026 ボトムで！ 詳細ページ →</title>
+      <link>https://www.yamaria.com/catches/1328831</link>
+      <guid isPermaLink="true">https://www.yamaria.com/catches/1328831</guid>
+      <pubDate>Fri, 27 Nov 2026 00:00:00 +0900</pubDate>
+      <description>場所: 函館 / 魚種: イカ（エギCOM 函館）</description>
+      <category>エギCOM 函館</category>
+      <fog:place>函館</fog:place>
+      <fog:lat>41.76870</fog:lat>
+      <fog:lon>140.72900</fog:lon>
+      <fog:species>イカ</fog:species>
+    </item>
+    <item>
+      <title>57 HIT kuro さん 2026-11-27 20:10 ツツイカ：100g以下 釣果場所： 北海道 函館 釣り場所：防波堤 #エギチャレX2026 雨予報で釣れてない情報入ったのでゆっくり飲もうかと思ってたら悪いお誘い…🤣 暗がりを</title>
+      <link>https://www.yamaria.com/catches/1328828</link>
+      <guid isPermaLink="true">https://www.yamaria.com/catches/1328828</guid>
+      <pubDate>Fri, 27 Nov 2026 00:00:00 +0900</pubDate>
+      <description>場所: 函館 / 魚種: イカ（エギCOM 函館）</description>
+      <category>エギCOM 函館</category>
+      <fog:place>函館</fog:place>
+      <fog:lat>41.76870</fog:lat>
+      <fog:lon>140.72900</fog:lon>
+      <fog:species>イカ</fog:species>
+    </item>
+    <item>
+      <title>48 HIT うみきち🎣🦑 さん 2026-11-27 17:11 ツツイカ：100g〜300g 釣果場所： 北海道 函館 釣り場所：防波堤 #エギチャレX2026 ここの場所も終わりの様です。 昨日はボウズ食らいました。 海鵜が潜って鯖を</title>
+      <link>https://www.yamaria.com/catches/1328825</link>
+      <guid isPermaLink="true">https://www.yamaria.com/catches/1328825</guid>
+      <pubDate>Fri, 27 Nov 2026 00:00:00 +0900</pubDate>
+      <description>場所: 函館 / 魚種: イカ（エギCOM 函館）</description>
+      <category>エギCOM 函館</category>
+      <fog:place>函館</fog:place>
+      <fog:lat>41.76870</fog:lat>
+      <fog:lon>140.72900</fog:lon>
+      <fog:species>イカ</fog:species>
+    </item>
+    <item>
+      <title>17 HIT Bマサ さん 2026-11-27 18:39 ツツイカ：100g以下 釣果場所： 北海道 函館 釣り場所：防波堤 #エギチャレX2026これもボトムで！ 詳細ページ →</title>
+      <link>https://www.yamaria.com/catches/1328822</link>
+      <guid isPermaLink="true">https://www.yamaria.com/catches/1328822</guid>
+      <pubDate>Fri, 27 Nov 2026 00:00:00 +0900</pubDate>
+      <description>場所: 函館 / 魚種: イカ（エギCOM 函館）</description>
+      <category>エギCOM 函館</category>
+      <fog:place>函館</fog:place>
+      <fog:lat>41.76870</fog:lat>
+      <fog:lon>140.72900</fog:lon>
+      <fog:species>イカ</fog:species>
+    </item>
+    <item>
+      <title>18 HIT Bマサ さん 2026-11-27 18:31 ツツイカ：100g以下 釣果場所： 北海道 函館 釣り場所：防波堤 #エギチャレX20262投目ボトムで！ 詳細ページ →</title>
+      <link>https://www.yamaria.com/catches/1328821</link>
+      <guid isPermaLink="true">https://www.yamaria.com/catches/1328821</guid>
+      <pubDate>Fri, 27 Nov 2026 00:00:00 +0900</pubDate>
+      <description>場所: 函館 / 魚種: イカ（エギCOM 函館）</description>
+      <category>エギCOM 函館</category>
+      <fog:place>函館</fog:place>
+      <fog:lat>41.76870</fog:lat>
+      <fog:lon>140.72900</fog:lon>
+      <fog:species>イカ</fog:species>
     </item>
     <item>
       <title>2026ナイトロック</title>

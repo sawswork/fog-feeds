@@ -1,29 +1,29 @@
 {
- "updatedAt": "2026-11-27T21:34:16.466707+09:00",
+ "updatedAt": "2026-11-28T08:29:46.938826+09:00",
  "stats": [
   {
    "source": "Google ニュース（北海道 釣果）",
    "status": "OK",
-   "links": 100,
-   "new": 30
+   "links": 36,
+   "new": 26
   },
   {
    "source": "Google ニュース（北海道 釣り）",
    "status": "OK",
-   "links": 58,
-   "new": 25
+   "links": 100,
+   "new": 24
   },
   {
    "source": "Google ニュース（函館 釣り）",
    "status": "OK",
-   "links": 41,
+   "links": 42,
    "new": 30
   },
   {
    "source": "Google ニュース（道南 釣果）",
    "status": "OK",
-   "links": 25,
-   "new": 2
+   "links": 39,
+   "new": 4
   },
   {
    "source": "FISHLAND（道内全店）",
@@ -35,7 +35,7 @@
    "source": "みんなの北海道釣り情報",
    "status": "OK",
    "links": 30,
-   "new": 2
+   "new": 0
   },
   {
    "source": "フィッシングショップ・インパクト（ブログ）",
@@ -47,19 +47,19 @@
    "source": "エギCOM 北海道",
    "status": "OK",
    "links": 8,
-   "new": 3
+   "new": 8
   },
   {
    "source": "エギCOM 函館",
    "status": "OK",
    "links": 8,
-   "new": 0
+   "new": 6
   },
   {
    "source": "タックルベリー函館店",
    "status": "OK",
    "links": 6,
-   "new": 1
+   "new": 0
   },
   {
    "source": "TSURINEWS",
@@ -76,7 +76,7 @@
   {
    "source": "TSURI HACK",
    "status": "OK",
-   "links": 54,
+   "links": 55,
    "new": 0
   },
   {
@@ -118,38 +118,38 @@
   {
    "source": "Google ニュース（噴火湾 釣り）",
    "status": "OK",
-   "links": 27,
+   "links": 53,
    "new": 19
   },
   {
    "source": "Google ニュース（鹿部 釣り）",
    "status": "OK",
-   "links": 26,
+   "links": 9,
    "new": 0
   },
   {
    "source": "Google ニュース（八雲 釣り）",
    "status": "OK",
    "links": 9,
-   "new": 3
+   "new": 2
   },
   {
    "source": "Google ニュース（森町 釣り）",
    "status": "OK",
-   "links": 10,
-   "new": 2
+   "links": 33,
+   "new": 6
   },
   {
    "source": "Google ニュース（北斗市 釣り）",
    "status": "OK",
-   "links": 24,
+   "links": 23,
    "new": 0
   },
   {
    "source": "Google ニュース（松前 江差 釣り）",
    "status": "OK",
-   "links": 60,
-   "new": 5
+   "links": 30,
+   "new": 0
   }
  ],
  "items": [
@@ -230,6 +230,180 @@
    "species": [],
    "hakodate": true,
    "firstSeen": "2026-11-27T21:34:16.466707+09:00"
+  },
+  {
+   "title": "0 HIT フルさん さん 2026-11-27 18:51 ツツイカ：100g以下 釣果場所： 全国 北海道 釣り場所：防波堤 #エギチャレX2026 渋い、渋過ぎ 1尾のみで移動する 詳細ページ →",
+   "link": "https://www.yamaria.com/catches/1329098",
+   "summary": "",
+   "date": "2026-11-27T00:00:00+09:00",
+   "source": "エギCOM 北海道",
+   "places": [],
+   "species": [
+    "イカ"
+   ],
+   "hakodate": false,
+   "firstSeen": "2026-11-28T08:29:46.938826+09:00"
+  },
+  {
+   "title": "1 HIT kuro さん 2026-11-27 21:08 ツツイカ：100g以下 釣果場所： 全国 北海道 釣り場所：防波堤 #エギチャレX2026 ボトムで！ 詳細ページ →",
+   "link": "https://www.yamaria.com/catches/1329096",
+   "summary": "",
+   "date": "2026-11-27T00:00:00+09:00",
+   "source": "エギCOM 北海道",
+   "places": [],
+   "species": [
+    "イカ"
+   ],
+   "hakodate": false,
+   "firstSeen": "2026-11-28T08:29:46.938826+09:00"
+  },
+  {
+   "title": "1 HIT kuro さん 2026-11-27 20:58 ツツイカ：100g以下 釣果場所： 全国 北海道 釣り場所：防波堤 #エギチャレX2026 ボトムで！ 詳細ページ →",
+   "link": "https://www.yamaria.com/catches/1329093",
+   "summary": "",
+   "date": "2026-11-27T00:00:00+09:00",
+   "source": "エギCOM 北海道",
+   "places": [],
+   "species": [
+    "イカ"
+   ],
+   "hakodate": false,
+   "firstSeen": "2026-11-28T08:29:46.938826+09:00"
+  },
+  {
+   "title": "79 HIT レオ（札幌） さん 2026-11-27 21:36 ツツイカ：100g以下 釣果場所： 全国 北海道 釣り場所：防波堤 #エギチャレX2026 横風なので辛いです。 雨が降ってきて、チョット風が弱いタイミングで投げてカウント",
+   "link": "https://www.yamaria.com/catches/1328971",
+   "summary": "",
+   "date": "2026-11-27T00:00:00+09:00",
+   "source": "エギCOM 北海道",
+   "places": [
+    "札幌"
+   ],
+   "species": [
+    "イカ"
+   ],
+   "hakodate": false,
+   "firstSeen": "2026-11-28T08:29:46.938826+09:00"
+  },
+  {
+   "title": "78 HIT レオ（札幌） さん 2026-11-27 20:30 ツツイカ：100g以下 釣果場所： 全国 北海道 釣り場所：防波堤 #エギチャレX2026 爆風で普段使わないディープを使います。 エギが浮かび上がらないように意識して引っ",
+   "link": "https://www.yamaria.com/catches/1328969",
+   "summary": "",
+   "date": "2026-11-27T00:00:00+09:00",
+   "source": "エギCOM 北海道",
+   "places": [
+    "札幌"
+   ],
+   "species": [
+    "イカ"
+   ],
+   "hakodate": false,
+   "firstSeen": "2026-11-28T08:29:46.938826+09:00"
+  },
+  {
+   "title": "74 HIT レオ（札幌） さん 2026-11-27 19:21 ツツイカ：100g以下 釣果場所： 全国 北海道 釣り場所：防波堤 #エギチャレX2026 なかなかの爆風ですが、南風なので気温も高め。氷点下でないので暖かく感じます。 た",
+   "link": "https://www.yamaria.com/catches/1328968",
+   "summary": "",
+   "date": "2026-11-27T00:00:00+09:00",
+   "source": "エギCOM 北海道",
+   "places": [
+    "札幌"
+   ],
+   "species": [
+    "イカ"
+   ],
+   "hakodate": false,
+   "firstSeen": "2026-11-28T08:29:46.938826+09:00"
+  },
+  {
+   "title": "61 HIT kuro さん 2026-11-27 20:46 ツツイカ：100g以下 釣果場所： 北海道 函館 釣り場所：防波堤 #エギチャレX2026 ボトムで！ 詳細ページ →",
+   "link": "https://www.yamaria.com/catches/1328832",
+   "summary": "",
+   "date": "2026-11-27T00:00:00+09:00",
+   "source": "エギCOM 函館",
+   "places": [
+    "函館"
+   ],
+   "species": [
+    "イカ"
+   ],
+   "hakodate": true,
+   "firstSeen": "2026-11-28T08:29:46.938826+09:00"
+  },
+  {
+   "title": "58 HIT kuro さん 2026-11-27 20:27 ツツイカ：100g以下 釣果場所： 北海道 函館 釣り場所：防波堤 #エギチャレX2026 ボトムで！ 詳細ページ →",
+   "link": "https://www.yamaria.com/catches/1328831",
+   "summary": "",
+   "date": "2026-11-27T00:00:00+09:00",
+   "source": "エギCOM 函館",
+   "places": [
+    "函館"
+   ],
+   "species": [
+    "イカ"
+   ],
+   "hakodate": true,
+   "firstSeen": "2026-11-28T08:29:46.938826+09:00"
+  },
+  {
+   "title": "57 HIT kuro さん 2026-11-27 20:10 ツツイカ：100g以下 釣果場所： 北海道 函館 釣り場所：防波堤 #エギチャレX2026 雨予報で釣れてない情報入ったのでゆっくり飲もうかと思ってたら悪いお誘い…🤣 暗がりを",
+   "link": "https://www.yamaria.com/catches/1328828",
+   "summary": "",
+   "date": "2026-11-27T00:00:00+09:00",
+   "source": "エギCOM 函館",
+   "places": [
+    "函館"
+   ],
+   "species": [
+    "イカ"
+   ],
+   "hakodate": true,
+   "firstSeen": "2026-11-28T08:29:46.938826+09:00"
+  },
+  {
+   "title": "48 HIT うみきち🎣🦑 さん 2026-11-27 17:11 ツツイカ：100g〜300g 釣果場所： 北海道 函館 釣り場所：防波堤 #エギチャレX2026 ここの場所も終わりの様です。 昨日はボウズ食らいました。 海鵜が潜って鯖を",
+   "link": "https://www.yamaria.com/catches/1328825",
+   "summary": "",
+   "date": "2026-11-27T00:00:00+09:00",
+   "source": "エギCOM 函館",
+   "places": [
+    "函館"
+   ],
+   "species": [
+    "イカ"
+   ],
+   "hakodate": true,
+   "firstSeen": "2026-11-28T08:29:46.938826+09:00"
+  },
+  {
+   "title": "17 HIT Bマサ さん 2026-11-27 18:39 ツツイカ：100g以下 釣果場所： 北海道 函館 釣り場所：防波堤 #エギチャレX2026これもボトムで！ 詳細ページ →",
+   "link": "https://www.yamaria.com/catches/1328822",
+   "summary": "",
+   "date": "2026-11-27T00:00:00+09:00",
+   "source": "エギCOM 函館",
+   "places": [
+    "函館"
+   ],
+   "species": [
+    "イカ"
+   ],
+   "hakodate": true,
+   "firstSeen": "2026-11-28T08:29:46.938826+09:00"
+  },
+  {
+   "title": "18 HIT Bマサ さん 2026-11-27 18:31 ツツイカ：100g以下 釣果場所： 北海道 函館 釣り場所：防波堤 #エギチャレX20262投目ボトムで！ 詳細ページ →",
+   "link": "https://www.yamaria.com/catches/1328821",
+   "summary": "",
+   "date": "2026-11-27T00:00:00+09:00",
+   "source": "エギCOM 函館",
+   "places": [
+    "函館"
+   ],
+   "species": [
+    "イカ"
+   ],
+   "hakodate": true,
+   "firstSeen": "2026-11-28T08:29:46.938826+09:00"
   },
   {
    "title": "初山別のおすすめ釣りポイント｜釣れる魚・時期・注意点をわかりやすく！",
@@ -690,6 +864,32 @@
    ],
    "hakodate": false,
    "firstSeen": "2026-11-27T21:34:16.466707+09:00"
+  },
+  {
+   "title": "23 HIT キャプテン ポリッシュ さん 2026-11-24 22:26 ツツイカ：100g〜300g 釣果場所： 全国 北海道 釣り場所：防波堤 #エギチャレX2026 うーん、薄い‥ 詳細ページ →",
+   "link": "https://www.yamaria.com/catches/1328965",
+   "summary": "",
+   "date": "2026-11-24T00:00:00+09:00",
+   "source": "エギCOM 北海道",
+   "places": [],
+   "species": [
+    "イカ"
+   ],
+   "hakodate": false,
+   "firstSeen": "2026-11-28T08:29:46.938826+09:00"
+  },
+  {
+   "title": "22 HIT キャプテン ポリッシュ さん 2026-11-24 21:39 ツツイカ：100g〜300g 釣果場所： 全国 北海道 釣り場所：防波堤 #エギチャレX2026 中層 詳細ページ →",
+   "link": "https://www.yamaria.com/catches/1328962",
+   "summary": "",
+   "date": "2026-11-24T00:00:00+09:00",
+   "source": "エギCOM 北海道",
+   "places": [],
+   "species": [
+    "イカ"
+   ],
+   "hakodate": false,
+   "firstSeen": "2026-11-28T08:29:46.938826+09:00"
   },
   {
    "title": "【2026年11月】磯竿人気ランキングTOP10｜堤防のウキ釣り・カゴ釣りの竿を口コミが多い順に並べてみた",
@@ -1776,6 +1976,20 @@
    ],
    "hakodate": false,
    "firstSeen": "2026-11-18T20:51:15.086643+09:00"
+  },
+  {
+   "title": "不漁続くサンマの群れが港に入り込み岸壁が釣り客でにぎわう 水産試験場「産卵のため南下する群れが根室港に入ったのでは」北海道根室市 - TBS NEWS DIG",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9vMDRsQllRZ3diWVVwZ1paMzdFQnFXYlRHcExQRmJULWIycmZHd2hWU0xOSEY2RnRzMUlDZF9oWkxIYTVocEZWTnd0WDZKX1lXRFNYREk3bFNpUQ?oc=5",
+   "summary": "不漁続くサンマの群れが港に入り込み岸壁が釣り客でにぎわう 水産試験場「産卵のため南下する群れが根室港に入ったのでは」北海道根室市 TBS NEWS DIG",
+   "date": "2026-11-18T08:00:00+00:00",
+   "source": "Google ニュース（北海道 釣り）",
+   "places": [
+    "根室港",
+    "根室"
+   ],
+   "species": [],
+   "hakodate": false,
+   "firstSeen": "2026-11-28T08:29:46.938826+09:00"
   },
   {
    "title": "投げ釣りの始め方｜仕掛け・遠投のコツ・釣れる魚をわかりやすく！",
